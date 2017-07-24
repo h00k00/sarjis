@@ -1,0 +1,47 @@
+{
+    "lehdennimi": "Umpah-pah - Oumpah-pah",
+    "tarinalista": [
+
+        {
+            "tekija": "Uderzo, Albert & Goscinny, Rene",
+            "tarinat": [{
+                "numero": "1. ",
+                "alkupnimi": "Le peau rouge�- 1958",
+                "nimike": "Umpah-pah 1: Päänahanmetsästäjät",
+                "julk": "Sanoma Oy - 1976"
+            }, {
+                "nimike": "Päänahan metsästäjät",
+                "julk": "Zoom 73/01-74/09"
+            }, {
+                "numero": "2. ",
+                "alkupnimi": "Sur le sentier de la guerre�- 1958",
+                "nimike": "Umpah-pah 2:Latuskajalat sotapolulla",
+                "julk": "Sanoma Oy - 1985"
+            }, {
+                "nimike": "Latuskajalat sotapolulla",
+                "julk": "Zoom 74/10-24"
+            }, {
+                "numero": "3. ",
+                "alkupnimi": "Et les pirates�- 1959",
+                "nimike": "Merirosvoja näköpiirissä",
+                "julk": "Zoom 74/25-40"
+            }, {
+                "nimike": "Umpah-pah 3: Merirosvoja näköpiirissä",
+                "julk": "Sanoma - 1986"
+            }, {
+                "numero": "4. ",
+                "alkupnimi": "Mission secrete�- 1960",
+                "nimike": "Salainen tehtävä",
+                "julk": "Zoom 74/41-kesken"
+            }, {
+                "nimike": "Umpah-pah 4: Salainen tehtävä",
+                "julk": "Sanoma - 1977"
+            }, {
+                "numero": "5. ",
+                "alkupnimi": "Contre foie-malade�- 1961",
+                "nimike": "Umpah-pah 5: Petolliset silmäpussit",
+                "julk": "Sanoma - 1977"
+            }]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "lehdennimi": "Comet",
+    "tarinalista": [{
+        "tekija": "Bretécher",
+        "tarinat": [{
+            "nimike": "Lyhyitä tarinoita",
+            "julk": "Comet 1985/1, 2"
+        }]
+    }, {
+        "tekija": "Copi",
+        "tarinat": [{
+            "nimike": "Mormors födelsedag",
+            "julk": "Comet 1985/1"
+        }, {
+            "nimike": "Skolan",
+            "julk": "Comet 1985/2"
+        }, {
+            "nimike": "Maktspelet",
+            "julk": "Comet 1985/3"
+        }]
+    }, {
+        "tekija": "Gohs, Rolf",
+        "tarinat": [{
+            "nimike": "Fågelön",
+            "julk": "Comet 1985/3"
+        }]
+    }, {
+        "tekija": "Gohs, Rolf & Sparring, Peter",
+        "tarinat": [{
+            "nimike": "Blodsmak",
+            "julk": "Comet 1985/1"
+        }]
+    }, {
+        "tekija": "Hermann",
+        "tarinat": [{
+            "nimike": "Tornen på Bois-Maury (Babette)",
+            "julk": "Comet 1985/1"
+        }]
+    }, {
+        "tekija": "Lelong",
+        "tarinat": [{
+            "nimike": "Carmen: Chips & jordnötter",
+            "julk": "Comet 1985/1"
+        }, {
+            "nimike": "Carmen: Den trasiga korgen",
+            "julk": "Comet 1985/2"
+        }, {
+            "nimike": "Carmen: Centert",
+            "julk": "Comet 1985/3"
+        }]
+    }, {
+        "tekija": "Manara, Milo",
+        "tarinat": [{
+            "nimike": "HP och Giuseppe Bergman (kesken)",
+            "julk": "Comet 1985/1-3"
+        }, {
+            "nimike": "Utan titel",
+            "julk": "Comet 1985/3"
+        }]
+    }, {
+        "tekija": "Pirinen, Joakim",
+        "tarinat": [{
+            "nimike": "Ute i skärgården",
+            "julk": "Comet 1985/2"
+        }, {
+            "nimike": "Dom små rackarna",
+            "julk": "Comet 1985/2, 3"
+        }]
+    }, {
+        "tekija": "Schuiten & Peeters",
+        "tarinat": [{
+            "nimike": "Murarna i Samaris",
+            "julk": "Comet 1985/2"
+        }]
+    }, {
+        "tekija": "Wolinski",
+        "tarinat": [{
+            "nimike": "Lyhyitä tarinoita",
+            "julk": "Comet 1985/1, 2, 3"
+        }]
+    }]
+}

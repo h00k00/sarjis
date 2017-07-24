@@ -1,0 +1,49 @@
+{
+    "lehdennimi": "Simon du Fleuve",
+    "tarinalista": [{
+        "tekija": "Auclair",
+        "tarinat": [{
+            "numero": "1. ",
+            "alkupnimi": "Le clan des centaures- 1977",
+            "nimike": "Simon 1: Slavarna",
+            "julk": "Carlsen - 1979"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "Les esclaves- 1978",
+            "nimike": "Simon 1: Slavarna",
+            "julk": "Carlsen - 1979"
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "Ma�lis- 1978",
+            "nimike": "Simon 2: Majlis",
+            "julk": "Carlsen - 1980"
+        }, {
+            "numero": "4. ",
+            "alkupnimi": "Les p�lerins- 1978",
+            "nimike": "Simon 3: Stad N.V. Nr 3",
+            "julk": "Carlsen - 1980"
+        }, {
+            "numero": "5. ",
+            "alkupnimi": "City N.W. N�3- 1979",
+            "nimike": "Simon 3: Stad N.V. Nr 3",
+            "julk": "Carlsen - 1980"
+        }, {
+            "tekija": "Riondet & Auclair",
+            "tarinat": [{
+                "numero": "6. ",
+                "alkupnimi": "L'�veilleur",
+                "nimike": "Simon - Zeuge der Zukunft 6: Der Steinerne Kreis",
+                "julk": "Carlsen verlag - 1989"
+            }, {
+                "numero": "7. ",
+                "alkupnimi": "Les chemins de l'Ogam"
+            }, {
+                "numero": "8. ",
+                "alkupnimi": "Naufrage - tome 1"
+            }, {
+                "numero": "9. ",
+                "alkupnimi": "Naufrage - tome 2"
+            }]
+        }]
+    }]
+}

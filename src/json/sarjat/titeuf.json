@@ -1,0 +1,35 @@
+{
+    "lehdennimi": "Titeuf",
+    "tarinalista": [{
+        "tekija": "Zep Philippe Chappuis",
+        "tarinat": [{
+            "numero": "1. ",
+            "alkupnimi": "Dieu, le sexe et les bretelles- 1992"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "L'amour c'est p� propre...- 1993"
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "Ca �pate les filles- 1994",
+            "nimike": "Titeuf 1: Tytöille ihmettelemistä",
+            "julk": "Egmont kustannus - 2001"
+        }, {
+            "numero": "4. ",
+            "alkupnimi": "C'est p� juste- 1995"
+        }, {
+            "numero": "5. ",
+            "alkupnimi": "Et le derriere des choses- 1996"
+        }, {
+            "numero": "6. ",
+            "alkupnimi": "Tch�, monde cruel- 1997",
+            "nimike": "Titeuf 2: Julman hauska maailma",
+            "julk": "Egmont kustannus - 2002"
+        }, {
+            "numero": "7. ",
+            "alkupnimi": "Le miracle de la vie- 1998"
+        }, {
+            "numero": "8. ",
+            "alkupnimi": "Lachez-moi le slip !- 2000"
+        }]
+    }]
+}

@@ -1,0 +1,64 @@
+{
+    "lehdennimi": "Tours de Bois-Maury",
+    "tarinalista": [{
+        "tekija": "Hermann",
+        "tarinat": [{
+            "numero": "1. ",
+            "alkupnimi": "Babette",
+            "nimike": "Tornen på Bois-Maury",
+            "julk": "Comet 1985/1"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "Eloïse de Montgri",
+            "nimike": "Eloise",
+            "julk": "Casablanca 1988/5"
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "Germain",
+            "nimike": "Germain",
+            "julk": "Epix 1989/7-10"
+        }, {
+            "numero": "4. ",
+            "alkupnimi": "Reinhardt",
+            "nimike": "Reinhardt",
+            "julk": "Epix 1990/7-10"
+        }, {
+            "numero": "5. ",
+            "alkupnimi": "Alda",
+            "nimike": "The Towers of Bois-Maurys",
+            "julk": "Heavy Metal XIV/03"
+        }, {
+            "numero": "6. ",
+            "alkupnimi": "Sigurd",
+            "nimike": "Sigurd",
+            "julk": "Interpresse - 1990"
+        }, {
+            "numero": "7. ",
+            "alkupnimi": "William",
+            "nimike": "William",
+            "julk": "Carlsen comics - 1991"
+        }, {
+            "numero": "8. ",
+            "alkupnimi": "Le Seldjouki",
+            "nimike": "Sandjar",
+            "julk": "Carlsen comics - 1992"
+        }, {
+            "numero": "9. ",
+            "alkupnimi": "Khaled"
+        }, {
+            "numero": "10. ",
+            "alkupnimi": "Olivier",
+            "nimike": "Olivier",
+            "julk": "Carlsen comics - 1994"
+        }, {
+            "numero": "11. ",
+            "alkupnimi": "Assunta- 1998"
+
+        }, {
+            "numero": "12. ",
+            "alkupnimi": "Rodrigo- 2001",
+            "nimike": "Rodrigo",
+            "julk": "Dark Horse Comics - 2001"
+        }]
+    }]
+}

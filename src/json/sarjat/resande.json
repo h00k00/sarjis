@@ -1,0 +1,35 @@
+{
+    "lehdennimi": "Resande med vinden - Les Passagers du Vent",
+    "tarinalista": [
+
+        {
+            "tekija": "Fran�ois Bourgeon",
+            "tarinat": [{
+                "numero": "1. ",
+                "alkupnimi": "La fille sous la dunette",
+                "nimike": "Resande med vinden 1: Flickan i akterhytten",
+                "julk": "Carlsen - 1981"
+            }, {
+                "numero": "2. ",
+                "alkupnimi": "Le ponton",
+                "nimike": "Resande med vinden 2: Fångskeppet",
+                "julk": "Carlsen - 1981"
+            }, {
+                "numero": "3. ",
+                "alkupnimi": "Le comptoir de Juda",
+                "nimike": "Resande med vinden 3: Fortet i Juda",
+                "julk": "Carlsen - 1982"
+            }, {
+                "numero": "4. ",
+                "alkupnimi": "L'heure du serpent",
+                "nimike": "Resande med vinden 4: Ormens timme",
+                "julk": "Carlsen - 1982"
+            }, {
+                "numero": "5. ",
+                "alkupnimi": "Le bois d'�b�ne",
+                "nimike": "Resande med vinden 5: Ebenholts i lasten",
+                "julk": "Carlsen - 1984"
+            }]
+        }
+    ]
+}

@@ -1,0 +1,338 @@
+{
+    "lehdennimi": "Ken Parker",
+    "tarinalista": [{
+        "tekija": "Julkaistut:",
+        "tarinat": [{
+            "numero": "1 - Milazzo, I & Berardi, G",
+            "alkupnimi": "Lungo fucile - 1977",
+            "nimike": "Pitkä piilukko "
+        }, {
+            "numero": "2 - Milazzo, I & Berardi, G",
+            "nimike": "Kaivoskylä",
+            "alkupnimi": "Mine Town - 1977 "
+        }, {
+            "numero": "3 - Milazzo, I & Berardi, G",
+            "nimike": "Kapinalliset",
+            "alkupnimi": "I gentiluomini - 1977 "
+        }, {
+            "numero": "4 - Milazzo, I & Berardi, G",
+            "nimike": "Salaperäinen muukalainen",
+            "alkupnimi": "Omicidio a Washington - 1977 "
+        }, {
+            "numero": "5 - Milazzo, I & Berardi, G",
+            "nimike": "\"Chemako\" Hän, joka ei muista",
+            "alkupnimi": "Chemako - 1977 "
+        }, {
+            "numero": "6 - Alessandrini, G & Berardi, G",
+            "nimike": "Tuhon tähdet",
+            "alkupnimi": "Sangue sulle stelle - 1977 "
+        }, {
+            "numero": "7 - Milazzo, I & Berardi, G",
+            "nimike": "Meksikon taivaan alla",
+            "alkupnimi": "Sotto il cielo del Messico - 1977 "
+        }, {
+            "numero": "8 - Milazzo, I & Berardi, G",
+            "nimike": "Miljoonakaappaus",
+            "alkupnimi": "Colpo grosso a San Francisco - 1978 "
+        }, {
+            "numero": "9 - Alessandrini, G & Berardi, G",
+            "nimike": "Valaanpyytäjät",
+            "alkupnimi": "Caccia sul mare - 1978 "
+        }, {
+            "numero": "Marraffa, B & Berardi, G",
+            "nimike": "Lumen maa",
+            "alkupnimi": "Le Terre bianche - 1978 "
+        }, {
+            "numero": "11 - Marraffa, B & Berardi, G",
+            "nimike": "Ihmisten kansa",
+            "alkupnimi": "Il popolo degli uomini - 1978 "
+        }, {
+            "numero": "12 - Milazzo, I & Berardi, G",
+            "nimike": "Pat O 'Shanen tarina",
+            "alkupnimi": "La ballata di Pat O 'Shane - 1978 "
+        }, {
+            "numero": "13 - Trevisan, G & Berardi, G",
+            "nimike": "Ryöstetäänkö kaupunki ?",
+            "alkupnimi": "La Citta calda - 1978 "
+        }, {
+            "numero": "14 - Alessandrini, G & Berardi, G",
+            "nimike": "Ranchero",
+            "alkupnimi": "Ranchero!-1978 "
+        }, {
+            "numero": "15 - Milazzo, I & Berardi, G",
+            "nimike": "Karjaa pohjoiseen",
+            "alkupnimi": "Uomini, bestie ed eroi - 1978 "
+        }, {
+            "numero": "16 - Marraffa, B & Berardi, G",
+            "nimike": "Päänahanmetsästäjät",
+            "alkupnimi": "Butch, l 'implacabile - 1978 "
+        }, {
+            "numero": "17 - Galegari, R & Trevisan, G & Berardi, G",
+            "nimike": "Pitkä punainen tie",
+            "alkupnimi": "La lunga pista rosso - 1978 "
+        }, {
+            "numero": "18 - Alessandrini, G & Berardi, G",
+            "nimike": "Junanryöstäjät",
+            "alkupnimi": "Santa Fe express - 1979 "
+        }, {
+            "numero": "19 - Milazzo, I & Berardi, G",
+            "nimike": "Hyödytön mies",
+            "alkupnimi": "Un uomo inutile - 1979 "
+        }, {
+            "numero": "20 - Trevisan, G & Berardi, G",
+            "nimike": "Monikasvoinen mies",
+            "alkupnimi": "0. Storia d 'armi e d' imbrogli - 1979 "
+        }, {
+            "numero": "21 - Maraffa, B & Berardi, G & Mantero",
+            "nimike": "Sallimuksen tuomio",
+            "alkupnimi": "Il giudizio di Dio - 1979 "
+        }, {
+            "numero": "22 - Alessandrini, G & Mantero, M",
+            "nimike": "Chattanoogan suuri tulipalo",
+            "alkupnimi": "Il giorno in cui bruci� Chattanooga - 1979 "
+        }, {
+            "numero": "23 - Cianti, G & Berardi, G",
+            "nimike": "Missourin kuningatar",
+            "alkupnimi": "La regina del Missouri - 1979 "
+        }, {
+            "numero": "24 - Marraffa, B & Monti, V & Mantero, M",
+            "nimike": "Vihreät dollarit - punainen nurmi",
+            "alkupnimi": "Lass� nel Montana "
+        }, {
+            "numero": "25 - Milazzo, I & Berardi, G",
+            "nimike": "Koira ja metsämies",
+            "alkupnimi": "Lily e il cacciatore - 1979 "
+        }, {
+            "numero": "26 - Milazzo, I & Ambrosini, C Mantero, M",
+            "nimike": "Punanahka",
+            "alkupnimi": "Pellerossa - 1980 "
+        }, {
+            "numero": "27 - Trevisan, G & Berardi, G",
+            "nimike": "Olipa kerran",
+            "alkupnimi": "C 'era una volta - 1980 "
+        }, {
+            "numero": "28 - Alessandrini, G & Castelli, A",
+            "nimike": "Sotilaan tarina",
+            "alkupnimi": "Il caso di Oliver Price - 1980 "
+        }, {
+            "numero": "29 - Cianti, G & Castelli, A",
+            "nimike": "Revolverimiesten ruhtinas",
+            "alkupnimi": "Il magnifico pistolero - 1980 "
+        }, {
+            "numero": "30 - Milazzo, I & Berardi, G",
+            "nimike": "Koti kultainen",
+            "alkupnimi": "Casa dolce casa - 1980 "
+        }, {
+            "numero": "31 - Marraffa, B & Mantero, M",
+            "nimike": "Pyhät kukkulat",
+            "alkupnimi": "Le colline sacre - 1980 "
+        }, {
+            "numero": "32 - Milazzo, I & Ambrosini, C & Berardi, G & Mantero",
+            "nimike": "Kenraalin legenda",
+            "alkupnimi": "La leggenda del generale - 1980 "
+        }, {
+            "numero": "33 - Trevisan, G & Berardi, G",
+            "nimike": "Milady",
+            "alkupnimi": "Milady - 1980 "
+        }, {
+            "numero": "34 - Marraffa, B & Mantero, M",
+            "nimike": "Pohjolan hanget",
+            "alkupnimi": "I cavalieri del Nord - 1980 "
+        }, {
+            "numero": "35 - Milazzo, I & Cianti, G & Sclavi, T",
+            "nimike": "Jättiläisten polku",
+            "alkupnimi": "Il sentiero dei giganti - 1980 "
+        }, {
+            "numero": "36 - Milazzo, I & Berardi, G",
+            "nimike": "Nurin ja oikein",
+            "alkupnimi": "Diritto e rovescio - 1981 "
+        }, {
+            "numero": "37 - Ambrosini, C. & Mantero, M.",
+            "nimike": "Silmä Silmästä",
+            "alkupnimi": "Cronaca - 1981 "
+        }, {
+            "numero": "38 - Marraffa, B & Mantero, M",
+            "nimike": "Runoileva rosvo",
+            "alkupnimi": "Il poeta - 1981 "
+        }, {
+            "numero": "39 - Trevisan, G & Berardi, G",
+            "nimike": "Vanha viha",
+            "alkupnimi": "Odio antico - 1981 "
+        }, {
+            "numero": "40 - Milazzo, I & Berardi, G",
+            "nimike": "Apache",
+            "alkupnimi": "0. Apache - 1981 "
+        }, {
+            "numero": "41 - Tarquinio, S & Sclavi, T",
+            "nimike": "Kultaiset kaupungit",
+            "alkupnimi": "Le sette citt� d 'oro - 1981 "
+        }, {
+            "numero": "42 - Marraffa, B & Mantero, M",
+            "nimike": "Hienot huonot naiset",
+            "alkupnimi": "Alcune signore di piccola virt� - 1981 "
+        }, {
+            "numero": "43 - Trevisan, G & Berardi, G",
+            "nimike": "Kaksi askelta paratiisiin",
+            "alkupnimi": "A due passi dal Paradiso - 1981 "
+        }, {
+            "numero": "44 - Tarquino, S & Berardi, G",
+            "nimike": "Pitkä matka Yumaan",
+            "alkupnimi": "Strada per Yuma, Sulla - 1981 "
+        }, {
+            "numero": "45 - Ambrosini, Carlo & Mantero, Maurizio",
+            "nimike": "Cochiton nainen",
+            "alkupnimi": "Donna di Cochito, La "
+        }, {
+            "numero": "46 - Milazzo, Ivo & Berardi, Giancarlo",
+            "nimike": "Adah",
+            "alkupnimi": "Adah "
+        }, {
+            "numero": "47 - Marraffa, Bruno & Mantero, Maurizio",
+            "nimike": "Totuus",
+            "alkupnimi": "Verit�, La "
+        }, {
+            "numero": "48 - Polese, Renato & Berardi, Giancarlo",
+            "nimike": "Villiä rotua",
+            "alkupnimi": "Razza selvaggia "
+        }, {
+            "numero": "49 - Tarquino, Giancarlo & Mantero, Maurizio",
+            "nimike": "Veren puna",
+            "alkupnimi": "Rosso sangue "
+        }, {
+            "numero": "50 - Milazzo, Ivo;Polese, Renato;Trevisan, Giorgio;Ambrosini, Carlo & Milazzo Ivo",
+            "nimike": "Sotilaiden tarina",
+            "alkupnimi": "0. Storie di soldati "
+        }, {
+            "numero": "51 - Polese, Renato & Mantero, Maurizio",
+            "nimike": "Seuraava pysäkki : Stockton",
+            "alkupnimi": "Prossima fermata: Stockton "
+        }, {
+            "numero": "52 - Ambrosini, Carlo;Casertano, Giampiero & Mantero, Maurizio",
+            "nimike": "Naikan viha",
+            "alkupnimi": "Collera di Naika, La "
+        }, {
+            "numero": "53 - Berardi, Giancarlo & Trevisan, Giorgio",
+            "nimike": "Uudisraivaajat",
+            "alkupnimi": "Pionieri, I "
+        }, {
+            "numero": "54 - Berardi, Giancarlo & Milazzo, Ivo",
+            "nimike": "Boston",
+            "alkupnimi": "Boston "
+        }, {
+            "numero": "55 - Berardi, Giancarlo & Tarquino, Sergio",
+            "nimike": "Ryöstö Reginald Streetillä",
+            "alkupnimi": "Rapina a Reginald Street "
+        }, {
+            "numero": "56 - Berardi, Giancarlo & Ambrosini, Carlo",
+            "nimike": "Helyjä ja huijauksia",
+            "alkupnimi": "Proposito di gioielli e imbrogli, A "
+        }, {
+            "numero": "57 - Berardi, Giancarlo & Tarquino, Sergio",
+            "nimike": "Salamurhaaja",
+            "alkupnimi": "Sicario, Il "
+        }, {
+            "numero": "58 - Berardi, Giancarlo & Milazzo, Ivo",
+            "nimike": "Tehdaslakko",
+            "alkupnimi": "Sciopero "
+        }, {
+            "numero": "59 - Mantero, Maurizio & Ambrosini, Carlo",
+            "nimike": "Donovanin poikasakki",
+            "alkupnimi": "I ragazzi di Donovan "
+        }, {
+            "numero": "60 - Berardi, Giancarlo & Milazzo, Ivo",
+            "nimike": "Prinssi ja teatterityttö",
+            "alkupnimi": "0. Un principe per Norma "
+        }, {
+            "numero": "61 - Berardi, Giancarlo & Milazzo, Ivo",
+            "nimike": "Missä jättiläiset kuolevat",
+            "alkupnimi": "Dove muoiono i titani "
+        }, {
+            "numero": "61 b - Berardi, Giancarlo & Milazzo, Ivo",
+            "nimike": "Jäinen henkäys",
+            "alkupnimi": "b.Un alito di ghiaccio - 1987 "
+        }, {
+            "numero": "62 - Berardi, Giancarlo & Milazzo, Ivo",
+            "nimike": "Henkäys ja unelma",
+            "alkupnimi": "Il respiro e il sogno "
+        }, {
+            "numero": "63 - Berardi, Giancarlo & Milazzo, Ivo",
+            "nimike": "Valkoinen hiljaisuus",
+            "alkupnimi": "KP - c1a.Silenzio Bianco "
+        }, {
+            "numero": "64 - Berardi, Giancarlo & Barbati, G. / Frisendal, P. / Milazzo, I.",
+            "nimike": "Villikansa",
+            "alkupnimi": "KP - c1b.I Selvaggi "
+        }, {
+            "numero": "65 - Berardi, Giancarlo & Milazzo, I. / Barbati, G. / Bertolotti, M. / Frisenda, P. / Parlov, G.",
+            "nimike": "Piinan hetket",
+            "alkupnimi": "KP - c2.Ore d 'angoscia "
+        }, {
+            "numero": "66 - Berardi, Giancarlo & Milazzo, Ivo / Frisenda, P.",
+            "nimike": "Ikuinen kulkuri",
+            "alkupnimi": "L ' eterno vagabondo "
+        }, {
+            "numero": "67 - Berardi, Giancarlo & Milazzo, I. / Trevisan, G.",
+            "nimike": "Suuri sirkus",
+            "alkupnimi": "Il grande spettacolo "
+        }, {
+            "numero": "68 - Berardi, Giancarlo & Rontini, V.",
+            "nimike": "Pelon häivähdys",
+            "alkupnimi": "Lampi di paura "
+        }, {
+            "numero": "69 - Berardi, Giancarlo & Milazzo, I. / Barbati, G. / Bertolotti, M. / Frisenda, P. / Zuccheri, L.",
+            "nimike": "Puoliverinen",
+            "alkupnimi": "Metis "
+        }, {
+            "numero": "70 - Berardi, Giancarlo & Milazzo, I. / Barbati, G. / Bertolotti, M. / Frisenda, P. / Zuccheri, L.",
+            "nimike": "Ihmisen matka "
+        }, {
+            "numero": "71 - Berardi, Giancarlo & Milazzo, I. / Barbati, G. / Bertolotti, M. / Frisenda, P. / Zuccheri, L.",
+            "nimike": "Pidätys "
+        }, {
+            "numero": "72 - Berardi, Giancarlo & Milazzo, I. / Barbati, G. / Bertolotti, M. / Frisenda, P. / Zuccheri, L.",
+            "nimike": "Mustakarhun loppunäytös "
+        }, {
+            "numero": "73 - Berardi, Giancarlo & Milazzo, Ivo / Mantero, Maurizio / Polese, Renardo",
+            "nimike": "Epäluotettava kaveri "
+        }, {
+            "numero": "74 - Berardi, Giancarlo & Milazzo, I.",
+            "nimike": "Sankareiden maa "
+        }, {
+            "numero": "75 - Berardi, Giancarlo & Mantero, M. / Freghieri, G.",
+            "nimike": "McCormackin merkki "
+        }, {
+            "numero": "76 - Berardi, Giancarlo & Trevisan, G. / Frisenda, P.",
+            "nimike": "Väärään aikaan "
+        }, {
+            "numero": "77 - Berardi, GianJosecarlo & Milazzo, I.",
+            "nimike": "Tuulahdus vapautta "
+        }, {
+            "numero": "78 - Berardi, Giancarlo & Mantero, M. / Ortiz, Jose",
+            "nimike": "Donaverin karavaani"
+        }]
+    }, {
+        "tekija": "Berardi, Giancarlo & Milazzo, Ivo",
+        "tarinat": [{
+
+
+            "nimike": "Lännen Sarjat no .7 Kustannus Oy Jalava Verta Lumessa",
+
+            "alkupnimi": "61 b.Un alito di ghiaccio - 1987"
+
+        }]
+    }, {
+        "tekija": "Julkaisemattomia",
+        "tarinat": [{
+
+            "alkupnimi": "KP - c3a.L 'Eterno vagabondo "
+        }, {
+            "alkupnimi": "KP - c3b.Il Grande spettacolo "
+        }, {
+            "alkupnimi": "KP - c4a.Lampi di Paura "
+        }, {
+            "alkupnimi": "KP - c4b.M� tis "
+        }, {
+            "alkupnimi": "KP - c5.Caccia di sangue"
+        }]
+    }]
+}

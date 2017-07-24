@@ -1,0 +1,792 @@
+{
+    "lehdennimi": "Ruutu ja Non Stop",
+    "tarinalista": [{
+            "tekija": "Berck & Cauvin ",
+            "tarinat": [{
+                "nimike": "Gorillojen samba ",
+                "alkupnimi": "La Samba des Gorilles  ( 22 s.) ",
+                "julk": "Ruutu 73/01-11 "
+            }, {
+                "nimike": "Gorilloja ja tyttölapsia ",
+                "alkupnimi": "Des M�mes et des Gorilles  ( 22 s.) ",
+                "julk": "Ruutu 74/04"
+            }, {
+                "nimike": "Gorilloja ja ikämiehiä ",
+                "alkupnimi": "Bons Vieux pour les Gorilles  ( 22 s.) ",
+                "julk": "Ruutu 74/20-24 "
+            }, {
+                "nimike": "Gorilloja ja robotteja ",
+                "alkupnimi": "Robots pour les Gorilles  ( 22 s.) ",
+                "julk": "Ruutu 74/38-42 "
+            }, {
+                "nimike": "Rommihommia ",
+                "alkupnimi": "Rhum Row  ( 44 s.) ",
+                "julk": "Ruutu 75/03-11 "
+            }, {
+                "nimike": "El Presidente ",
+                "alkupnimi": "El Presidente  ( 44 s.) ",
+                "julk": "Non Stop 75/01-04 "
+            }, {
+                "nimike": "Gorilloja ja nyrkinpuintia ",
+                "alkupnimi": "Les Gorilles marquent des Poings  ( 22 s.) ",
+                "julk": "Non Stop 76/10-11 "
+            }, {
+                "nimike": "Gorilloja ja spaghettia ",
+                "alkupnimi": "Gorilles et Spaghetti  ( 22 s.) ",
+                "julk": "Non Stop 76/17"
+            }, {
+                "nimike": "Kahdeksanjalkainen Gorilla ",
+                "alkupnimi": "Le Gorille � huit Pattes  ( 44 s.) ",
+                "julk": "Non Stop 76/19-21 "
+            }, {
+                "nimike": "Gorillat hulluttelevat ",
+                "alkupnimi": "Les Gorilles font les Fous  ( 44 s.) ",
+                "julk": "Non Stop 77/05-08 "
+            }, {
+                "nimike": "Gorillat tyttökoulussa ",
+                "alkupnimi": "Les Gorilles au Pensionnat  ( 44 s.) ",
+                "julk": "Non Stop 77/16-18 "
+            }, {
+                "nimike": "Kuningas Dollari ",
+                "alkupnimi": "Les Gorilles et le Roi Dollar  ( 44 s.) ",
+                "julk": "Non Stop 77/23-25 "
+            }]
+        }, {
+            "tekija": "Derib & Job ",
+            "tarinat": [{
+                "nimike": "Yakari ",
+                "alkupnimi": "Yakari  ( 44 s.) ",
+                "julk": "Non Stop 77/24-78/03 "
+            }]
+        }, {
+            "tekija": "Derib & Rosy ",
+            "tarinat": [{
+                "nimike": "Koiran ammatti ",
+                "alkupnimi": "Un Meti�r de Chien  ( 44 s.) ",
+                "julk": "Ruutu 73/01-74/02 "
+            }, {
+                "nimike": "Attila vanhassa linnassa ",
+                "alkupnimi": "Attila au Chauteau  ( 44 s.) ",
+                "julk": "Ruutu 74/06-15 "
+            }]
+        }, {
+            "tekija": "Derib, Rosy & Kornblum ",
+            "tarinat": [{
+                "nimike": "Salaperäinen Z 14 ",
+                "alkupnimi": "Le Myst�re Z 14  ( 44 s.) ",
+                "julk": "Ruutu 75/10-16 "
+            }, {
+                "nimike": "Casmirin perintö ",
+                "alkupnimi": "La merveilleuse Surprise d'Od�e  ( s.) ",
+                "julk": "Non Stop 75/04-06 "
+            }]
+        }, {
+            "tekija": "Francis & Tillieux ",
+            "tarinat": [{
+                "nimike": "Erillisiä lyhyitä tarinoita ",
+                "alkupnimi": "albumista: La Fort T Gagne  ( 50 s.) ",
+                "julk": "Ruutu "
+            }, {
+                "nimike": "Erillisiä lyhyitä tarinoita ",
+                "alkupnimi": "albumista: Voisin et Ford T  ( 52 s.) ",
+                "julk": "Non Stop "
+            }]
+        }, {
+            "tekija": "Franquin ",
+            "tarinat": [{
+                "nimike": "Yhden sivun juttuja ",
+                "alkupnimi": "albumeista: Un gaffeur sachant gaffer, Lagaffe nous gate, Le cas Lagaffe, Le geant de la gaffe  (190 s.) ",
+                "julk": ""
+            }, {
+                "nimike": "Marsupilamin häränpyllyjä ",
+                "alkupnimi": "Galipettes du Marsupilami  ( 8 s.) ",
+                "julk": "Non Stop 76/05-06 "
+            }, {
+                "nimike": "Sarvikuonojahti ",
+                "alkupnimi": "La Corne de Rhinoceros  ( 60 s.) ",
+                "julk": "Ruutu 73/01-74/08 "
+            }, {
+                "nimike": "Murenan pesä ",
+                "alkupnimi": "Le R�paire de la Mur�ne ( 60 s.) ",
+                "julk": "Non Stop 75/09-76/03 "
+            }, {
+                "nimike": "Quick Super ",
+                "alkupnimi": "Quick Super  ( 16 s.) ",
+                "julk": "Non Stop 76/20"
+            }, {
+                "nimike": "Rauhallinen loma ",
+                "alkupnimi": "Vacances sans Histoires  ( 19 s.) ",
+                "julk": "Non Stop 76/22"
+            }, {
+                "nimike": "Ganstereiden markkinat ",
+                "alkupnimi": "La Foire aux Gangsters  ( 21 s.) ",
+                "julk": "Non Stop 76/24-25 "
+            }, {
+                "nimike": "Gorillojen mailla ",
+                "alkupnimi": "Le Gorille a Bonne Mine  ( 40 s.) ",
+                "julk": "Non Stop 76/26-77/01 "
+            }, {
+                "nimike": "Marsupilamien pesä ",
+                "alkupnimi": "Le Nid des Marsupilamis ( 40 s.) ",
+                "julk": "Non Stop 77/02-05 "
+            }, {
+                "nimike": "Matkalainen kaukaa ",
+                "alkupnimi": "Le Voyageur de M�sozoique  ( 47 s.) ",
+                "julk": "Non Stop 77/15-18 "
+            }]
+        }, {
+            "tekija": "Franquin, Greg & Jidéhem ",
+            "tarinat": [{
+                "nimike": "Pelko langanpäässä ",
+                "alkupnimi": "La Peur au Bout de Fil  ( 14 s.) ",
+                "julk": "Non Stop 77/21"
+            }, {
+                "nimike": "Buddhan vanki ",
+                "alkupnimi": "Le Prisonnier du Bouddha  ( 61 s.) ",
+                "julk": "Non Stop 78/01-03 "
+            }]
+        }, {
+            "tekija": "Franquin, Greg & Jidéhem ",
+            "tarinat": [{
+                "nimike": "Z niinkuin Zorbul ",
+                "alkupnimi": "Z comme Zorglub  ( 61 s.) ",
+                "julk": "Ruutu 74/15-27 "
+            }, {
+                "nimike": "Zorbulin varjo ",
+                "alkupnimi": "L'Ombre du \"Z\"  ( 61 s.) ",
+                "julk": "Ruutu 74/28-39 "
+            }]
+        }, {
+            "tekija": "Franquin, Jidéhem, Peyo & Gos ",
+            "tarinat": [{
+                "nimike": "Vauvanvaippoja Sieninevassa ",
+                "alkupnimi": "Panade � Champignac  ( 35 s.) ",
+                "julk": "Ruutu 75/20-23 "
+            }, {
+                "nimike": "Bravo Brothers ",
+                "alkupnimi": "Bravo les Brothers  ( 22 s.) ",
+                "julk": "Ruutu 75/30-31 "
+            }]
+        }, {
+            "tekija": "Franquin, Roba & Greg ",
+            "tarinat": [{
+                "nimike": "Tembo tabu ",
+                "alkupnimi": "Tembo Tabou  ( 30 s.) ",
+                "julk": "Non Stop 75/02-03 "
+            }]
+        }, {
+            "tekija": "Franquin, Rosy & Will ",
+            "tarinat": [{
+                    "nimike": "Operaatio 'Hiljaisuus' ",
+                    "alkupnimi": "Les Pirates du Silence  ( 44 s.)",
+                    "julk " : "Non Stop 76/16-18"
+                
+            }
+                ]
+            },
+            {
+                "tekija": "Franquin & Will ",
+                "tarinat": [{
+                    "nimike": "Häkki ",
+                    "alkupnimi": "Le Cage  ( 6 s.) ",
+                    "julk": "Non Stop 75/07-07 "
+                }]
+            },
+            {
+                "tekija": "Gos ",
+                "tarinat": [{
+                    "nimike": "Inkan perillinen ",
+                    "alkupnimi": "L H�ritier de I Inca  ( 44 s.)",
+                    "julk": "Non Stop 77/23-26 "
+                }]
+            },
+            {
+                "tekija": "Herge ",
+                "tarinat": [{
+                    "nimike": "Herra Pumpun testamentti ",
+                    "alkupnimi": "Le Testament de M. Pump  ( 52 s.) ",
+                    "julk": "Ruutu 74/22-35 "
+                }, {
+                    "nimike": "Suuntana New York ",
+                    "alkupnimi": "Destination New York  ( 52 s.) ",
+                    "julk": "Ruutu 74/41-52 "
+                }, {
+                    "nimike": "Kobralaakso ",
+                    "alkupnimi": "La Vall�e des Cobras  ( 52 s.) ",
+                    "julk": "Non Stop 75/03-10 "
+                }, {
+                    "nimike": "Manitoba' ei vastaa ",
+                    "alkupnimi": "Le Manitoba ne r�pond plus  ( 52 s.) ",
+                    "julk": "Non Stop 76/07-16 "
+                }, {
+                    "nimike": "Karamakon purkaus ",
+                    "alkupnimi": "L'Eruption de Karamako  ( 52 s.) ",
+                    "julk": "Non Stop 76/26-77/08 "
+                }, {
+                    "nimike": "Tintti Amerikassa ",
+                    "alkupnimi": "Tintin en Am�rique  ( 62 s.) ",
+                    "julk": "Non Stop 75/01-05 "
+                }, {
+                    "nimike": "Tintti Kongossa ",
+                    "alkupnimi": "Tintin au Congo  ( 62 s.) ",
+                    "julk": "Non Stop 77/03-14 "
+                }, {
+                    "nimike": "Tintti ja Picarot ",
+                    "alkupnimi": "Tintin et les Picaros  ( 62 s.) ",
+                    "julk": "Non Stop 76/10-22 "
+                }]
+            },
+            {
+                "tekija": "Hubinon,Vic & Charlier,Jean-Michael ",
+                "tarinat": [{
+                    "nimike": "Atomivaara ",
+                    "alkupnimi": "Alerte Atomique  ( 44 s.) ",
+                    "julk": "Ruutu 73/01-74/03 "
+                }, {
+                    "nimike": "Kuoleman laivue ",
+                    "alkupnimi": "L'Escadrille de la Mort  ( 44 s.) ",
+                    "julk": "Ruutu 74/18-28 "
+                }, {
+                    "nimike": "Hälytys Cape Kennedyssä ",
+                    "alkupnimi": "Alerte a Cap Kannedy  ( 44 s.) ",
+                    "julk": "Ruutu 74/49-75/05 "
+                }]
+            },
+            {
+                "tekija": "Jije & Lob ",
+                "tarinat": [{
+                    "nimike": "Kaksintaistelu ",
+                    "alkupnimi": "Le Duel  ( 44 s.) ",
+                    "julk": "Ruutu 73/01-74/02 "
+                }]
+            },
+            {
+                "tekija": "Jije ",
+                "tarinat": [{
+                    "nimike": "Montanan villihevoset ",
+                    "alkupnimi": "Les Broncos du Montanas  ( 44 s.) ",
+                    "julk": "Ruutu 74/29-38 "
+                }]
+            },
+            {
+                "tekija": "Leloup,Roger ",
+                "tarinat": [{
+                    "nimike": "Paholaisen urut ",
+                    "alkupnimi": "L'Orgue du Diable  ( 44 s.) ",
+                    "julk": "Ruutu 74/05-12 "
+                }, {
+                    "nimike": "Matka maan uumeniin ",
+                    "alkupnimi": "Le Trio de l'Etrange  ( 45 s.) ",
+                    "julk": "Ruutu 74/45-52 "
+                }, {
+                    "nimike": "Jouluenkeli ",
+                    "alkupnimi": "Aventures Electronques: L'Ange de No�l  ( 2 s.) ",
+                    "julk": "Ruutu 75/01"
+                }, {
+                    "nimike": "Hunajainen juttu ",
+                    "alkupnimi": "Aventures Electronques: Du Miel pour Yoko  ( 10 s.) ",
+                    "julk": "Non Stop 75/01"
+                }, {
+                    "nimike": "Vulcanuksen ahjo ",
+                    "alkupnimi": "La Forge de Vulcain  ( 44 s.) ",
+                    "julk": "Non Stop 75/06-09 "
+                }, {
+                    "nimike": "Viesti ikuisuuteen ",
+                    "alkupnimi": "Message pour l'Eternit� ( 44 s.) ",
+                    "julk": "Non Stop 76/13-17 "
+                }, {
+                    "nimike": "Vinean kolme aurinkoa ",
+                    "alkupnimi": "Les 3 Soleils de Vin�a  ( 44 s.) ",
+                    "julk": "Non Stop 77/07-12 "
+                }]
+            },
+            {
+                "tekija": "Leloup,Roger & Tillieux ",
+                "tarinat": [{
+                    "nimike": "Kaunotar ja hirviö ",
+                    "alkupnimi": "Aventures Electronques: La Belle et la B�te  ( 6 s.) ",
+                    "julk": "Ruutu 75/12"
+                }, {
+                    "nimike": "Stereoryöstö ",
+                    "alkupnimi": "Aventures Electronques: Hold-Up en Hi-Fi ( 8 s.) ",
+                    "julk": "Ruutu 75/17"
+                }, {
+                    "nimike": "Hämähäkki joka varasti ",
+                    "alkupnimi": "Aventures Electronques: L'Araign�e qui volait  ( 12 s.) ",
+                    "julk": "Ruutu 75/18"
+                }, {
+                    "nimike": "Suunta 351 ",
+                    "alkupnimi": "Aventures Electronques: Cap 351  ( 6 s.) ",
+                    "julk": "Ruutu 75/19"
+                }]
+            },
+            {
+                "tekija": "Macherot,Raymond ",
+                "tarinat": [{
+                    "nimike": "Sipuleena ahdingossa ",
+                    "alkupnimi": "Sibylline en Danger  ( 60 s.) ",
+                    "julk": "Ruutu 73/01-74/06 "
+                }, {
+                    "nimike": "Sipuleena ja mehiläiset ",
+                    "alkupnimi": "Sibylline et les Abeilles  ( 60 s.) ",
+                    "julk": "Ruutu 74/24-37 "
+                }, {
+                    "nimike": "Sipuleena ja Tohveli ",
+                    "alkupnimi": "Sibylline et Cie  ( 40 s.) ",
+                    "julk": "Ruutu 75/02-09 "
+                }, {
+                    "nimike": "Sipuleena ja lanttu ",
+                    "alkupnimi": "Sibylline et la Batterave  ( 20 s.) ",
+                    "julk": "Ruutu 75/14-16 "
+                }, {
+                    "nimike": "Sipuleena ja pikku sirkus ",
+                    "alkupnimi": "Sibylline et le petit Cirque  ( 30 s.) ",
+                    "julk": "Ruutu 75/28-30 "
+                }, {
+                    "nimike": "Sipuleena ja ruusunpunainen taikasauva ",
+                    "alkupnimi": "Sibylline et la Baguette Rose  ( 14 s.) ",
+                    "julk": "Ruutu 75/31"
+                }, {
+                    "nimike": "Mestarietsivä Naukio ja tapaus Krompyyri ",
+                    "alkupnimi": "Chaminou et le Khrompire  ( 60 s.) ",
+                    "julk": "Ruutu 74/07-18 "
+                }, {
+                    "nimike": "Klorofyllin paluu ",
+                    "alkupnimi": "Le Retour de Chlorophylle  ( 30 s.) ",
+                    "julk": "Non Stop 75/09-76/05 "
+                }, {
+                    "nimike": "Herkutteleva kärppä ",
+                    "alkupnimi": "Le Furet Gastronome  ( 30 s.) ",
+                    "julk": "Non Stop 76/06-13 "
+                }, {
+                    "nimike": "Klorofylli tulee apuun ",
+                    "alkupnimi": "Chloro � la Rescousse  ( 44 s.) ",
+                    "julk": "Non Stop 76/15-21 "
+                }, {
+                    "nimike": "Antrasiitin kosto ",
+                    "alkupnimi": "La Revanche d'Anthracite  ( 30 s.) ",
+                    "julk": "Non Stop 76/25-77/02 "
+                }, {
+                    "nimike": "Klorofylli pitää pintansa ",
+                    "alkupnimi": "Chrolo joue et gagne  ( 30 s.) ",
+                    "julk": "Non Stop 77/13-16 "
+                }, {
+                    "nimike": "Eversti Cliftonin tutkimuksia ",
+                    "alkupnimi": "Les Enqu�tes de Colonel Clifton  ( 30 s.) ",
+                    "julk": "Non Stop 77/08-12 "
+                }, {
+                    "nimike": "Clifton New Yorkissa ",
+                    "alkupnimi": "Clifton � New York  ( 30 s.) ",
+                    "julk": "Non Stop 77/20-23 "
+                }, {
+                    "nimike": "Clifton ja vakoojat ",
+                    "alkupnimi": "Clifton et les Espions  ( 30 s.) ",
+                    "julk": "Non Stop 77/24-26 "
+                }]
+            },
+            {
+                "tekija": "Macherot,Raymond & Deli�ge ",
+                "tarinat": [{
+                    "nimike": "Sipuleena siivillä ",
+                    "alkupnimi": "Sibylline s'envole  ( 40 s.) ",
+                    "julk": "Non Stop 76/22-24"
+                }]
+            },
+            {
+                "tekija": "Malik & Brouy�re ",
+                "tarinat": [{
+                    "nimike": "Kauhujen herra ",
+                    "alkupnimi": "Le Maitre de l'Epouvante  ( 45 s.) ",
+                    "julk": "Ruutu 74/07-16 "
+                }, {
+                    "nimike": "Zombien karnevaalit ",
+                    "alkupnimi": "Le Carneval des Zombies  ( 45 s.) ",
+                    "julk": "Ruutu 75/05-13 "
+                }]
+            },
+            {
+                "tekija": "Morris & Goscinny, René",
+                "tarinat": [{
+                    "nimike": "Daltonit lumipyryssä ",
+                    "alkupnimi": "Les Dalton dans le Blizzard  ( 44 s.) ",
+                    "julk": "Ruutu 74/17-33 "
+                }, {
+                    "nimike": "Daltonien jäljillä ",
+                    "alkupnimi": "Sur la Piste des Dalton  ( 44 s.) ",
+                    "julk": "Ruutu 74/34-48 "
+                }, {
+                    "nimike": "Aavekaupunki ",
+                    "alkupnimi": "La Ville Fant�me  ( 44 s.) ",
+                    "julk": "Ruutu 74/50-75/13 "
+                }, {
+                    "nimike": "Ylös Mississippi-jokea",
+                    "alkupnimi": "En remontant le Mississippi  ( 44 s.) ",
+                    "julk": "Non Stop 75/01-76/01 "
+                }, {
+                    "nimike": "Tuomari ",
+                    "alkupnimi": "Le Juge  ( 44 s.) ",
+                    "julk": "Non Stop 76/02-14 "
+                }, {
+                    "nimike": "Ryntäys Oklahomaan ",
+                    "alkupnimi": "Ru�e sur l'Oklahoma  ( 44 s.) ",
+                    "julk": "Non Stop 76/19-77/03 "
+                }]
+            },
+            {
+                "tekija": "Peyo ",
+                "tarinat": [{
+                    "nimike": "Sysivuoren kirot ",
+                    "alkupnimi": "Le Sortilege de Maltrochu  ( 60 s.) ",
+                    "julk": "Ruutu 74/05-16 "
+                }, {
+                    "nimike": "Aarnihovin valtias ",
+                    "alkupnimi": "Le Sire de Montr�sor  ( 44 s.) ",
+                    "julk": "Ruutu 75/01-09 "
+                }, {
+                    "nimike": "Kuusistrumffinen huilu ",
+                    "alkupnimi": "La Fl�te � Schtroumpfs  ( 60 s.) ",
+                    "julk": "Ruutu 75/23-29 "
+                }, {
+                    "nimike": "Strumffien maa ",
+                    "alkupnimi": "Le Pays Maudit  ( 60 s.) ",
+                    "julk": "Non Stop 75/05-10 "
+                }, {
+                    "nimike": "Jumalten lähde ",
+                    "alkupnimi": "La Source des Dieux  ( 44 s.) ",
+                    "julk": "Non Stop 76/06-08 "
+                }, {
+                    "nimike": "Seitsemän Lähteen sota ",
+                    "alkupnimi": "La Guerre des 7 Fontaines  ( 60 s.) ",
+                    "julk": "Non Stop 76/23-25 "
+                }, {
+                    "nimike": "Musta nuoli ",
+                    "alkupnimi": "La Fl�che Noire  ( 44 s.) ",
+                    "julk": "Non Stop 77/03-06 "
+                }, {
+                    "nimike": "Järvilinnan sormus ",
+                    "alkupnimi": "L'Anneau des Castellac  ( 60 s.) ",
+                    "julk": "Non Stop 77/20-22 "
+                }, {
+                    "nimike": "Toisenlainen strumffi ",
+                    "alkupnimi": "Un Schtroumpf pas comme les autres  ( 17 s.) ",
+                    "julk": "Non Stop 76/04-05 "
+                }, {
+                    "nimike": "Strumffien nälkä ",
+                    "alkupnimi": "La Faim des Schtroumpfs  ( 20 s.) ",
+                    "julk": "Non Stop 77/09"
+                }, {
+                    "nimike": "Väärä strumffi ",
+                    "alkupnimi": "Le Faux Schtroumpf  ( 20 s.) ",
+                    "julk": "Non Stop 77/12"
+                }, {
+                    "nimike": "Kosmostrumffi ",
+                    "alkupnimi": "Le Cosmoschtroumpf  ( 40 s.) ",
+                    "julk": "Ruutu 73/01-74/01 "
+                }]
+            },
+            {
+                "tekija": "Peyo & Delporte ",
+                "tarinat": [{
+                    "nimike": "Strumffineito ",
+                    "alkupnimi": "La Schtroumpfette  ( 40 s.) ",
+                    "julk": "Ruutu 74/16-24 "
+                }, {
+                    "nimike": "Strumffin oppipoika ",
+                    "alkupnimi": "L'Apprenti Schtroumpf  ( 32 s.) ",
+                    "julk": "Ruutu 74/43-49 "
+                }, {
+                    "nimike": "Pikkutarinoita strumffeista ",
+                    "alkupnimi": "alkuperäisiä otsikoita: Histoires de Schtroumpfs, Romeos et Schtroumpfette, Jeux Olympschtroumpfs  ( s.) ",
+                    "julk": "Ruutu 74/5, 7, 9, 11, 13, 14, 15, 75/11-14, 17-27, 31, Non Stop 76/1, 2, 78/1-3"
+                }, {
+                    "nimike": "Mustat strumffit ",
+                    "alkupnimi": "Les Schtroumpfs noirs  ( 20 s.) ",
+                    "julk": "Non Stop 76/10-11 "
+                }, {
+                    "nimike": "Lentävä strumffi ",
+                    "alkupnimi": "Le Schtroumpf volant  ( 20 s.) ",
+                    "julk": "Non Stop 76/12"
+                }, {
+                    "nimike": "Strumffivaras ",
+                    "alkupnimi": "Le Voleur des Schtroumpfs  ( 20 s.) ",
+                    "julk": "Non Stop 76/14-16 "
+                }, {
+                    "nimike": "Strumffonia in do ",
+                    "alkupnimi": "Schtroumpfonie en ut  ( 20 s.) ",
+                    "julk": "Non Stop 76/26"
+                }, {
+                    "nimike": "Strumfaattori ",
+                    "alkupnimi": "Le Schtroumpfissime  ( 40 s.) ",
+                    "julk": "Non Stop 77/02-04 "
+                }, {
+                    "nimike": "Sadas strumffi ",
+                    "alkupnimi": "Le Centi�me Schtroumpf  ( 20 s.) ",
+                    "julk": "Non Stop 77/13"
+                }, {
+                    "nimike": "Muna ja strumffit ",
+                    "alkupnimi": "L'Oeuf et les Schtroumpfs  ( 20 s.) ",
+                    "julk": "Non Stop 77/14"
+                }, {
+                    "nimike": "Samanstrumffaavaa ja strumffintekevää ",
+                    "alkupnimi": "Schtroumpf vert et vert Schtroumpf  ( 30 s.) ",
+                    "julk": "Non Stop 77/26"
+                }, {
+                    "nimike": "12 urotyötä ",
+                    "alkupnimi": "Les Douze Travaux de Benoit Brisefer  ( 60 s.) ",
+                    "julk": "Ruutu 73/01-74/06 "
+                }]
+            },
+            {
+                "tekija": "Peyo & Delporte & Gos ",
+                "tarinat": [{
+                    "nimike": "Sateenstrumffaaja ",
+                    "alkupnimi": "Le Schtroumpfeur de Pluie  ( 20 s.) ",
+                    "julk": "Ruutu 74/27-31 "
+                }]
+            },
+            {
+                "tekija": "Peyo & Gos ",
+                "tarinat": [{
+                    "nimike": "Ansoja strumffeille ",
+                    "alkupnimi": "Pi�ges � Schtroumpfs  ( 8 s.) ",
+                    "julk": "Ruutu 75/15"
+                }, {
+                    "nimike": "Strumffit ja Karakukass ",
+                    "alkupnimi": "Les Schtroumfs et le Cracoucass  ( 40 s.) ",
+                    "julk": "Non Stop 75/01-04 "
+                }]
+            },
+            {
+                "tekija": "Peyo, Walthery & Gos ",
+                "tarinat": [{
+                    "nimike": "Bruno-eno",
+                    "alkupnimi": "Tonton Placide  ( 60 s.) ",
+                    "julk": "Ruutu 74/11-22 "
+                }, {
+                    "nimike": "Sirkus Bodoni ",
+                    "alkupnimi": "Le Cirque Bodoni  ( 60 s.) ",
+                    "julk": "Ruutu 74/32-43 "
+                }]
+            },
+            {
+                "tekija": "Peyo & Will ",
+                "tarinat": [{
+                    "nimike": "Punaiset taksit ",
+                    "alkupnimi": "Les Taxis Rouges  ( 54 s.) ",
+                    "julk": "Ruutu 75/19-27 "
+                }, {
+                    "nimike": "Benjamin ja rouva Adolfina ",
+                    "alkupnimi": "Madame Adolphine  ( 60 s.) ",
+                    "julk": "Ruutu 76/01-05 "
+                }]
+            },
+            {
+                "tekija": "Peyo, Walthery & Delporte ",
+                "tarinat": [{
+                    "nimike": "Lady d'Olfina ",
+                    "alkupnimi": "Lady d'Olphine  ( 52 s.) ",
+                    "julk": "Non Stop 76/18-22 "
+                }]
+            },
+            {
+                "tekija": "Pratt,Hugo ",
+                "tarinat": [{
+                    "nimike": "Tristan Bantamin salaisuus ",
+                    "alkupnimi": "Le Secret de Tristan Bantam  ( 19 s.) ",
+                    "julk": "Non Stop 76/01-04 "
+                }, {
+                    "nimike": "Kohtaus Bahiassa ",
+                    "alkupnimi": "Rendez-vous � Bahia ( 20 s.) ",
+                    "julk": "Non Stop 76/05-10 "
+                }, {
+                    "nimike": "Tarkan laukauksen samba ",
+                    "alkupnimi": "Samba avec tri Fixe  ( 20 s.) ",
+                    "julk": "Non Stop 76/11-16 "
+                }, {
+                    "nimike": "Brasilian kotka ",
+                    "alkupnimi": "L'Aigle du Br�sil  ( 20 s.) ",
+                    "julk": "Non Stop 77/03-07 "
+                }, {
+                    "nimike": "Puhutaanpa taas onnensotureista ",
+                    "alkupnimi": "Gentilshommes de la Fortune  ( 20 s.) ",
+                    "julk": "Non Stop 77/09-13 "
+                }, {
+                    "nimike": "Yhden lokin vuoksi ",
+                    "alkupnimi": "A Cause d'une Mouette  ( 21 s.)",
+                    "julk" : "Non Stop 77 / 15 - 18 "
+                }, {
+                    "nimike": "Päitä ja sieniä ",
+                    "alkupnimi": "T�tes et Champignons  ( 20 s.) ",
+                    "julk": "Non Stop 77/20-22 "
+                }, {
+                    "nimike": "Banaaniconga ",
+                    "alkupnimi": "La Conga des Bananes  ( 20 s.) ",
+                    "julk": "Non Stop 78/01-02 "
+                }]
+            },
+            {
+                "tekija": "Roba ",
+                "tarinat": [{
+                    "nimike": "Yhden sivun juttuja ",
+                    "alkupnimi": "albumeista: Boule et Bill N:o 6, N:o 7, N:o 8: Papa, Maman, Boule... et Moi!, N:o 9:Une Vie de Chien!  (200 s.) ",
+                    "julk": "Ruutu 73/01-Non Stop 78/03"
+                }, {
+                    "nimike": "Taistelu tontista ",
+                    "alkupnimi": "La Ribambelle gagne du Terrain  ( 44 s.) ",
+                    "julk": "Ruutu 75/07-14 "
+                }, {
+                    "nimike": "Lisävoimia ",
+                    "alkupnimi": "La Ribambelle engage du Monde  ( 16 s.) ",
+                    "julk": "Ruutu 75/16-18 "
+                }, {
+                    "nimike": "Vekarat ja arvoitus altaassa ",
+                    "alkupnimi": "La Ribambelle au Bassin  ( 16 s.) ",
+                    "julk": "Non Stop 76/04"
+                }]
+            },
+            {
+                "tekija": "Roba & Vicq ",
+                "tarinat": [{
+                    "nimike": "Vekarat Skotlannissa ",
+                    "alkupnimi": "La Ribambelle en Ecosse  ( 44 s.) ",
+                    "julk": "Non Stop 75/08-76/01 "
+                }, {
+                    "nimike": "Vekarat lennossa ",
+                    "alkupnimi": "La Ribambelle s'envole  ( 60 s.) ",
+                    "julk": "Non Stop 76/06-12 "
+                }, {
+                    "nimike": "Vekarat Galopingos-saarilla",
+                    "alkupnimi": "La Ribambelle aux Galopingos  ( 60 s.) ",
+                    "julk": "Non Stop 77/06-11 "
+                }]
+            },
+            {
+                "tekija": "Seron ",
+                "tarinat": [{
+                    "nimike": "Vaellus ",
+                    "alkupnimi": "L'Exode  ( 44 s.) ",
+                    "julk": "Ruutu 74/40-47 "
+                }, {
+                    "nimike": "Pieniä miehiä Brontoxicossa ",
+                    "alkupnimi": "Des Petis hommes au Brontoxique  ( 44 s.) ",
+                    "julk": "Non Stop 77/18-20 "
+                }]
+            },
+            {
+                "tekija": "Tabary ",
+                "tarinat": [{
+                    "nimike": "Aarteen tavoittelijat ",
+                    "alkupnimi": "Les Mauvais Instincts  ( 44 s.) ",
+                    "julk": "Ruutu 74/44-75/09 "
+                }]
+            },
+            {
+                "tekija": "Tillieux,Maurice ",
+                "tarinat": [{
+                    "nimike": "Kolmisorminen hansikas ",
+                    "alkupnimi": "Le Gant � 3 Doigts  ( 44 s.) ",
+                    "julk": "Ruutu 74/47-75/02 "
+                }, {
+                    "nimike": "Kuumaa ja kylmää ",
+                    "alkupnimi": "Chaud et Froid  ( 14 s.) ",
+                    "julk": "Ruutu 75/19-20 "
+                }, {
+                    "nimike": "Suuri tuuli ",
+                    "alkupnimi": "Le Grand Souffle  ( 26 s.) ",
+                    "julk": "Ruutu 75/24-26 "
+                }, {
+                    "nimike": "Salaperäinen talo ",
+                    "alkupnimi": "La Maison du Myst�re  ( 3 s.) ",
+                    "julk": "Ruutu 75/31-31 "
+                }]
+            },
+            {
+                "tekija": "Walthery & Gos ",
+                "tarinat": [{
+                    "nimike": "Lentoemäntä ",
+                    "alkupnimi": "Natacha, H�tesse de l'Air  ( 44 s.) ",
+                    "julk": "Ruutu 73/01-74/03 "
+                }, {
+                    "nimike": "Natasa ja maharadja ",
+                    "alkupnimi": "Natacha et le Maharadjah  ( 42 s.) ",
+                    "julk": "Ruutu 74/36-43 "
+                }, {
+                    "nimike": "Paimenen tähti ",
+                    "alkupnimi": "L'Etoile du Berger  ( 7 s.) ",
+                    "julk": "Non Stop 77/26"
+                }]
+            },
+            {
+                "tekija": "Walthery & Borgers,E. ",
+                "tarinat": [{
+                    "nimike": "Metallimuisti ",
+                    "alkupnimi": "La M�moire de M�tal  ( 26 s.) ",
+                    "julk": "Ruutu 75/21-22 "
+                }]
+            },
+            {
+                "tekija": "Walthery & Wasterlain ",
+                "tarinat": [{
+                    "nimike": "Paniikinpoikanen ",
+                    "alkupnimi": "Un Brin de panique  ( 18 s.) ",
+                    "julk": "Ruutu 75/27-28 "
+                }]
+            },
+            {
+                "tekija": "Walthery & Tillieux ",
+                "tarinat": [{
+                    "nimike": "Natasa ja kuninkaallinen kosija ",
+                    "alkupnimi": "Un Tr�ne pour Natacha  ( 45 s.) ",
+                    "julk": "Non Stop 76/07-09 "
+                }]
+            },
+            {
+                "tekija": "Walthery & Mittei ",
+                "tarinat": [{
+                    "nimike": "Kaksoispeliä ",
+                    "alkupnimi": "Double Vol  ( 22 s.) ",
+                    "julk": "Non Stop 77/17"
+                }]
+            },
+            {
+                "tekija": "Walthery & Lemasque ",
+                "tarinat": [{
+                    "nimike": "Silmänkääntötemppu ",
+                    "alkupnimi": "Un Tour de Passe-Passe ( 13 s.) ",
+                    "julk": "Non Stop 77/19"
+                }]
+            },
+            {
+                "tekija": "Will & Rosy ",
+                "tarinat": [{
+                    "nimike": "Naurettava nukke ",
+                    "alkupnimi": "La Poup�e Ridicule  ( 44 s.) ",
+                    "julk": "Ruutu 73/01-03 "
+                }, {
+                    "nimike": "Uniin tunkeutuja ",
+                    "alkupnimi": "Le Grand Combat  ( 42 s.) ",
+                    "julk": "Ruutu 74/30-39 "
+                }, {
+                    "nimike": "Toarin herääminen ",
+                    "alkupnimi": "Le R�veil de Toar  ( 44 s.) ",
+                    "julk": "Non Stop 77/10-14 "
+                }]
+            },
+            {
+                "tekija": "Will & Tillieux ",
+                "tarinat": [{
+                    "nimike": "Kobran uhka ",
+                    "alkupnimi": "Tif et Tondu contre Le Cobra  ( 44 s.) ",
+                    "julk": "Ruutu 75/13-18 "
+                }, {
+                    "nimike": "Ruumiiton varjo ",
+                    "alkupnimi": "L'Ombre sans Corps  ( 44 s.) ",
+                    "julk": "Ruutu 75/29-31 "
+                }, {
+                    "nimike": "Majakan kirous ",
+                    "alkupnimi": "Le Roc Maudit  ( 44 s.) ",
+                    "julk": "Non Stop 76/13-15 "
+                }]
+            }
+        ]
+    }

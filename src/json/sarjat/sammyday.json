@@ -1,0 +1,166 @@
+{
+    "lehdennimi": "Sammy Day",
+    "tarinalista": [
+
+        {
+            "tekija": "Berck & Raoul Cauvin",
+            "tarinat": [{
+                "numero": "1. ",
+                "alkupnimi": "Les gorilles- 1973",
+                "nimike": "Gorillojen samba ",
+                "julk": "Ruutu 73/01-11"
+            }, {
+                "nimike": "Gorilloja ja tyttölapsia ",
+                "julk": "Ruutu 74/04"
+            }, {
+                "numero": "2. ",
+                "alkupnimi": "Rhum row- 1973",
+                "nimike": "Rommihommia ",
+                "julk": "Ruutu 75/03-11"
+            }, {
+                "numero": "3. ",
+                "alkupnimi": "El Presidente- 1974",
+                "nimike": "El Presidente ",
+                "julk": "Non Stop 75/01-04"
+            }, {
+                "numero": "4. ",
+                "alkupnimi": "Les gorilles marquent des points- 1974",
+                "nimike": "Gorilloja ja ikämiehiä ",
+                "julk": "Ruutu 74/20-24"
+            }, {
+                "nimike": "Gorilloja ja robotteja ",
+                "julk": "Ruutu 74/38-42"
+            }, {
+                "numero": "5. ",
+                "alkupnimi": "Le gorille � huit pattes- 1975",
+                "nimike": "Kahdeksanjalkainen Gorilla ",
+                "julk": "Non Stop 76/19-21"
+            }, {
+                "numero": "6. ",
+                "alkupnimi": "Les gorilles font les fous- 1975",
+                "nimike": "Gorillat hulluttelevat ",
+                "julk": "Non Stop 77/05-08"
+            }, {
+                "numero": "7. ",
+                "alkupnimi": "Les gorilles au pensionnat- 1976",
+                "nimike": "Gorillat tyttökoulussa ",
+                "julk": "Non Stop 77/16-18"
+            }, {
+                "numero": "8. ",
+                "alkupnimi": "Les gorilles et le roi dollar� - 1977",
+                "nimike": "Kuningas Dollari ",
+                "julk": "Non Stop 77/23-25"
+            }, {
+                "numero": "9. ",
+                "alkupnimi": "Les p�troleurs du d�sert- 1977",
+                "nimike": "Non Stop 6/1978: Sammy: Aavikon öljypohatat",
+                "julk": "Yhtyneet - 1978"
+            }, {
+                "numero": "10. ",
+                "alkupnimi": "Nuit blanche pour les gorilles- 1978",
+                "nimike": "Non Stop 12/1978: Sammy: Unettomia öitä",
+                "julk": "Yhtyneet - 1978"
+            }, {
+                "numero": "11. ",
+                "alkupnimi": "Deux histoires de gorilles- 1978",
+                "nimike": "Sammy 9: 2 gorilla historier",
+                "julk": "Interpresse - 1980"
+            }, {
+                "numero": "12. ",
+                "alkupnimi": "L'�lixir de jeunesse- 1979",
+                "nimike": "Sammy 10: Ungdomseliksiren",
+                "julk": "Interpresse - 1981"
+            }, {
+                "numero": "13. ",
+                "alkupnimi": "Le grand frisson- 1980",
+                "nimike": "Sammy 12: Pas på strolefar",
+                "julk": "Interpresse - 1982"
+            }, {
+                "numero": "14. ",
+                "alkupnimi": "Les gorilles marquent un but- 1981",
+                "nimike": "Sammy 14: Tohylere og bananskud",
+                "julk": "Interpresse - 1983"
+            }, {
+                "numero": "15. ",
+                "alkupnimi": "Les gorilles � Hollywood- 1982",
+                "nimike": "Sammy 15: Dobbeltspil i Hollywood",
+                "julk": "Interpresse - 1983"
+            }, {
+                "numero": "16. ",
+                "alkupnimi": "Ku-Klux-Klan- 1983",
+                "nimike": "Sammy 16: Ku Klux Klan",
+                "julk": "Interpresse - 1984"
+            }, {
+                "numero": "17. ",
+                "alkupnimi": "Les b�b�s flingueurs- 1983",
+                "nimike": "Sammy 17: Buksetrold på springtur",
+                "julk": "Interpresse - 1985"
+            }, {
+                "numero": "18. ",
+                "alkupnimi": "Panique au Vatican- 1984"
+            }, {
+                "numero": "19. ",
+                "alkupnimi": "En piste les gorilles- 1985"
+            }, {
+                "numero": "20. ",
+                "alkupnimi": "Ma Attaway- 1986",
+                "nimike": "Sammy 1: Kovaa peliä Chicagossa",
+                "julk": "Semic - 1988"
+            }, {
+                "numero": "21. ",
+                "alkupnimi": "Miss Kay- 1986",
+                "nimike": "Sammy 2: Neiti Kay ",
+                "julk": "Semic - 1989"
+            }, {
+                "numero": "22. ",
+                "alkupnimi": "L'homme qui venait de l'au-dela- 1987",
+                "nimike": "Sammy 3: Asiakas tuonpuoleisesta",
+                "julk": "Semic - 1990"
+            }, {
+                "numero": "23. ",
+                "alkupnimi": "La Diva- 1987"
+            }, {
+                "numero": "24. ",
+                "alkupnimi": "Du rififi dans les nuages- 1988",
+                "nimike": "Sammy 6: Kuularalli korkeuksissa",
+                "julk": "Semic - 1993"
+            }, {
+                "numero": "25. ",
+                "alkupnimi": "Le mandarin- 1985"
+            }, {
+                "numero": "26. ",
+                "alkupnimi": "Crash � Wall Street- 1989"
+            }, {
+                "numero": "27. ",
+                "alkupnimi": "Les gorilles ont du chien- 1990"
+            }, {
+                "numero": "28. ",
+                "alkupnimi": "Cigarettes et whisky- 1991"
+            }, {
+                "numero": "29. ",
+                "alkupnimi": "Des gorilles et des folles- 1992"
+            }, {
+                "numero": "30. ",
+                "alkupnimi": "Les gorilles portent jupons- 1993"
+            }, {
+                "numero": "31. ",
+                "alkupnimi": "Alcool aux pruneaux- 1994"
+            }, {
+                "numero": "32. ",
+                "alkupnimi": "La B.A. des gorilles� - 1996 "
+            }, {
+                "numero": "33. ",
+                "alkupnimi": "Un gorilles en cage� -  1997"
+            }, {
+                "numero": "34. ",
+                "alkupnimi": "Mae West� - 1998"
+            }, {
+                "numero": "35. ",
+                "alkupnimi": "Les gorilles m�nent la danse� - 1999"
+            }, {
+                "numero": "36. ",
+                "alkupnimi": "Papy day� - 2000"
+            }]
+        }
+    ]
+}

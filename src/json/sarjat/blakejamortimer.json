@@ -1,0 +1,90 @@
+{
+    "lehdennimi": "Blake ja Mortimer",
+    "tarinalista": [{
+        "tekija": "Jacobs, E.P.",
+        "tarinat": [{
+            "numero": "0. ",
+            "alkupnimi": "Le rayon \"U\""
+        }, {
+            "numero": "1. ",
+            "alkupnimi": "Le secret de l'Espadon, Tome 1",
+            "nimike": "Blake ja Mortimer seikkailevat 1: Miekkakalan salaisuus Osa 1: Uskomaton takaa-ajo",
+            "julk": "(Egmont - 2010)"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "Le secret de l'Espadon, Tome 2",
+            "nimike": "Blake ja Mortimer seikkailevat 2: Miekkakalan salaisuus Osa 2: Mortimerin pako",
+            "julk": "(Egmont - 2011)"
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "Le secret de l'Espadon, Tome 3",
+            "nimike": "Blake ja Mortimer seikkailevat 3: Miekkakalan salaisuus Osa 3: SX-1:n vastaisku",
+            "julk": "(Egmont - 2012)"
+        }, {
+            "numero": "4. ",
+            "alkupnimi": "Le myst�re de la grande pyramide, Tome 1",
+            "nimike": "Blake och Mortimers äventyr 1: Pyramidens hemlighet 1",
+            "julk": "(Carlsen - 1978)"
+        }, {
+            "numero": "5. ",
+            "alkupnimi": "Le myst�re de la grande pyramide, Tome 2",
+            "nimike": "Blake och Mortimers äventyr 2: Pyramidens hemlighet 2",
+            "julk": "(Carlsen - 1978)"
+        }, {
+            "numero": "6. ",
+            "alkupnimi": "La marque Jaune",
+            "nimike": "Blaken ja Mortimerin seikkailuja 1: Keltainen merkki",
+            "julk": "(Semic - 1991)"
+        }, {
+            "numero": "7. ",
+            "alkupnimi": "L'�nigme de l'Atlantide",
+            "nimike": "Blake och Mortimers äventyr 7: Atlantis gåta",
+            "julk": "(Carlsen - 1981)"
+        }, {
+            "numero": "8. ",
+            "alkupnimi": "S.O.S. M�t�ores",
+            "nimike": "Blaken ja Mortimerin seikkailuja 2: S.O.S. Meteoreita",
+            "julk": "(Semic - 1991)"
+        }, {
+            "numero": "9. ",
+            "alkupnimi": "Le pi�ge diabolique",
+            "nimike": "Blake och Mortimers äventyr 6: Den djävulska fällan",
+            "julk": "(Carlsen - 1980)"
+        }, {
+            "numero": "10. ",
+            "alkupnimi": "L'affaire du collier",
+            "nimike": "Blake och Mortimers äventyr 5: Halsbandsmysteriet",
+            "julk": "(Carlsen - 1980)"
+        }, {
+            "numero": "11. ",
+            "alkupnimi": "Les 3 formules du Prof. Sato, Tome 1"
+        }]
+    }, {
+        "tekija": "Jacobs, E.P. & De Moor, Bob",
+        "tarinat": [{
+            "numero": "12. ",
+            "alkupnimi": "Les 3 formules du Prof. Sato, Tome 2"
+        }]
+    }, {
+        "tekija": "Van Hamme, Jean & Benoit, Ted",
+        "tarinat": [{
+            "numero": "13. ",
+            "alkupnimi": "L'affaire Francis Blake- 1996",
+            "nimike": "The Adventures of Blake & Mortimer 4: The Francis Blake Affair",
+            "julk": "(Cinebook - 2008)"
+        }, {
+            "numero": "15. ",
+            "alkupnimi": "L'�trange rendez-vous- 2001",
+            "nimike": "The Adventures of Blake & Mortimer 5: The Strange Encounter",
+            "julk": "(Cinebook - 2009)"
+        }]
+    }, {
+        "tekija": "Sente, Yves & Juillard, André",
+        "tarinat": [{
+            "numero": "14. ",
+            "alkupnimi": "La machination Voronov- 2000",
+            "nimike": "The Adventures of Blake & Mortimer 8: Voronov Plot",
+            "julk": "(Cinebook - 2010)"
+        }]
+    }]
+}

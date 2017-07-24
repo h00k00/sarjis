@@ -1,0 +1,9 @@
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+/resources/node_modules
+/resources/platforms
+/resources/plugins
+/dev-resources
+out

@@ -1,0 +1,38 @@
+{
+    "lehdennimi": "Jim Cutlass",
+    "tarinalista": [
+
+        {
+            "tekija": "Charlier, Jean-Michel & Giraud, Jean",
+            "tarinat": [{
+                "numero": "1. ",
+                "alkupnimi": "Mississipi River�- 1978",
+                "nimike": "Jim Cutlass 1: Mississippi River",
+                "julk": "Casablanca - 1992"
+            }]
+        }, {
+            "tekija": "Rossi & Giraud",
+            "tarinat": [{
+                "numero": "2. ",
+                "alkupnimi": "L'homme de la Nouvelle Orl�ans�- 1991",
+                "nimike": "Jim Cutlass 2: Mannen från New Orleans",
+                "julk": "Casablanca - 1992"
+            }, {
+                "numero": "3. ",
+                "alkupnimi": "L'alligator blanc- 1993"
+            }, {
+                "numero": "4. ",
+                "alkupnimi": "Tonnerre au sud- 1995"
+            }, {
+                "numero": "5. ",
+                "alkupnimi": "Jusqu'au cou !- 1997"
+            }, {
+                "numero": "6. ",
+                "alkupnimi": "Colts, fant�mes et zombies- 1998"
+            }, {
+                "numero": "7. ",
+                "alkupnimi": "Nuit noire- 1999"
+            }]
+        }
+    ]
+}

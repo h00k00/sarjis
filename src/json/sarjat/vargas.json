@@ -1,0 +1,47 @@
+{
+    "lehdennimi": "Roco Vargas",
+    "tarinalista": [
+
+        {
+            "tekija": "Daniel Torres",
+            "tarinat": [{
+                "numero": "1. ",
+                "alkupnimi": "Triton- 1984",
+                "nimike": "Triton",
+                "julk": "Epix 84/06-85/01"
+            }, {
+                "nimike": "Triton",
+                "julk": "Heavy Metal 1984/November-1985/February"
+            }, {
+                "numero": "2. ",
+                "alkupnimi": "El misterio de susurro- 1985",
+                "nimike": "Rösten som väste",
+                "julk": "Epix 85/10-86/01"
+            }, {
+                "nimike": "Whisper Mystery, The",
+                "julk": "Heavy Metal 1985/May-September"
+            }, {
+                "numero": "3. ",
+                "alkupnimi": "Saxxon- 1986 ",
+                "nimike": "Saxxon",
+                "julk": "Epix 86/10-87/01"
+            }, {
+                "nimike": "Saxxon",
+                "julk": "Heavy Metal 1987/Winter"
+            }, {
+                "numero": "4. ",
+                "alkupnimi": "La estrella lejana- 1987",
+                "nimike": "Fjärran stjärna",
+                "julk": "Epix 88/01-04"
+            }, {
+                "nimike": "Distant Star",
+                "julk": "Heavy Metal 1987/Summer"
+            }, {
+                "numero": "5. ",
+                "alkupnimi": "El Bosque Oscuro",
+                "nimike": "Rocco Vargas - The Dark Forest",
+                "julk": "Dark Horse - 2001"
+            }]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "lehdennimi": "Joonatan Pistooli - Jehan Pistolet",
+    "tarinalista": [
+
+        {
+            "tekija": "Uderzo, Albert< & Goscinny, Rene",
+            "tarinat": [{
+                "numero": "1. ",
+                "alkupnimi": "Jehan Pistolet: Corsaire Prodigieux",
+                "nimike": "Joonatan Pistooli: Merten kauhu",
+                "julk": "Joonatan Pistooli Egmont - 2008"
+            }, {
+                "numero": "2. ",
+                "alkupnimi": "Jehan Pistolet: Corsaire du Roy",
+                "nimike": "Joonatan Pistooli: Kuninkaallisen laivaston kapteeni",
+                "julk": "Joonatan Pistooli Egmont - 2008"
+            }, {
+                "numero": "3. ",
+                "alkupnimi": "Jehan Pistolet et l'espion",
+                "nimike": "Joonatan Pistooli ja vakooja",
+                "julk": "Joonatan Pistooli Egmont - 2008"
+            }, {
+                "numero": "4. ",
+                "alkupnimi": "Jehan Pistolet en Amérique",
+                "nimike": "Joonatan Pistooli Amerikassa",
+                "julk": "Joonatan Pistooli Egmont - 2008"
+            }, {
+                "numero": "5. ",
+                "alkupnimi": "Jehan Pistolet et le savant fou ",
+                "nimike": "Joonatan Pistooli ja hullu keksijä",
+                "julk": "Joonatan Pistooli Egmont - 2008"
+            }]
+        }
+    ]
+}

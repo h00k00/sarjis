@@ -1,0 +1,47 @@
+{
+    "lehdennimi": "Hämärän matkamiehet - Les Compagnons du Crepuscule",
+    "tarinalista": [{
+        "tekija": "Fran�ois Bourgeon",
+        "tarinat": [{
+            "numero": "1. ",
+            "alkupnimi": "Le sortil�ge du bois des brumes- 1986",
+            "nimike": "Dimmornas skog",
+            "julk": "Epix 84/05-08"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "Les yeux d'�tain de la ville glauque- 1986",
+            "nimike": "Turkosstaden",
+            "julk": "Epix 86/03-07"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "Les yeux d'�tain de la ville glauque- 1986",
+            "nimike": "H&auml;m&auml;r&auml;n matkamiehet 2: Suolammen silm&auml;t",
+            "julk": "Jalava - 1993"
+        }, {
+            "numero": "3a. ",
+            "alkupnimi": "Le dernier chant des Malaterre - Montrog la ville- 1990",
+            "nimike": "Sirenens sång",
+            "julk": "Epix 88/06-11"
+        }, {
+            "numero": "3a. ",
+            "alkupnimi": "Le dernier chant des Malaterre - Montrog la ville- 1990",
+            "nimike": "Skymningens Färdkamrater: Sirenens sång",
+            "julk": "Medusa - 1990"
+        }, {
+            "numero": "3a. ",
+            "alkupnimi": "Le dernier chant des Malaterre - Montrog la ville- 1990",
+            "nimike": "Hämärän matkamiehet 3: Malaterrein viimeinen laulu - osa 1",
+            "julk": "Jalava - 1994"
+        }, {
+            "numero": "3b. ",
+            "alkupnimi": "Le dernier chant des Malaterre - Castel Montroy- 1990",
+            "nimike": "Skymningens Färdkamrater: Sirenens sång",
+            "julk": "Medusa - 1990"
+        }, {
+            "numero": "3b. ",
+            "alkupnimi": "Le dernier chant des Malaterre - Castel Montroy- 1990",
+            "nimike": "Hämärän matkamiehet 3: Malaterrein viimeinen laulu - osa 2",
+            "julk": "Jalava - 1996"
+        }]
+    }]
+}

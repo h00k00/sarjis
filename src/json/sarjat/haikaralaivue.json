@@ -1,0 +1,115 @@
+{
+    "lehdennimi": "Haikaralaivue - Tanguy et Laverdure",
+    "tarinalista": [{
+        "tekija": "Uderzo, Albert & Charlier, Jean-Michel",
+        "tarinat": [{
+            "numero": "1. ",
+            "alkupnimi": "L'�cole des aigles- 1961",
+            "nimike": "Haikaralaivue 1: Ilmojen kotkat",
+            "julk": "Egmont - 2010"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "Pour l'honneur des cocardes- 1962",
+            "nimike": "Haikaralaivue 2: Kunnian värit",
+            "julk": "Egmont - 2011"
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "Danger dans le ciel- 1963",
+            "nimike": "Haikaralaivue 3: Vaara taivaalla",
+            "julk": "Egmont - 2012"
+        }, {
+            "numero": "4. ",
+            "alkupnimi": "L'escadrille des cigognes- 1964"
+        }, {
+            "numero": "5. ",
+            "alkupnimi": "Mirage sur l'orient- 1965",
+            "nimike": "Ilmojen haukat 1: Kujanjuoksu kuolemaan",
+            "julk": "Semic - 1971"
+        }, {
+            "numero": "6. ",
+            "alkupnimi": "Canon Bleu ne r�pond plus- 1966",
+            "nimike": "Jetpiloterna 4: Uppdrag i Arktis",
+            "julk": "Semic"
+        }, {
+            "numero": "7. ",
+            "alkupnimi": "Cap Z�ro- 1967",
+            "nimike": "Jetpiloterna 5: I fiendes våld",
+            "julk": "Semic - 1972"
+        }, {
+            "numero": "8. ",
+            "alkupnimi": "Les pirates du ciel- 1967",
+            "nimike": "Rosvoja taivaalla",
+            "julk": "Zoom 73/01-07"
+        }]
+    }, {
+        "tekija": "Jijé & Charlier, Jean-Michel",
+        "tarinat": [{
+            "numero": "9. ",
+            "alkupnimi": "Les anges noirs- 1968",
+            "nimike": "Mustat enkelit",
+            "julk": "Zoom 74/09-14"
+        }, {
+            "numero": "10. ",
+            "alkupnimi": "Mission sp�ciale- 1968"
+        }, {
+            "numero": "11. ",
+            "alkupnimi": "Destination pacifique- 1969",
+            "nimike": "Tehtävä Etelämerellä",
+            "julk": "Zoom 74/35-41"
+        }, {
+            "numero": "12. ",
+            "alkupnimi": "Menace sur Mururoa- 1969",
+            "nimike": "Tuholaisia Mururoassa",
+            "julk": "Zoom 74/49-kesken"
+        }, {
+            "numero": "13. ",
+            "alkupnimi": "Lieutenant Double Bang- 1970"
+        }, {
+            "numero": "14. ",
+            "alkupnimi": "Barroud sur le desert- 1970"
+        }, {
+            "numero": "15. ",
+            "alkupnimi": "Les vampires attaquent la nuit- 1971",
+            "nimike": "Michel ja Ernest seikkailevat 1: Vampyyrit iskevät",
+            "julk": "a-kirjat/Lukupiste Oy - 1972"
+        }, {
+            "numero": "16. ",
+            "alkupnimi": "La terreur vient du ciel- 1971",
+            "nimike": "Michel ja Ernest seikkailevat 2: Taivas kylvää kauhua",
+            "julk": "a-kirjat/Lukupiste Oy - 1972"
+        }, {
+            "numero": "17. ",
+            "alkupnimi": "Mission \"derni� re chance\"- 1972"
+        }, {
+            "numero": "18. ",
+            "alkupnimi": "Un DC. 8 a disparu- 1973"
+        }, {
+            "numero": "19. ",
+            "alkupnimi": "La myst�rieuse Escadre Delta- 1979"
+        }, {
+            "numero": "20. ",
+            "alkupnimi": "Op�ration Tonnerre- 1981"
+        }, {
+            "numero": "21. ",
+            "alkupnimi": "Premi�res Missions- 1981"
+        }, {
+            "numero": "22. ",
+            "alkupnimi": "Station brouillard- 1982"
+        }]
+    }, {
+        "tekija": "Serres & Charlier, Jean-Michel",
+        "tarinat": [{
+            "numero": "23. ",
+            "alkupnimi": "Plan de vol pour l'enfer"
+        }, {
+            "numero": "24. ",
+            "alkupnimi": "L'espion venu du ciel- 1984"
+        }]
+    }, {
+        "tekija": "Coutelis & Charlier, Jean-Michel",
+        "tarinat": [{
+            "numero": "25. ",
+            "alkupnimi": "Survol interdit- 1988"
+        }]
+    }]
+}

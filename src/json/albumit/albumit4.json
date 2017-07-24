@@ -1,0 +1,19 @@
+{
+    "lehdennimi": "Albumit (useita tekijöitä)",
+    "tarinalista": [{
+        "tekija": "",
+        "tarinat": [{
+            "nimike": "Tintin och de fyrtio tecknarna",
+            "alkupnimi": "(A Suivre) Special Hergé",
+            "julk": "Medusa - 1989"
+        }]
+
+    }, {
+        "tekija": "",
+        "tarinat": [{
+            "nimike": "Asterix ja ystävät",
+            "alkupnimi": "Asterix et ses Amis",
+            "julk": "Egmont - 2007"
+        }]
+    }]
+}

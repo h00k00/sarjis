@@ -1,0 +1,88 @@
+{
+    "lehdennimi": "Alix",
+    "tarinalista": [{
+                "tekija": "Martin, Jacques",
+                "tarinat": [{
+                    "numero": "1. ",
+                    "alkupnimi": "Alix l'intr�pide"
+                }, {
+                    "numero": "2. ",
+                    "alkupnimi": "Le Sphinx d'or",
+                    "nimike": "Alix seikkailee 1: Kultainen sfinksi",
+                    "julk": "WSOY"
+                }, {
+                    "numero": "3. ",
+                    "alkupnimi": "L'�le maudite"
+                }, {
+                    "numero": "4. ",
+                    "alkupnimi": "La Tiare d'Oribal",
+                    "nimike": "Alix seikkailee 5: Oribalin kruunu",
+                    "julk": "WSOY - 1975"
+                }, {
+                    "numero": "5. ",
+                    "alkupnimi": "La Griffe noire"
+                }, {
+                    "numero": "6. ",
+                    "alkupnimi": "Les L�gions perdues",
+                    "nimike": "Alix seikkailee 7: Gallian sankarit",
+                    "julk": "WSOY - 1975"
+                }, {
+                    "numero": "7. ",
+                    "alkupnimi": "Le Dernier Spartiate"
+                }, {
+                    "numero": "8. ",
+                    "alkupnimi": "Le Tombeau �trusque"
+                }, {
+                    "numero": "9. ",
+                    "alkupnimi": "Le Dieu sauvage",
+                    "nimike": "Alix' äventyr 3: Den Onda Guden ",
+                    "julk": "Carlsen - 1975"
+                }, {
+                    "numero": "10. ",
+                    "alkupnimi": "Iorix le grand",
+                    "nimike": "Alix 10: Iorix suuri ",
+                    "julk": "Apollo - 2009"
+                }, {
+                    "numero": "11. ",
+                    "alkupnimi": "Le Prince du Nil",
+                    "nimike": "Alix 11: Niilin prinssi ",
+                    "julk": "Apollo - 2010"
+                }, {
+                    "numero": "12. ",
+                    "alkupnimi": "Le Fils de Spartacus",
+                    "nimike": "Alix 12: Spartacuksen poika ",
+                    "julk": "Apollo - 2008"
+                }, {
+                    "numero": "13. ",
+                    "alkupnimi": "Le Spectre de Carthage",
+                    "nimike": "Alix 13: Karthagon aave ",
+                    "julk": "Apollo - 2009"
+                }, {
+                    "numero": "14. ",
+                    "alkupnimi": "Les Proies du volcan",
+                    "nimike": "Alix 14: Tulivuoren uhrit ",
+                    "julk": "Apollo - 2011"
+                }, {
+                    "numero": "15. ",
+                    "alkupnimi": "L'Enfant grec",
+                    "nimike": "Alix 15: Kreikan lapsi",
+                    "julk": "Apollo - 2012"
+                }, {
+                    "numero": "16. ",
+                    "alkupnimi": "La Tour de Babel",
+                    "nimike": "Alix 16: Baabelin torni",
+                    "julk": "Apollo - 2013"
+                }, {
+                    "numero": "17. ",
+                    "alkupnimi": "L'Empereur de Chine",
+                    "nimike": "Alix 17: Kiinan keisari",
+                    "julk": "Apollo - 2014"
+                }, {
+                    "numero": "18. ",
+                    "alkupnimi": "Vercing�torix"
+                }, {
+                    "numero": "19. ",
+                    "alkupnimi": "Le Cheval de Troie"
+        }]
+    }]
+}

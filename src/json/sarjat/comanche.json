@@ -1,0 +1,111 @@
+{
+    "lehdennimi": "Comanche",
+    "tarinalista": [{
+        "tekija": "Hermann & Greg",
+        "tarinat": [{
+            "numero": "1. ",
+            "alkupnimi": "Red Dust - 1970",
+            "nimike": "Red Dust",
+            "julk": "Zoom 1973/07-14)"
+        }, {
+            "numero": "1. ",
+            "alkupnimi": "Red Dust - 1970",
+            "nimike": "Red Dust",
+            "julk": "Jalava - 2005"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "Les guerriers du d�sespoir- 1971",
+            "nimike": "He kieltäytyivät kuolemasta",
+            "julk": "Zoom 1973/40-46)"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "Les guerriers du d�sespoir- 1971",
+
+            "nimike": "Epätoivon soturit",
+            "julk": "Apollo - 2008"
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "Les loups du Wyoming- 1972",
+            "nimike": "Wyomingin sudet",
+            "julk": "Zoom 1973/47-51)"
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "Les loups du Wyoming- 1972",
+
+            "nimike": "Wyomingin sudet",
+            "julk": "Apollo - 2009"
+        }, {
+            "numero": "4. ",
+            "alkupnimi": "Le ciel est rouge sur Laramie- 1973",
+            "nimike": "Laramien punainen taivas",
+            "julk": "Apollo - 2010"
+        }, {
+            "numero": "5. ",
+            "alkupnimi": "Le d�sert sans lumi�res- 1974",
+            "nimike": "Lohduton erämaa",
+            "julk": "Apollo - 2011"
+        }, {
+            "numero": "6. ",
+            "alkupnimi": "Furie rebelle - 1975",
+            "nimike": "Hurja kapinallinen",
+            "julk": "Apollo - 2012"
+        }, {
+            "numero": "7. ",
+            "alkupnimi": "Le doigt du diable- 1977",
+            "nimike": "Pirun sormi",
+            "julk": "Apollo - 2013"
+        }, {
+            "numero": "8. ",
+            "alkupnimi": "Les sh�rifs- 1979",
+            "nimike": "Seriffit",
+            "julk": "Apollo - 2014"
+        }, {
+            "numero": "9. ",
+            "alkupnimi": "Et le diable hurla de joie- 1980"
+        }, {
+            "numero": "10. ",
+            "alkupnimi": "Le corps d'Algernon Brown- 1982"
+        }]
+    }, {
+        "tekija": "Rouge, Michel & Greg",
+        "tarinat": [{
+            "numero": "11. ",
+            "alkupnimi": "Les fauves- 1990"
+        }, {
+            "numero": "12. ",
+            "alkupnimi": "Le dollar a 3 faces- 1992"
+        }, {
+            "numero": "13. ",
+            "alkupnimi": "Le carneval sauvage- 1995"
+        }, {
+            "numero": "14. ",
+            "alkupnimi": "Les cavaliers du rio perdu- 1997"
+        }, {
+            "numero": "15. ",
+            "alkupnimi": "Scalp Express- 2002"
+        }]
+    }, {
+        "tekija": "Hermann & Greg",
+        "tarinat": [{
+            "numero": "",
+            "alkupnimi": "Le prisonnier- 1972",
+            "nimike": "Red Dust - Vanki",
+            "julk": "SuperPokkari 1 - 1975"
+        }, {
+            "numero": "",
+            "alkupnimi": "Souviens-toi, Kentucky ...- 1972",
+            "nimike": "Muistatko vielä, Kentucky?",
+            "julk": "SuperPokkari 2 - 1975"
+        }, {
+            "numero": "",
+            "alkupnimi": "Palomino- 1978"
+
+        }, {
+            "numero": "",
+            "alkupnimi": "Manque de respect- 1982"
+        }, {
+            "numero": "",
+            "alkupnimi": "Rose Marriage- 1982"
+        }]
+    }]
+}

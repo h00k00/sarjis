@@ -1,0 +1,199 @@
+{
+    "lehdennimi": "Zoom",
+    "tarinalista": [{
+        "tekija": "Bara ",
+        "tarinat": [{
+            "nimike": "Yhden sivun tarinoita",
+            "julk": "Zoom 73/05 "
+        }]
+    }, {
+        "tekija": "Dupa ",
+        "tarinat": [{
+            "nimike": "Yhden sivun tarinoita",
+            "julk": "Zoom 73/01-74/52 "
+        }]
+    }, {
+        "tekija": "Dupa & Greg ",
+        "tarinat": [{
+            "nimike": "Suuri vaellus",
+            "julk": "Zoom 74/21-29 "
+        }]
+    }, {
+        "tekija": "Gillon, Paul ",
+        "tarinat": [{
+            "nimike": "Kohtalon armoilla",
+            "julk": "Zoom 74/45-51 "
+        }]
+    }, {
+        "tekija": "Giraud, Jean & Charlier, Jean-Michael",
+        "tarinat": [{
+            "nimike": "Mies ja hopeatähti",
+            "julk": "Zoom 73/01-74/05 "
+        }, {
+            "nimike": "Unohdettu kultakaivos",
+            "julk": "Zoom 74/18-24 "
+        }, {
+            "nimike": "Kultaluoteja ampuva aave",
+            "julk": "Zoom 74/32-41 "
+        }]
+    }, {
+        "tekija": "Graton, Jean ",
+        "tarinat": [{
+            "nimike": "öljyä radalla",
+            "julk": "Zoom 73/01-74/02 "
+        }, {
+            "nimike": "Kahden pyörän rodeo",
+            "julk": "Zoom 74/03-13 "
+        }, {
+            "nimike": "Viiden tytön ralli",
+            "julk": "Zoom 74/24-32 "
+        }]
+    }, {
+        "tekija": "Herge ",
+        "tarinat": [{
+            "nimike": "Tintti kuun kamaralla",
+            "julk": "Zoom 73/01-74/18 "
+        }, {
+            "nimike": "Auringon temppeli",
+            "julk": "Zoom 74/19-25 "
+        }, {
+            "nimike": "Ottokarin valtikka",
+            "julk": "Zoom 74/26-42 "
+        }, {
+            "nimike": "Haijärvi",
+            "julk": "Zoom 74/43-51 "
+        }]
+    }, {
+        "tekija": "Hermann & Greg ",
+        "tarinat": [{
+            "nimike": "Hankala matkustaja",
+            "julk": "Zoom 73/06 "
+        }, {
+            "nimike": "Red Dust",
+            "julk": "Zoom 74/07-14 "
+        }, {
+            "nimike": "Seikkailu Manhattanilla",
+            "julk": "Zoom 74/33-37"
+        }, {
+            "nimike": "He kieltäytyivät kuolemasta",
+            "julk": "Zoom 74/40-46 "
+        }, {
+            "nimike": "Wyomingin sudet",
+            "julk": "Zoom 74/47-51 "
+        }]
+    }, {
+        "tekija": "Hubinon, Victor & Charlier, Jean-Michael",
+        "tarinat": [{
+            "nimike": "Karibian paholainen",
+            "alkupnimi": " Le d� mon des Cara� bes ",
+            "julk ": "Zoom 74 / 01 - 09 "
+        }, {
+            "nimike": "Seitsemän meren kuningas",
+            "alkupnimi": " Le roi des septs mers ",
+            "julk ": "Zoom 74 / 12 - 20 "
+        }, {
+            "nimike": "Vainottu perillinen",
+            "alkupnimi": " Le fils de Barbe Rouge ",
+            "julk ": "Zoom 74 / 42 - 48 "
+        }]
+    }, {
+        "tekija": "Berck & Jansen, Rudy ",
+        "tarinat": [{
+            "nimike": "Kaukametsän ihmeotus",
+            "julk": "Zoom 73/01-74/14 "
+        }]
+    }, {
+        "tekija": "Jije & Charlier, Jean-Michael",
+        "tarinat": [{
+            "nimike": "Mustat enkelit",
+            "julk": "Zoom 74/09-14 "
+        }, {
+            "nimike": "Tehtävä Etelämerellä",
+            "julk": "Zoom 74/35-41 "
+        }, {
+            "nimike": "Tuholaisia Mururoassa",
+            "julk": "Zoom 74/49-kesken "
+        }]
+    }, {
+        "tekija": "Mezieres, Jean-Claude & Christin, Pierre",
+        "tarinat": [{
+            "nimike": "Tuhannen planeetan valtakunta",
+            "julk": "Zoom 73/01-74/06 "
+        }, {
+            "nimike": "Karannut planeetta",
+            "julk": "Zoom 74/25-34 "
+        }]
+    }, {
+        "tekija": "Reding, R. ",
+        "tarinat": [{
+            "nimike": "Vihreän kentän sankarit",
+            "julk": "Zoom 74/26-33 "
+        }]
+    }, {
+        "tekija": "Tibet & Duchateau, A.P. ",
+        "tarinat": [{
+            "nimike": "Ihmisryöstäjät",
+            "julk": "Zoom 74/45-kesken "
+        }]
+    }, {
+        "tekija": "Uderzo, Albert  & Charlier, Jean-Michael",
+        "tarinat": [{
+            "nimike": "Rosvoja taivaalla",
+            "julk": "Zoom 73/01-07 "
+        }]
+    }, {
+        "tekija": "Uderzo, Albert & Goscinny, René",
+        "tarinat": [{
+            "nimike": "Päänahan metsästäjät",
+            "julk": "Zoom 73/01-74/09 "
+        }, {
+            "nimike": "Caesarin laakeriseppele",
+            "julk": "Zoom 73/01-74/16"
+        }, {
+            "nimike": "Latuskajalat sotapolulla",
+            "julk": "Zoom 74/10-24 "
+        }, {
+            "nimike": "Asterix legioonalaisena",
+            "julk": "Zoom 74/17-39"
+        }, {
+            "nimike": "Merirosvoja näköpiirissä",
+            "julk": "Zoom 74/25-40 "
+        }, {
+            "nimike": "Asterix gallialainen",
+            "julk": "Zoom 74/40-kesken"
+        }, {
+            "nimike": "Salainen tehtävä",
+            "julk": "Zoom 74/41-kesken "
+        }]
+    }, {
+        "tekija": "Vance, William & Albert, Louis ",
+        "tarinat": [{
+            "nimike": "Pallossa on ansa",
+            "julk": "Zoom 73/03 "
+        }, {
+            "nimike": "Timanttiverkosto",
+            "julk": "Zoom 74/08-09 "
+        }, {
+            "nimike": "Kukka tähtäimessä",
+            "julk": "Zoom 74/16 "
+        }, {
+            "nimike": "Jähmettynyt kaupunki",
+            "julk": "Zoom 74/37-43 "
+        }]
+    }, {
+        "tekija": "Weinberg, Albert ",
+        "tarinat": [{
+            "nimike": "Lentävien lautasten salaisuus",
+            "julk": "Zoom 74/15-23 "
+        }]
+    }, {
+        "tekija": "Vernes, Henri & Vance, William ",
+        "tarinat": [{
+            "nimike": "Silmät sumussa",
+            "julk": "Zoom 74/15-21"
+        }, {
+            "nimike": "Olematon kaupunki",
+            "julk": "Zoom 74/23-31 "
+        }]
+    }]
+}

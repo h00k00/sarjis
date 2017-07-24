@@ -1,0 +1,28 @@
+{
+    "lehdennimi": "Peter Pan",
+    "tarinalista": [{
+        "tekija": "Loisel, Regis",
+        "tarinat": [{
+            "numero": "1. ",
+            "alkupnimi": "Londres- 1990",
+            "nimike": "Peter Pan 1: Lontoo",
+            "julk": "Semic - 1992"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "Opikanoba- 1992",
+            "nimike": "Peter Pan 2: Opikanoba",
+            "julk": "Semic - 1993"
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "Temp�te- 1994",
+            "nimike": "Peter Pan 3: Myrsky",
+            "julk": "Semic - 1995"
+        }, {
+            "numero": "4. ",
+            "alkupnimi": "Mains Rouges- 1996"
+        }, {
+            "numero": "5. ",
+            "alkupnimi": "Crochet- 2002"
+        }]
+    }]
+}

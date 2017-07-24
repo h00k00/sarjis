@@ -1,0 +1,58 @@
+{
+    "lehdennimi": "Frank - Lefranc",
+    "tarinalista": [{
+        "tekija": "Martin, Jacques",
+        "tarinat": [{
+            "numero": "1. ",
+            "alkupnimi": "La grande menace1954"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "L'ouragan de feu1961",
+            "nimike": "Frank 6: Eldstormen",
+            "julk": "allerbok - 1980"
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "Le myst�re Borg1965"
+        }, {
+            "numero": "4. ",
+            "alkupnimi": "Le repaire du Loup (piirros: Bob de Moor) 1974",
+            "nimike": "Frank 1: Varghålan",
+            "julk": "allerbok - 1979"
+        }, {
+            "numero": "5. ",
+            "alkupnimi": "Les portes de l'enfer (piirros: Gilles Chaillet) 1978",
+            "nimike": "Frank 2: Helvetets portar",
+            "julk": "allerbok - 1979"
+        }, {
+            "numero": "6. ",
+            "alkupnimi": "Op�ration Thor (piirros: Gilles Chaillet) 1979"
+        }, {
+            "numero": "7. ",
+            "alkupnimi": "L'oasis (piirros: Gilles Chaillet) 1981"
+        }, {
+            "numero": "8. ",
+            "alkupnimi": "L'arme absolue (piirros: Gilles Chaillet) 1982"
+        }, {
+            "numero": "9. ",
+            "alkupnimi": "La crypte (piirros: Gilles Chaillet) 1984"
+        }, {
+            "numero": "10. ",
+            "alkupnimi": "L'apocalypse (piirros: Gilles Chaillet) 1987"
+        }, {
+            "numero": "11. ",
+            "alkupnimi": "La cible (piirros: Gilles Chaillet) 1989"
+        }, {
+            "numero": "12. ",
+            "alkupnimi": "La Camarilla (piirros: Gilles Chaillet) 1997"
+        }, {
+            "numero": "13. ",
+            "alkupnimi": "Le vol du Spirit (piirros: Gilles Chaillet) 1998"
+        }, {
+            "numero": "14. ",
+            "alkupnimi": "La colonne (piirros: Christophe Simon) 2001"
+        }, {
+            "numero": "15. ",
+            "alkupnimi": "El Paradisio (piirros: Christophe Simon) 2002"
+        }]
+    }]
+}

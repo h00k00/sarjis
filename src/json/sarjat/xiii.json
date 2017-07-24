@@ -1,0 +1,120 @@
+{
+    "lehdennimi": "XIII",
+    "tarinalista": [
+
+        {
+            "tekija": "Van Hamme, Jean & Vance, William",
+            "tarinat": [{
+                "numero": "1. ",
+                "alkupnimi": "Le jour du soleil noir",
+                "nimike": "Mustan auringon päivä",
+                "julk": "XIII/1, Like - 1998"
+            }, {
+                "nimike": "XIII 1:Mustan auringon päivä",
+                "julk": "Arktinen Banaani - 2005"
+            }, {
+                "numero": "2. ",
+                "alkupnimi": "L� o� va l'indien",
+                "nimike": "Minne intiaani menee",
+                "julk": "XIII/1, Like - 1998"
+            }, {
+                "nimike": "XIII 2: Minne intiaani kulkee...",
+                "julk": "Arktinen Banaani - 2005"
+            }, {
+                "numero": "3. ",
+                "alkupnimi": "Toutes les larmes de l'enfer",
+                "nimike": "Kaikki helvetin kyyneleet",
+                "julk": "XIII/1, Like - 1998"
+            }, {
+                "nimike": "XIII 3: Helvetin kyyneleet",
+                "julk": "Arktinen Banaani - 2005"
+            }, {
+                "numero": "4. ",
+                "alkupnimi": "SPADS",
+                "nimike": "XIII 4: Iskuryhmä",
+                "julk": "Arktinen Banaani - 2005"
+            }, {
+                "numero": "5. ",
+                "alkupnimi": "Rouge total",
+                "nimike": "XIII 5: Hälytystila",
+                "julk": "Arktinen Banaani - 2006"
+            }, {
+                "numero": "6. ",
+                "alkupnimi": "Le dossier Jason Fly",
+                "nimike": "XIII 6: Tapaus Jason Fly",
+                "julk": "Arktinen Banaani - 2006"
+            }, {
+                "numero": "7. ",
+                "alkupnimi": "La nuit du 3 Ao�t",
+                "nimike": "XIII 7: Elokuun kolmas yö",
+                "julk": "Arktinen Banaani - 2007"
+            }, {
+                "numero": "8. ",
+                "alkupnimi": "XIII contre I",
+                "nimike": "XIII 8: Kolmetoista yhtä vastaan",
+                "julk": "Arktinen Banaani - 2008"
+            }, {
+                "numero": "9. ",
+                "alkupnimi": "Pour Maria",
+                "nimike": "XIII 9: Maria",
+                "julk": "Arktinen Banaani - 2009"
+            }, {
+                "numero": "10. ",
+                "alkupnimi": "El Cascador",
+                "nimike": "XIII 10: El Cascador",
+                "julk": "Cinebook - 2011"
+            }, {
+                "numero": "11. ",
+                "alkupnimi": "Trois montres d'argent",
+                "nimike": "XIII 11: Three Silver Watches",
+                "julk": "Cinebook - 2012"
+            }, {
+                "numero": "12. ",
+                "alkupnimi": "Le jugement",
+                "nimike": "XIII 12: The Trial",
+                "julk": "Cinebook - 2012"
+            }, {
+                "numero": "13. ",
+                "alkupnimi": "Secret D�fense- 2000",
+                "nimike": "XIII 13: Top Secret",
+                "julk": "Cinebook - 2012"
+            }, {
+                "numero": "14. ",
+                "alkupnimi": "Lachez les chiens",
+                "nimike": "XIII 14: Release the Hounds",
+                "julk": "Cinebook - 2012"
+            }, {
+                "numero": "15. ",
+                "alkupnimi": "Op�ration Montecristo",
+                "nimike": "XIII 15: Operation Montecristo",
+                "julk": "Cinebook - 2012"
+            }, {
+                "numero": "16. ",
+                "alkupnimi": "L'or de Maximilien",
+                "nimike": "XIII 16: Maximilian's Gold",
+                "julk": "Cinebook - 2012"
+            }, {
+                "numero": "17. Jean Giraud",
+                "alkupnimi": "La Version Irlandaise",
+                "nimike": "XIII 17: The Irish Version",
+                "julk": "Cinebook - 2013"
+            }, {
+                "numero": "18. ",
+                "alkupnimi": "Le dernier Round",
+                "nimike": "XIII 18: The Last Round",
+                "julk": "Cinebook - 2013"
+            }]
+        }, {
+            "tekija": "Meyer, R. & Dorison, X.",
+            "tarinat": [
+
+                {
+                    "numero": "XIII mystery 1. ",
+                    "alkupnimi": "La mangouste",
+                    "nimike": "The Mongoose",
+                    "julk": "Cinebook - 2014"
+                }
+            ]
+        }
+    ]
+}

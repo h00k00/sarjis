@@ -1,0 +1,47 @@
+{
+    "lehdennimi": "Barelli",
+    "tarinalista": [{
+        "tekija": "De Moor, Bob",
+        "tarinat": [{
+            "numero": "1. ",
+            "alkupnimi": "L'Enigmatique Monsieur Barelli- 1956",
+            "nimike": "Barelli 1: Arvoituksellinen herra Barelli",
+            "julk": "Sanoma Oy - 1976"
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "Barelli a nusa penida - L'ile du sorcier",
+            "nimike": "Barelli 6: Barelli Jaavanmerellä 1. jakso: Noitasaari",
+            "julk": "Sanoma Oy - 1985"
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "Barelli a nusa penida - Les trafiquants du temple",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "4. ",
+            "alkupnimi": "Barelli et les agents secrets- 1973",
+            "nimike": "Barelli 2: Barelli ja salaiset agentit",
+            "julk": "Sanoma Oy - 1978"
+        }, {
+            "numero": "5. ",
+            "alkupnimi": "Barelli et le Bouddha boudant- 1974",
+            "nimike": "Barelli 3: Barelli ja jurottava Buddha",
+            "julk": "Sanoma Oy - 1979"
+        }, {
+            "numero": "6. ",
+            "alkupnimi": "Barelli bonne mine a la mer- 1975",
+            "nimike": "Barelli 4: Barelli ja merirosvoradio",
+            "julk": "Sanoma Oy - 1979"
+        }, {
+            "numero": "7. ",
+            "alkupnimi": "Barelli et le seigneur de Gonobutz- 1980",
+            "nimike": "Barelli 5: Barelli ja Gonobutzin valtias",
+            "julk": "Sanoma Oy - 1979"
+        }, {
+            "numero": "8. ",
+            "alkupnimi": "Barelli et la mort de Richard II - 1980",
+            "nimike": "",
+            "julk": ""
+        }]
+    }]
+}

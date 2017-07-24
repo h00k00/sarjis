@@ -1,0 +1,619 @@
+{
+    "lehdennimi": "Tapiiri",
+    "tarinalista": [{
+        "tekija": "Altan",
+        "tarinat": [{
+            "nimike": "Milanon metro ",
+            "julk": "Tapiiri 1984/3"
+        }, {
+            "nimike": "Unohtumaton päivä ",
+            "julk": "Tapiiri 1984/4"
+        }, {
+            "nimike": "Ada viidakossa ",
+            "julk": "Tapiiri 1986/1-1988/1"
+        }, {
+            "nimike": "Macao ",
+            "julk": "Tapiiri 1988/2-1989/4"
+        }]
+    }, {
+        "tekija": "Arno",
+        "tarinat": [{
+            "nimike": "Hylynryöstajät ",
+            "julk": "Tapiiri 1988/4"
+        }, {
+            "nimike": "Juna ",
+            "julk": "Tapiiri 1988/4"
+        }, {
+            "nimike": "Selviäjät ",
+            "julk": "Tapiiri 1988/4"
+        }, {
+            "nimike": "Berlin 1945 ",
+            "julk": "Tapiiri 1989/1"
+        }, {
+            "nimike": "Bunkkeri ",
+            "julk": "Tapiiri 1989/2"
+        }, {
+            "nimike": "Katukersat ",
+            "julk": "Tapiiri 1989/2"
+        }]
+    }, {
+        "tekija": "Arno & Bocket, J.L.",
+        "tarinat": [{
+            "nimike": "Jozefa laskee junia ",
+            "julk": "Tapiiri 1989/1"
+        }]
+    }, {
+        "tekija": "Autheman",
+        "tarinat": [{
+            "nimike": "Manolono ",
+            "julk": "Tapiiri 1984/4"
+        }]
+    }, {
+        "tekija": "Avoine",
+        "tarinat": [{
+            "nimike": "Metsästysretki ",
+            "julk": "Tapiiri 1984/1"
+        }, {
+            "nimike": "Avoine ",
+            "julk": "Tapiiri 1984/2, 3, 4"
+        }]
+    }, {
+        "tekija": "Barbe",
+        "tarinat": [{
+            "nimike": "Cinema ",
+            "julk": "Tapiiri 1984/1, 2"
+        }, {
+            "nimike": "Sielunmessu Julesille ",
+            "julk": "Tapiiri 1984/3"
+        }]
+    }, {
+        "tekija": "Bilal, Enki",
+        "tarinat": [{
+            "nimike": "Siirtokuntatragedia ",
+            "julk": "Tapiiri 1985/1"
+        }, {
+            "nimike": "Plits ",
+            "julk": "Tapiiri 1985/2"
+        }]
+    }, {
+        "tekija": "Bocquet, JoseLouis & Max",
+        "tarinat": [{
+            "nimike": "Flakpanzer ",
+            "julk": "Tapiiri 1985/2"
+        }]
+    }, {
+        "tekija": "Boucq",
+        "tarinat": [{
+            "nimike": "Seikkailuja Malesiassa ",
+            "julk": "Tapiiri 1985/1"
+        }, {
+            "nimike": "Suuren Pohjolan laki ",
+            "julk": "Tapiiri 1985/3"
+        }]
+    }, {
+        "tekija": "Brunel, Roger",
+        "tarinat": [{
+            "nimike": "Aspenix Gullialainen ",
+            "julk": "Tapiiri 1984/1"
+        }, {
+            "nimike": "Luki luki ",
+            "julk": "Tapiiri 1984/2"
+        }, {
+            "nimike": "Muffinsit ",
+            "julk": "Tapiiri 1984/3"
+        }]
+    }, {
+        "tekija": "Buzzelli, Guido",
+        "tarinat": [{
+            "nimike": "Häät ",
+            "julk": "Tapiiri 1984/3"
+        }]
+    }, {
+        "tekija": "Caillon, Jean",
+        "tarinat": [{
+            "nimike": "Biscuit ",
+            "julk": "Tapiiri 1984/4"
+        }]
+    }, {
+        "tekija": "Caza",
+        "tarinat": [{
+            "nimike": "Arava-arkki",
+            "julk": "Tapiiri 1985/1"
+        }]
+    }, {
+        "tekija": "Comes",
+        "tarinat": [{
+            "nimike": "Eva ",
+            "julk": "Tapiiri 1986/3-1988/3"
+        }, {
+            "nimike": "Sydänpuu ",
+            "julk": "Tapiiri 1988/4-1989/4"
+        }]
+    }, {
+        "tekija": "Corben, Richard",
+        "tarinat": [{
+            "nimike": "Lohikäärme neito ",
+            "julk": "Tapiiri 1985/3"
+        }]
+    }, {
+        "tekija": "Deitch, Kim",
+        "tarinat": [{
+            "nimike": "Sukupuutto ",
+            "julk": "Tapiiri 1984/1"
+        }, {
+            "nimike": "Eläimellinen intohimo ",
+            "julk": "Tapiiri 1984/2"
+        }]
+    }, {
+        "tekija": "Denis, Jean-C",
+        "tarinat": [{
+            "nimike": "Luc Leroin sisäiset seikkailut ",
+            "julk": "Tapiiri 1986/2"
+        }, {
+            "nimike": "Luc Leroi: Likainen juttu ",
+            "julk": "Tapiiri 1986/2"
+        }, {
+            "nimike": "Luc Leroi: Koiran elämää ",
+            "julk": "Tapiiri 1986/3"
+        }, {
+            "nimike": "Luc Leroi: Meduusakausi ",
+            "julk": "Tapiiri 1986/3"
+        }, {
+            "nimike": "Luc Leroi: Paha henki ",
+            "julk": "Tapiiri 1987/1"
+        }]
+    }, {
+        "tekija": "Eisner, Will",
+        "tarinat": [{
+            "nimike": "Spirit: Pidettäkää Sand Saref ",
+            "julk": "Tapiiri 1985/2"
+        }, {
+            "nimike": "Spirit: Tyrmälän vanki ",
+            "julk": "Tapiiri 1985/3"
+        }, {
+            "nimike": "Spirit: Nazel B. Twitch ",
+            "julk": "Tapiiri 1986/1"
+        }, {
+            "nimike": "Spirit: Portierin perintö ",
+            "julk": "Tapiiri 1986/2"
+        }, {
+            "nimike": "Spirit: Tyttökoulu ",
+            "julk": "Tapiiri 1986/3"
+        }, {
+            "nimike": "Spirit: Saree ",
+            "julk": "Tapiiri 1986/3"
+        }, {
+            "nimike": "Spirit: The Christmas Spirit ",
+            "julk": "Tapiiri 1987/1"
+        }, {
+            "nimike": "Voitto ",
+            "julk": "Tapiiri 1988/1"
+        }, {
+            "nimike": "Pitkä isku ",
+            "julk": "Tapiiri 1988/2"
+        }, {
+            "nimike": "Spirit: Kettu loukossa ",
+            "julk": "Tapiiri 1989/2"
+        }]
+    }, {
+        "tekija": "F'Murr",
+        "tarinat": [{
+            "nimike": "Alpeilla henkii ",
+            "julk": "Tapiiri 1988/1"
+        }, {
+            "nimike": "Taistelu Thhuhhhlesta ",
+            "julk": "Tapiiri 1988/2"
+        }, {
+            "nimike": "Brahms",
+            "julk": "Tapiiri 1989/3"
+        }]
+    }, {
+        "tekija": "Franc, Regis",
+        "tarinat": [{
+            "nimike": "Sisiliskojen yö ",
+            "julk": "Tapiiri 1985/1"
+        }, {
+            "nimike": "Kaksi vanhaa filmitähteä ",
+            "julk": "Tapiiri 1985/2"
+        }, {
+            "nimike": "Hyvin vaatimaton miljardööri ",
+            "julk": "Tapiiri 1986/1"
+        }, {
+            "nimike": "Sitä kovemmin he kaatuvat ",
+            "julk": "Tapiiri 1986/2"
+        }, {
+            "nimike": "Sisäkuvia ",
+            "julk": "Tapiiri 1986/3"
+        }]
+    }, {
+        "tekija": "Fred",
+        "tarinat": [{
+            "nimike": "Valtikka ",
+            "julk": "Tapiiri 1984/2"
+        }, {
+            "nimike": "Pikku Valkohilkka ",
+            "julk": "Tapiiri 1984/4"
+        }, {
+            "nimike": "Kun arkku on pommi, pommi vie arkkuun ",
+            "julk": "Tapiiri 1985/3"
+        }, {
+            "nimike": "Koe-esiintyminen vasemmalle kädelle ",
+            "julk": "Tapiiri 1986/1"
+        }, {
+            "nimike": "Hämmennetäänpä opasta ",
+            "julk": "Tapiiri 1986/2"
+        }, {
+            "nimike": "Magic Palace Hotel ",
+            "julk": "Tapiiri 1986/3"
+        }, {
+            "nimike": "Magic Palace Hotel ",
+            "julk": "Tapiiri 1987/1"
+        }]
+    }, {
+        "tekija": "Griffith, Bill",
+        "tarinat": [{
+            "nimike": "Nykypäivän skidit ",
+            "julk": "Tapiiri 1984/1"
+        }, {
+            "nimike": "Sohva auringossa ",
+            "julk": "Tapiiri 1984/1"
+        }, {
+            "nimike": "Kissajuttuja ",
+            "julk": "Tapiiri 1984/4"
+        }]
+    }, {
+        "tekija": "Hansen, PallejaTiina",
+        "tarinat": [{
+            "nimike": "Tarpeettomat ",
+            "julk": "Tapiiri 1988/3"
+        }]
+    }, {
+        "tekija": "He, Dominique",
+        "tarinat": [{
+            "nimike": "Lou Rocky: Varastettu kenkä ",
+            "julk": "Tapiiri 1988/1"
+        }, {
+            "nimike": "Loma ",
+            "julk": "Tapiiri 1988/2"
+        }, {
+            "nimike": "Talapalca ",
+            "julk": "Tapiiri 1988/2"
+        }, {
+            "nimike": "Varokaa hirviöitä ",
+            "julk": "Tapiiri 1989/1"
+        }, {
+            "nimike": "Sethin 3 asuinsijaa ",
+            "julk": "Tapiiri 1989/2"
+        }]
+    }, {
+        "tekija": "He, Dominique & LeTendre",
+        "tarinat": [{
+            "nimike": "El Dorado ",
+            "julk": "Tapiiri 1984/1"
+        }]
+    }, {
+        "tekija": "Heikkilä, Pauli & Paretskoi, Markku",
+        "tarinat": [{
+            "nimike": "Vanhat herrat ja lemmikkieläin ",
+            "julk": "Tapiiri 1984/1"
+        }, {
+            "nimike": "Vanhat herrat ja hissikuilu ",
+            "julk": "Tapiiri 1984/4"
+        }]
+    }, {
+        "tekija": "Hiltunen, Tiina & Ahonen, Kyky",
+        "tarinat": [{
+            "nimike": "Otsikko ",
+            "julk": "Tapiiri 1986/3"
+        }]
+    }, {
+        "tekija": "Hämeri, Heikki & Riikonen, Jarmo",
+        "tarinat": [{
+            "nimike": "Polot",
+            "julk": "Tapiiri 1989/3"
+        }]
+    }, {
+        "tekija": "Jones, Ralston & Ridgeway, Frank",
+        "tarinat": [{
+            "nimike": "Herra Hermanni ",
+            "julk": "Tapiiri 1984/1"
+        }]
+    }, {
+        "tekija": "Karlström, Björn",
+        "tarinat": [{
+            "nimike": "Leo Falk: Tuntematon planeetta",
+            "julk": "Tapiiri 1989/04 - 1990/2"
+        }]
+    }, {
+        "tekija": "Keko & Mique",
+        "tarinat": [{
+            "nimike": "Livingston vastaan Fumake",
+            "julk": "Tapiiri 1990/2"
+        }]
+    }, {
+        "tekija": "Koivisto, Tarmo",
+        "tarinat": [{
+            "nimike": "Munasarja ",
+            "julk": "Tapiiri 1984/1"
+        }]
+    }, {
+        "tekija": "Koskela, Ilpo",
+        "tarinat": [{
+            "nimike": "Trokarin tarinoit' ",
+            "julk": "Tapiiri 1988/3"
+        }]
+    }, {
+        "tekija": "Lauzier",
+        "tarinat": [{
+            "nimike": "Ihmisen paras ystävä ",
+            "julk": "Tapiiri 1985/2"
+        }]
+    }, {
+        "tekija": "Lob, Jacques & Mandryka",
+        "tarinat": [{
+            "nimike": "Homph ",
+            "julk": "Tapiiri 1984/2"
+        }]
+    }, {
+        "tekija": "Loro",
+        "tarinat": [{
+            "nimike": "Asfalttikukka ",
+            "julk": "Tapiiri 1987/1"
+        }]
+    }, {
+        "tekija": "Manara, Milo",
+        "tarinat": [{
+            "nimike": "Acherontia atropas ",
+            "julk": "Tapiiri 1984/1"
+        }, {
+            "nimike": "Asteroidi Borges Profeta ",
+            "julk": "Tapiiri 1984/3"
+        }, {
+            "nimike": "Sininen kausi ",
+            "julk": "Tapiiri 1985/3"
+        }]
+    }, {
+        "tekija": "McCay, R.WinsorJr.",
+        "tarinat": [{
+            "nimike": "Pikku Nemo ",
+            "julk": "Tapiiri 1984/1"
+        }]
+    }, {
+        "tekija": "Munoz & Sampayo",
+        "tarinat": [{
+            "nimike": "Joen Baari: Tuo miellyttävä herra Wilcox ",
+            "julk": "Tapiiri 1986/1"
+        }]
+    }, {
+        "tekija": "Mäkelä, Timo",
+        "tarinat": [{
+            "nimike": "Kuka pudotti banaaninkuoren? ",
+            "julk": "Tapiiri 1984/1"
+        }, {
+            "nimike": "Willi joukko ",
+            "julk": "Tapiiri 1985/1"
+        }]
+    }, {
+        "tekija": "Pamies",
+        "tarinat": [{
+            "nimike": "Operaatio Barseluneta ",
+            "julk": "Tapiiri 1984/3"
+        }]
+    }, {
+        "tekija": "Pirttisalo, Ari",
+        "tarinat": [{
+            "nimike": "Mörrimöykky ",
+            "julk": "Tapiiri 1985/1"
+        }]
+    }, {
+        "tekija": "Pratt, Hugo",
+        "tarinat": [{
+            "nimike": "Corto Maltese: Kauniiden unien laguuni ",
+            "julk": "Tapiiri 1984/4"
+        }, {
+            "nimike": "Corto Maltese: Herra presidentin voodoo ",
+            "julk": "Tapiiri 1986/1"
+        }, {
+            "nimike": "Corto Maltese: Tarinoita ja isoisiä ",
+            "julk": "Tapiiri 1986/2"
+        }, {
+            "nimike": "Corto Maltese: Talviaamun unelma ",
+            "julk": "Tapiiri 1987/1"
+        }, {
+            "nimike": "Corto Maltese: O-mollikonsertto harpulle ja nitroglyseriinille ",
+            "julk": "Tapiiri 1988/1"
+        }, {
+            "nimike": "Corto Maltese: Itäisen ikkunan enkeli ",
+            "julk": "Tapiiri 1988/2"
+        }, {
+            "nimike": "Corto Maltese: Burleski Zuydcooten ja Bray-Dunesin välimailla ",
+            "julk": "Tapiiri 1988/4"
+        }, {
+            "nimike": "Corto Maltese: Mammonan lipun alla ",
+            "julk": "Tapiiri 1989/2"
+        }]
+    }, {
+        "tekija": "Pratt, Hugo & Oesterheld, Hector",
+        "tarinat": [{
+            "nimike": "Saksalainen luutnantti ",
+            "julk": "Tapiiri 1984/2"
+        }]
+    }, {
+        "tekija": "Pym & Buzzelli, Guido",
+        "tarinat": [{
+            "nimike": "Lomakin on seikkailu ",
+            "julk": "Tapiiri 1985/3"
+        }]
+    }, {
+        "tekija": "Räisänen, Tuomo",
+        "tarinat": [{
+            "nimike": "Joulun jälkeen ",
+            "julk": "Tapiiri 1989/1"
+        }]
+    }, {
+        "tekija": "Shelton, Gilbert",
+        "tarinat": [{
+            "nimike": "Friikkilän pojat: Menevät yliopistoon ",
+            "julk": "Tapiiri 1984/1"
+        }, {
+            "nimike": "Läski-Freddyn kissa",
+            "julk": "Tapiiri 1984/1, 4, 1985/1, 2, 3"
+        }, {
+            "nimike": "Friikkilän pojat: Väkivaltaa busseissa ",
+            "julk": "Tapiiri 1984/2"
+        }, {
+            "nimike": "Läski-Freddyn kissa ystävineen ",
+            "julk": "Tapiiri 1984/3"
+        }, {
+            "nimike": "Friikkilän pojat 21. vuosisadalla ",
+            "julk": "Tapiiri 1984/3"
+        }, {
+            "nimike": "Friikkilän pojat ",
+            "julk": "Tapiiri 1984/4"
+        }, {
+            "nimike": "Friikkilän pojat ",
+            "julk": "Tapiiri 1985/2"
+        }, {
+            "nimike": "Friikkilän pojat: Läski-Freddyn kuolema ",
+            "julk": "Tapiiri 1985/3"
+        }]
+    }, {
+        "tekija": "Sinisalo, Johanna & Mänttäri, Hannu",
+        "tarinat": [{
+            "nimike": "Talvimaisema ",
+            "julk": "Tapiiri 1984/3"
+        }]
+    }, {
+        "tekija": "Sipilä, Kari",
+        "tarinat": [{
+            "nimike": "Miten minusta tuli sarjakuvapiirtäjä ",
+            "julk": "Tapiiri 1984/2"
+        }, {
+            "nimike": "Sarjakuvapiirtäjän päiväkirjasta ",
+            "julk": "Tapiiri 1985/2"
+        }]
+    }, {
+        "tekija": "Soglow, Otto",
+        "tarinat": [{
+            "nimike": "Pikku kuningas ",
+            "julk": "Tapiiri 1984/1, 4, 1985/1, 2"
+        }]
+    }, {
+        "tekija": "Sokal, Benoit",
+        "tarinat": [{
+            "nimike": "Ankardo: Hortensian kuolema ",
+            "julk": "Tapiiri 1984/1"
+        }, {
+            "nimike": "Frankardo ",
+            "julk": "Tapiiri 1984/2"
+        }, {
+            "nimike": "Ankardo: Persiljaa korvissa ",
+            "julk": "Tapiiri 1984/3"
+        }, {
+            "nimike": "Ankardo: Kyttä joka rakasti minua ",
+            "julk": "Tapiiri 1984/4"
+        }, {
+            "nimike": "Ankardon kosto ",
+            "julk": "Tapiiri 1985/1"
+        }, {
+            "nimike": "Ankardo: Columbia ",
+            "julk": "Tapiiri 1985/2"
+        }, {
+            "nimike": "Ankardo: Itkua mataliin taloihin ",
+            "julk": "Tapiiri 1985/3"
+        }, {
+            "nimike": "Ankardo: Valkaisuoikeudenkäynti ",
+            "julk": "Tapiiri 1986/1"
+        }, {
+            "nimike": "Ankardo: N:o 065724:n yö ",
+            "julk": "Tapiiri 1986/2"
+        }, {
+            "nimike": "Ankardo: Jätepönttölahko ",
+            "julk": "Tapiiri 1986/3"
+        }, {
+            "nimike": "Ankardo: Ammutaanhan sankareitakin ",
+            "julk": "Tapiiri 1987/1"
+        }]
+    }, {
+        "tekija": "Sterrett, Cliff",
+        "tarinat": [{
+            "nimike": "Hannan huusholli ",
+            "julk": "Tapiiri 1984/1, 2, 3, 4, 1985/1, 2, 3"
+        }]
+    }, {
+        "tekija": "Sullivan, Pat",
+        "tarinat": [{
+            "nimike": "Felix-kissa",
+            "julk": "Tapiiri 1984/1, 3, 4, 1985/1, 2"
+        }]
+    }, {
+        "tekija": "Tilsa",
+        "tarinat": [{
+            "nimike": "Lännen laki ",
+            "julk": "Tapiiri 1985/3"
+        }, {
+            "nimike": "Sirkus ",
+            "julk": "Tapiiri 1985/3"
+        }]
+    }, {
+        "tekija": "Turunen, Max",
+        "tarinat": [{
+            "nimike": "Scifantti ",
+            "julk": "Tapiiri 1989/1"
+        }]
+    }, {
+        "tekija": "Veyron, Martin",
+        "tarinat": [{
+            "nimike": "Sopuratkaisu ",
+            "julk": "Tapiiri 1989/1"
+        }, {
+            "nimike": "Bernard Lermite ",
+            "julk": "Tapiiri 1989/1"
+        }, {
+            "nimike": "Kaapattu! ",
+            "julk": "Tapiiri 1989/1"
+        }, {
+            "nimike": "Myrskynkylväjä ",
+            "julk": "Tapiiri 1989/1"
+        }, {
+            "nimike": "Kalifornialaisunelmia ",
+            "julk": "Tapiiri 1989/2"
+        }, {
+            "nimike": "Totuus Pyreneiden tuolla anteeksi tällä puolen ",
+            "julk": "Tapiiri 1989/2"
+        }, {
+            "nimike": "Pyhäinmiestenpäivä",
+            "julk": "Tapiiri 1989/3"
+        }, {
+            "nimike": "Utopia",
+            "julk": "Tapiiri 1989/3"
+        }, {
+            "nimike": "Bernard Lermite hurmion kourissa",
+            "julk": "Tapiiri 1989/4"
+        }, {
+            "nimike": "Jouluksi talvi, juhannukseksi kesä, Martiniksi Veyron",
+            "julk": "Tapiiri 1989/4"
+        }]
+    }, {
+        "tekija": "Wilson, S.Clay",
+        "tarinat": [{
+            "nimike": "Matkamurhaaja ",
+            "julk": "Tapiiri 1984/2"
+        }]
+    }, {
+        "tekija": "Violeff",
+        "tarinat": [{
+            "nimike": "Hevosillakeinuen ",
+            "julk": "Tapiiri 1986/2"
+        }, {
+            "nimike": "Kuinka pomo kaapataan ",
+            "julk": "Tapiiri 1986/3"
+        }]
+    }, {
+        "tekija": "Wolinski & Pichard",
+        "tarinat": [{
+            "nimike": "Paulette ",
+            "julk": "Tapiiri 1985/1-3"
+        }]
+    }]
+}

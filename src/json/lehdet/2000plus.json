@@ -1,0 +1,88 @@
+{
+    "lehdennimi": "2000+",
+    "tarinalista": [{
+        "tekija": "Caza",
+        "tarinat": [{
+            "nimike": "Frogg",
+            "julk": "2000+ 1991/5"
+        }]
+    }, {
+        "tekija": "Hadley",
+        "tarinat": [{
+            "nimike": "Domedagsvapnet",
+            "julk": "2000+ 1991/3"
+        }]
+    }, {
+        "tekija": "Hermann",
+        "tarinat": [{
+            "nimike": "Jeremiah: Strike",
+            "julk": "2000+ 1991/1"
+        }, {
+            "nimike": "Jeremiah: Vinterdvärgar",
+            "julk": "2000+ 1991/5"
+        }, {
+            "nimike": "Jeremiah: Boomerang",
+            "julk": "2000+ 1992/2"
+        }]
+    }, {
+        "tekija": "Jodorowsky & Cadelo",
+        "tarinat": [{
+            "nimike": "Den köttätande ängeln (kesken)",
+            "julk": "2000+ 1991/1-"
+        }]
+    }, {
+        "tekija": "Miller & Darrow",
+        "tarinat": [{
+            "nimike": "Hardboiled",
+            "julk": "2000+ 1992/-2-"
+        }]
+    }, {
+        "tekija": "Milligan, Ewins & Dillon",
+        "tarinat": [{
+            "nimike": "Skreemer",
+            "julk": "2000+ 1992/2-"
+        }]
+    }, {
+        "tekija": "Mills & Bisley",
+        "tarinat": [{
+            "nimike": "Slaine: Den behornade guden (kesken)",
+            "julk": "2000+ 1991/1-"
+        }]
+    }, {
+        "tekija": "Moore, Alan & Gibson",
+        "tarinat": [{
+            "nimike": "Halo Jones (kesken)",
+            "julk": "2000+ 1991/1-"
+        }]
+    }, {
+        "tekija": "Ortiz & Segura",
+        "tarinat": [{
+            "nimike": "Burton & Cyb",
+            "julk": "2000+ 1991/5"
+        }]
+    }, {
+        "tekija": "Oscaribar & De Felipe",
+        "tarinat": [{
+            "nimike": "DNA",
+            "julk": "2000+ 1991/1, 3, 5"
+        }]
+    }, {
+        "tekija": "Pecqueur & Frans",
+        "tarinat": [{
+            "nimike": "Kyrkogårdarnas lera",
+            "julk": "2000+ 1991/3"
+        }]
+    }, {
+        "tekija": "Rubio",
+        "tarinat": [{
+            "nimike": "Skeppet",
+            "julk": "2000+ 1991/3"
+        }]
+    }, {
+        "tekija": "Segrelles",
+        "tarinat": [{
+            "nimike": "Mercenario",
+            "julk": "2000+ 1992/-2-"
+        }]
+    }]
+}

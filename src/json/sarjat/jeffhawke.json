@@ -1,0 +1,352 @@
+{
+    "lehdennimi": "Jeff Hawke",
+    "tarinalista": [{
+        "tekija": "Jordan, Sydney & Patterson, Willie",
+        "tarinat": [{
+            "numero": "1. ",
+            "alkupnimi": "Space Rider",
+            "nimike": "H1-H138",
+            "julk": ""
+        }, {
+            "numero": "2. ",
+            "alkupnimi": "The Martian Invasion",
+            "nimike": "H139-H388",
+            "julk": ""
+        }, {
+            "numero": "3. ",
+            "alkupnimi": "The Search for Asteron",
+            "nimike": "H389-H502",
+            "julk": ""
+        }, {
+            "numero": "4. ",
+            "alkupnimi": "The Threat from the Past",
+            "nimike": "H503-H642",
+            "julk": ""
+        }, {
+            "numero": "5. ",
+            "alkupnimi": "Opposite Power",
+            "nimike": "H643-H702",
+            "julk": ""
+        }, {
+            "numero": "6. ",
+            "alkupnimi": "Sanctuary",
+            "nimike": "H703-H809",
+            "julk": ""
+        }, {
+            "numero": "7. ",
+            "alkupnimi": "Unquiet Island",
+            "nimike": "H810-H927",
+            "julk": ""
+        }, {
+            "numero": "8. ",
+            "alkupnimi": "The Castaway",
+            "nimike": "H928-H1098",
+            "julk": ""
+        }, {
+            "numero": "9. ",
+            "alkupnimi": "Out of Touch",
+            "nimike": "H1099-H1253",
+            "julk": ""
+        }, {
+            "numero": "10. ",
+            "alkupnimi": "The Dream Pedlars",
+            "nimike": "H1254-H1399",
+            "julk": ""
+        }, {
+            "numero": "11. ",
+            "alkupnimi": "Poles Apart",
+            "nimike": "H1400-H1544",
+            "julk": "Jeff Hawke 2 - Jalava 1985"
+        }, {
+            "numero": "12. ",
+            "alkupnimi": "Sacrifice",
+            "nimike": "H1545-H1712",
+            "julk": "Jeff Hawke 2 - Jalava 1985"
+        }, {
+            "numero": "13. ",
+            "alkupnimi": "Time Out of Mind",
+            "nimike": "H1713-H1824",
+            "julk": "Jeff Hawke 3 - Jalava 1986"
+        }, {
+            "numero": "14. ",
+            "alkupnimi": "Overlord",
+            "nimike": "H1825-H1939 10/2/60-20/6/60",
+            "julk": "Jeff Hawke Book One - Titan 1986"
+        }, {
+            "numero": "15. ",
+            "alkupnimi": "Survival",
+            "nimike": "H1940-H2011 21/6/60-12/9/60",
+            "julk": "Jeff Hawke Book One - Titan 1986"
+        }, {
+            "numero": "16. ",
+            "alkupnimi": "Wondrous Lamp",
+            "nimike": "H2012-H2163 13/9/60-11/3/61",
+            "julk": "Jeff Hawke Book One - Titan 1986"
+        }, {
+            "numero": "17. ",
+            "alkupnimi": "Counsel for the Defence",
+            "nimike": "H2164-H2285 13/3/61-2/8/61",
+            "julk": "Jeff Hawke Book Two - Titan 1987"
+        }, {
+            "numero": "18. ",
+            "alkupnimi": "Pastmaster",
+            "nimike": "H2286-H2351 3/8/61-18/10/61",
+            "julk": "Jeff Hawke Book Two - Titan 1987"
+        }, {
+            "numero": "19. ",
+            "alkupnimi": "Immortal Toys",
+            "nimike": "H2352-H2494 19/10/61-5/4/62",
+            "julk": "Jeff Hawke Book Two - Titan 1987, Jeff Hawke 3 - Jalava 1986"
+        }, {
+            "numero": "20. ",
+            "alkupnimi": "The Ambassadors",
+            "nimike": "H2495-H2578",
+            "julk": "Jeff Hawke - Jalava 1984"
+        }, {
+            "numero": "21. ",
+            "alkupnimi": "The Gamesman",
+            "nimike": "H2579-H2639 ",
+            "julk": ""
+        }, {
+            "numero": "22. ",
+            "alkupnimi": "A Test Case",
+            "nimike": "H2640-H2724 ",
+            "julk": ""
+        }, {
+            "numero": "23. ",
+            "alkupnimi": "Pass the Parcel",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "24. ",
+            "alkupnimi": "The Changeling",
+            "nimike": "",
+            "julk": "Jeff Hawke - Jalava 1984"
+        }, {
+            "numero": "25. ",
+            "alkupnimi": "Rip Van Haddow",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "26. ",
+            "alkupnimi": "Prodigal Son",
+            "nimike": "",
+            "julk": "Jeff Hawke - Jalava 1984"
+        }, {
+            "numero": "27. ",
+            "alkupnimi": "Uncanny Deep",
+            "nimike": "",
+            "julk": "Jeff Hawke 2 - Jalava 1985"
+        }, {
+            "numero": "28. ",
+            "alkupnimi": "Winner Gain All",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "29. ",
+            "alkupnimi": "Faery Land Forlorn",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "30. ",
+            "alkupnimi": "A Foreign Body",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "31. ",
+            "alkupnimi": "Moonstruck",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "32. ",
+            "alkupnimi": "The Helping Hand",
+            "nimike": "Auttava käsi",
+            "julk": "Agentti X9 pokkari 1993 "
+        }, {
+            "numero": "33. ",
+            "alkupnimi": "Anti-Gravity Man",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "34. ",
+            "alkupnimi": "Made In Birmingham",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "35. ",
+            "alkupnimi": "The Oil Rig",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "36. ",
+            "alkupnimi": "Incognito",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "37. ",
+            "alkupnimi": "The Great Atlantic Crossing",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "38. ",
+            "alkupnimi": "Getaway",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "39. ",
+            "alkupnimi": "Ghost Errant",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "40. ",
+            "alkupnimi": "A Word of Advice",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "41. ",
+            "alkupnimi": "The Intelligent Ones",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "42. ",
+            "alkupnimi": "Wildcat",
+            "nimike": "",
+            "julk": "Jeff Hawke - Jalava 1984"
+        }, {
+            "numero": "43. ",
+            "alkupnimi": "Overlord",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "44. ",
+            "alkupnimi": "The Engine that Worked on Grass",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "45. ",
+            "alkupnimi": "The Hole In Space",
+            "nimike": "",
+            "julk": "Jeff Hawke - Jalava 1984"
+        }, {
+            "numero": "46. ",
+            "alkupnimi": "The Venusian Club",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "47. ",
+            "alkupnimi": "Cataclysm",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "48. ",
+            "alkupnimi": "The Poltergeist",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "49. ",
+            "alkupnimi": "Rogue Star",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "50. ",
+            "alkupnimi": "The Day the Moon Nearly Exploded",
+            "nimike": "",
+            "julk": "Jeff Hawke 3 - Jalava 1986"
+        }, {
+            "numero": "51. ",
+            "alkupnimi": "The Strange Ship",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "52. ",
+            "alkupnimi": "Daughter of Eros",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "53. ",
+            "alkupnimi": "S.O.S.",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "54. ",
+            "alkupnimi": "Rescue Party",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "55. ",
+            "alkupnimi": "Chacondar!",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "56. ",
+            "alkupnimi": "The Book of the Worlds",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "57. ",
+            "alkupnimi": "Time is out of Joint",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "58. ",
+            "alkupnimi": "Someday I'll Find You",
+            "nimike": "Joskus vielä löydän sinut!",
+            "julk": "Agentti X9 pokkari 1988 "
+        }, {
+            "numero": "59. ",
+            "alkupnimi": "The Bees on Daedalus",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "60. ",
+            "alkupnimi": "Here Be Tygers",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "61. ",
+            "alkupnimi": "Selena",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "62. ",
+            "alkupnimi": "Sitting Tenants",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "63. ",
+            "alkupnimi": "Shorty's Secret",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "64. ",
+            "alkupnimi": "On the Run",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "65. ",
+            "alkupnimi": "The Comet's Tale",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "66. ",
+            "alkupnimi": "The First Person Plural",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "67. ",
+            "alkupnimi": "The Winds of Mars",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "68. ",
+            "alkupnimi": "Moratorro",
+            "nimike": "",
+            "julk": ""
+        }, {
+            "numero": "69. ",
+            "alkupnimi": "Heir Apparent",
+            "nimike": "",
+            "julk": ""
+        }]
+    }]
+}

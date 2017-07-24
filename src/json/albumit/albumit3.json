@@ -1,0 +1,854 @@
+{
+    "lehdennimi": "Albumit N-ö",
+    "tarinalista": [{
+        "tekija": "Nakazawa, Kenji",
+        "tarinat": [{
+            "nimike": "Hiroshiman poika",
+            "alkupnimi": "Hadashi no Gen",
+            "julk": "Jalava - 1985"
+        }, {
+            "nimike": "Barefoot Gen, The Day After",
+            "alkupnimi": "Hadashi no Gen",
+            "julk": "Penguin Books - 1990"
+        }, {
+            "nimike": "Barefoot Gen, Life After the Bomb",
+            "alkupnimi": "Hadashi no Gen",
+            "julk": "Last Gasp - 1999"
+        }, {
+            "nimike": "Barefoot Gen, Out of the Ashes",
+            "alkupnimi": "Hadashi no Gen",
+            "julk": "Last Gasp - 2005"
+        }]
+    }, {
+        "tekija": "Neel, Julien",
+        "tarinat": [{
+            "nimike": "Mimu 2: Kesäblues",
+            "alkupnimi": "Lou! Mortebouse",
+            "julk": "Gummerus - 2011"
+        }]
+    }, {
+        "tekija": "Nury, Fabien & Vallée, Sylvain",
+        "tarinat": [{
+            "nimike": "Olipa kerran Ranskassa - Suuri gangsterisota",
+            "alkupnimi": "Il Etait une fois en France",
+            "julk": "Gummerus - 2011"
+        }]
+    }, {
+        "tekija": "Otomo, Katsuhiro",
+        "tarinat": [{
+            "nimike": "Akira 1",
+            "alkupnimi": "",
+            "julk": "Like - 1995"
+        }, {
+            "nimike": "Akira 2",
+            "alkupnimi": "",
+            "julk": "Like - 2006"
+        }, {
+            "nimike": "Akira 3",
+            "alkupnimi": "",
+            "julk": "Like - 2006"
+        }, {
+            "nimike": "The Legend of Mother Sarah: Tunnel Town",
+            "alkupnimi": "",
+            "julk": "Dark Horse - 1996"
+        }]
+    }, {
+        "tekija": "Paasilinna, Arto & Lukkarinen, Hannu",
+        "tarinat": [{
+            "nimike": "Ronkoteus",
+            "alkupnimi": "",
+            "julk": "WSOY - 2002"
+        }]
+    }, {
+        "tekija": "Palacios, A.H. & Gourmelen, J.P.",
+        "tarinat": [{
+            "nimike": "Mac Coy 2: En viss Mac Coy",
+            "alkupnimi": "",
+            "julk": "Semic - 1978"
+        }, {
+            "nimike": "Mac Coy: Den vita döden",
+            "alkupnimi": "",
+            "julk": "Semic - 1980"
+        }]
+    }, {
+        "tekija": "Perdosa, Cyril",
+        "tarinat": [{
+            "nimike": "Kolme varjoa",
+            "alkupnimi": "Trois Ombres",
+            "julk": "WSOY - 2010"
+        }, {
+            "nimike": "Ekoloogiset",
+            "alkupnimi": "Autobio/Autobio 2",
+            "julk": "WSOY - 2011"
+        }]
+    }, {
+        "tekija": "Peyo",
+        "tarinat": [{
+            "nimike": "Johannes ja Pirkale: Kuusismurffinen huilu",
+            "alkupnimi": "La Flûte a Six Schtroumpfs",
+            "julk": "Otava - 2009"
+        }, {
+            "nimike": "Smurffien olympialaiset",
+            "alkupnimi": "",
+            "julk": "Semic - 1980"
+        }]
+    }, {
+        "tekija": "Peyo & Delporte, Y.",
+        "tarinat": [{
+            "nimike": "Smurffisoppaa",
+            "alkupnimi": "",
+            "julk": "Semic - 1981"
+        }]
+    }, {
+        "tekija": "Pirinen, Joakim",
+        "tarinat": [{
+            "nimike": "Kurpitsa-albumi 1: Myrsky Hiekkalaatikossa",
+            "alkupnimi": "Välkommen till sandlådan",
+            "julk": "Suuri Kurpitsa - 1986"
+        }, {
+            "nimike": "Socker-Conny",
+            "alkupnimi": "",
+            "julk": "Tago - 1986"
+        }]
+    }, {
+        "tekija": "Pirttisalo, Ari",
+        "tarinat": [{
+            "nimike": "Pahkasika-spesiaali IV: Vallattomat ",
+            "alkupnimi": "",
+            "julk": "Fanzine - 1984"
+        }]
+    }, {
+        "tekija": "Ploog, Michael G.",
+        "tarinat": [{
+            "nimike": "Legenda Joulupukista",
+            "alkupnimi": "The life and adventures of Santa Claus",
+            "julk": "Like - 1993"
+        }]
+    }, {
+        "tekija": "Prado, Miguelanxo",
+        "tarinat": [{
+            "nimike": "Liidulla piirretty viiva",
+            "alkupnimi": "Trazo de Tiza",
+            "julk": "Like - 1993"
+        }, {
+            "nimike": "Hverdagens vanvid",
+            "alkupnimi": "Quotidiania delirante",
+            "julk": "Bogfabrikken - 1989"
+        }]
+    }, {
+        "tekija": "Pratt, Hugo",
+        "tarinat": [{
+            "nimike": "Lännen sarjat n:o 2: Fort Wheeling",
+            "alkupnimi": "",
+            "julk": "Jalava - 1985"
+        }, {
+            "nimike": "Anna ja Dan viidakossa",
+            "alkupnimi": "Anna nella jungla",
+            "julk": "Jalava - 2001"
+        }, {
+            "nimike": "Balladen om det salta havet",
+            "alkupnimi": "Una ballata del mare salato / La Ballade de la mer salee - 1967",
+            "julk": "Medusa - 1985"
+        }, {
+            "nimike": "Corto Maltese vol. 2: Banana Conga",
+            "alkupnimi": "",
+            "julk": "NBM - 1986"
+        }, {
+            "nimike": "Corto Maltese vol. 3: Voodoo for the President",
+            "alkupnimi": "",
+            "julk": "NBM - 1986"
+        }, {
+            "nimike": "Corto Maltese vol. 4: A Midwinter Morning's Dream",
+            "alkupnimi": "",
+            "julk": "NBM - 1987"
+        }, {
+            "nimike": "Sarjakuvan mestareita 6: Corto Maltese Etiopiassa",
+            "alkupnimi": "Le Ettopiche / Les Ethiopiques / 1972-1973 ",
+            "julk": "Jalava - 1986"
+        }, {
+            "nimike": "Sarjakuvan mestareita 2: Corto Maltese Siperiassa",
+            "alkupnimi": "Corto sconda detta Arcana / Corto Maltese en Siberie - 1974-1975 ",
+            "julk": "Jalava - 1984"
+        }, {
+            "nimike": "Sarjakuvan mestareita 18: Corto Maltese Samarkandissa",
+            "alkupnimi": "La casa dorata di Samarcanda / Corto Maltese La maison doree de Samarkand / 1980 ",
+            "julk": "Jalava - 1988"
+        }, {
+            "nimike": "Sarjakuvan mestareita 13: Corto Maltese - nuoruus 1904-1905",
+            "alkupnimi": "La Giovinezza / La Jeunesse de Corto Maltese / 1981 ",
+            "julk": "Jalava - 1987"
+        }, {
+            "nimike": "Tango",
+            "alkupnimi": "Tango...y todo a media luz / Tango - 1985 ",
+            "julk": "Jalava"
+        }, {
+            "nimike": "Sarjakuvan mestareita 37: Corto Maltese Argentiinassa",
+            "alkupnimi": "Tango...y todo a media luz / Tango / 1985 ",
+            "julk": "Jalava - 1988"
+        }, {
+            "nimike": "Sarjakuvan mestareita 27: Corto Maltese Sveitsissä",
+            "alkupnimi": "Evetiche / Les Helvetiques / 1987 ",
+            "julk": "Jalava - 1989"
+        }]
+    }, {
+        "tekija": "Quino",
+        "tarinat": [{
+            "nimike": "Mafalda 1",
+            "alkupnimi": "",
+            "julk": "Sanoma Oy - 1971"
+        }, {
+            "nimike": "Mafalda 3",
+            "alkupnimi": "",
+            "julk": "Sanoma Oy - 1972"
+        }, {
+            "nimike": "Mafalda 1",
+            "alkupnimi": "",
+            "julk": "Jalava"
+        }, {
+            "nimike": "Mafalda 3",
+            "alkupnimi": "",
+            "julk": "Jalava - 1989"
+        }]
+    }, {
+        "tekija": "Ranta, Ville; Sihvonen, Kari; Honkanen, Tuisku & Lietzen, Mika",
+        "tarinat": [{
+            "nimike": "Viime vuonna Kemissä ",
+            "alkupnimi": "",
+            "julk": "Asema - 2002"
+        }]
+    }, {
+        "tekija": "Rauhala, Anssi & Ketola, Mikko",
+        "tarinat": [{
+            "nimike": "Professori Anni Isotalon tutkimuksia 1: Marian koodi",
+            "alkupnimi": "",
+            "julk": "Kirjastudio - 2006"
+        }, {
+            "nimike": "Professori Anni Isotalon tutkimuksia 2: Valkoisen meren timantit",
+            "alkupnimi": "",
+            "julk": "Minerva - 2006"
+        }]
+    }, {
+        "tekija": "Reiser",
+        "tarinat": [{
+            "nimike": "Ulkoilmaelämää",
+            "alkupnimi": "La vie au grand air",
+            "julk": "WSOY - 1992"
+        }, {
+            "nimike": "Väninnor",
+            "alkupnimi": "",
+            "julk": "Forum - 1987"
+        }]
+    }, {
+        "tekija": "Remacle",
+        "tarinat": [{
+            "nimike": "Trumf 3: Melskettä merellä",
+            "alkupnimi": "",
+            "julk": "Semic - 1972"
+        }, {
+            "nimike": "Trumf 5: Suuri sitruunasota",
+            "alkupnimi": "",
+            "julk": "Semic - 1972"
+        }, {
+            "nimike": "Trumf 10: Ihmeelliset ihmissyöjät",
+            "alkupnimi": "",
+            "julk": "Semic - 1973"
+        }, {
+            "nimike": "Trumf 11: Intiaanit",
+            "alkupnimi": "",
+            "julk": "Semic - 1974"
+        }]
+    }, {
+        "tekija": "Remacle & Denis",
+        "tarinat": [{
+            "nimike": "Trumf 6: Salainen tehtävä",
+            "alkupnimi": "",
+            "julk": "Semic - 1972"
+        }]
+    }, {
+        "tekija": "Riionheimo, Tomi; Lehikoinen, Jari & Lajunen, Hannu",
+        "tarinat": [{
+            "nimike": "Rieku ja Raiku",
+            "alkupnimi": "",
+            "julk": "Jalava - 2003"
+        }]
+    }, {
+        "tekija": "Roba",
+        "tarinat": [{
+            "nimike": "Non Stop 10/1978: Varokaa hassua koiraa",
+            "alkupnimi": "Attention Chien Marrant!",
+            "julk": "Yhtyneet - 1978"
+        }]
+    }, {
+        "tekija": "Rojola, Johanna (toim.)",
+        "tarinat": [{
+            "nimike": "Kani, hevonen ja shakaali ",
+            "alkupnimi": "",
+            "julk": "Suomen sarjakuvaseura ry. - 1996"
+        }]
+    }, {
+        "tekija": "Rosa, Don",
+        "tarinat": [{
+            "nimike": "The Don Rosa Archives I: The Pertwillaby Papers ",
+            "alkupnimi": "",
+            "julk": "Gazette Book - 2001"
+        }, {
+            "nimike": "The Don Rosa Archives II: The Adventures of Captain Kentucky ",
+            "alkupnimi": "",
+            "julk": "Gazette Book - 2001"
+        }]
+    }, {
+        "tekija": "Rosinski, Grzegorz & van Hamme, Jean",
+        "tarinat": [{
+            "nimike": "Chninkel ja suuri voima",
+            "alkupnimi": "Chninkel (Le grand puovoir du Chninkel)",
+            "julk": "Like - 1992"
+        }]
+    }, {
+        "tekija": "Rosinski, Grzegorz & Dufaux",
+        "tarinat": [{
+            "nimike": "Kadonneiden nummien valitus 1: Sioban",
+            "alkupnimi": "Sioban",
+            "julk": "WSOY - 2003"
+        }, {
+            "nimike": "Kadonneiden nummien valitus 2: Blackmore",
+            "alkupnimi": "Blackmore",
+            "julk": "WSOY - 2004"
+        }, {
+            "nimike": "Kadonneiden nummien valitus 3: Dame Gerfaut",
+            "alkupnimi": "Dame Gerfaut",
+            "julk": "WSOY - 2004"
+        }, {
+            "nimike": "Kadonneiden nummien valitus 4: Kyle of Klanach",
+            "alkupnimi": "Kyle of Klanach",
+            "julk": "WSOY - 2005"
+        }]
+    }, {
+        "tekija": "Rossi & Dorison & Nury",
+        "tarinat": [{
+            "nimike": "Spooks 1: The Fall of Babylon",
+            "alkupnimi": "W.E.S.T. 1 - La Chute de Babylone",
+            "julk": "Cinebook - 2012"
+        }, {
+            "nimike": "Spooks 2: Century Club",
+            "alkupnimi": "W.E.S.T. 2 - Century Club",
+            "julk": "Cinebook - 2012"
+        }, {
+            "nimike": "Spooks 3: El Santero",
+            "alkupnimi": "W.E.S.T. 3 - El Santero",
+            "julk": "Cinebook - 2013"
+        }, {
+            "nimike": "Spooks 4: The 46th State",
+            "alkupnimi": "W.E.S.T. 4 - Le 46eme etat",
+            "julk": "Cinebook - 2013"
+        }]
+    }, {
+        "tekija": "Rousseau & Autheman",
+        "tarinat": [{
+            "nimike": "Kaptajn Condor 4: Marius Casanovas testamente",
+            "alkupnimi": "Le Testament de Marius Casanova",
+            "julk": "Bogfabrikken - 1991"
+        }]
+    }, {
+        "tekija": "Runberg, Sylvain & Pellé, Serge",
+        "tarinat": [{
+            "nimike": "Scars",
+            "alkupnimi": "Orbital 1 - Cicatrices",
+            "julk": "Cinebook - "
+        }, {
+            "nimike": "Ruptures",
+            "alkupnimi": "Orbital 2 - Ruptures",
+            "julk": "Cinebook - "
+        }, {
+            "nimike": "Nomad",
+            "alkupnimi": "Orbital 3 - Nomades",
+            "julk": "Cinebook - 2011"
+        }]
+    }, {
+        "tekija": "Sacco, Joe",
+        "tarinat": [{
+            "nimike": "War Junkie ",
+            "alkupnimi": "",
+            "julk": "Fantagraphics Books - 1995"
+        }, {
+            "nimike": "Palestine 1: A Nation Occupied ",
+            "alkupnimi": "",
+            "julk": "Fantagraphics Books - 1996"
+        }, {
+            "nimike": "Palestine 2: In the Gaza Strip ",
+            "alkupnimi": "",
+            "julk": "Fantagraphics Books - 1996"
+        }, {
+            "nimike": "Palestiina",
+            "alkupnimi": "Palestine - A Nation Occupied / In The Gaza Strip",
+            "julk": "WSOY - 2004"
+        }]
+    }, {
+        "tekija": "Salma, Sergio",
+        "tarinat": [{
+            "nimike": "Minäkö rasisti",
+            "alkupnimi": "",
+            "julk": "Euroopan yhteisöjen virallisten julkaisujen toimisto - 1998"
+        }]
+    }, {
+        "tekija": "Salverius & Cauvin",
+        "tarinat": [{
+            "nimike": "Trumf 7: Ruutipartio pulassa",
+            "alkupnimi": "Un chariot dans l'Ouest",
+            "julk": "Semic - 1973"
+        }]
+    }, {
+        "tekija": "Satrapi, Marjane",
+        "tarinat": [{
+            "nimike": "Persepolis - Iranilainen lapsuuteni",
+            "alkupnimi": "Persepolis: The Story of a Childhood",
+            "julk": "Otava - 2004"
+        }, {
+            "nimike": "Persepolis 2 - Kotiinpaluu",
+            "alkupnimi": "Persepolis 3/4",
+            "julk": "Like - 2007"
+        }, {
+            "nimike": "Embroideries",
+            "alkupnimi": "Broderies",
+            "julk": "Pantheon - 2005"
+        }, {
+            "nimike": "Luumukanaa",
+            "alkupnimi": "Poulet aux prunes",
+            "julk": "Like - 2008"
+        }]
+    }, {
+        "tekija": "Savolainen, Veikko \"Joonas\"",
+        "tarinat": [{
+            "nimike": "Joonas",
+            "alkupnimi": "",
+            "julk": "Jalava - 1983"
+        }, {
+            "nimike": "Sarjakuvaklassikot I: Joonas",
+            "alkupnimi": "  ",
+            "julk": "Arktinen banaani - 2004"
+        }]
+    }, {
+        "tekija": "Scarpa, Romano",
+        "tarinat": [{
+            "nimike": "Ankantekijät 2: Lentävä skotlantilainen",
+            "alkupnimi": " ",
+            "julk": "Sanoma - 2003"
+        }]
+    }, {
+        "tekija": "Schultheiss",
+        "tarinat": [{
+            "nimike": "Bell's Theorem 1",
+            "alkupnimi": "Bell's Theorem",
+            "julk": "Catalan - 1987"
+        }, {
+            "nimike": "Bell's Theorem 2 - The Connection",
+            "alkupnimi": "Die Verbindung",
+            "julk": "Catalan - 1989"
+        }, {
+            "nimike": "Bell's Theorem 3 - Contact",
+            "alkupnimi": "Der Kontakt",
+            "julk": "Catalan - 1989"
+        }]
+    }, {
+        "tekija": "Segrelles, V",
+        "tarinat": [{
+            "nimike": "The Mercenary 7: Lost Civilization",
+            "alkupnimi": "",
+            "julk": "NBM - 1997"
+        }, {
+            "nimike": "The Mercenary 8: Giants",
+            "alkupnimi": "",
+            "julk": "NBM - 1999"
+        }]
+    }, {
+        "tekija": "Seron & Hao",
+        "tarinat": [{
+            "nimike": "Småfolkets äventyr 5: Cyklopens öga",
+            "alkupnimi": "L'Oeil du cyclope",
+            "julk": "Allerbok - 1980"
+        }]
+    }, {
+        "tekija": "Seth",
+        "tarinat": [{
+            "nimike": "It's a Good Life, If You Don't Weaken",
+            "alkupnimi": "",
+            "julk": "Drawn and Quarterly - 2003"
+        }]
+    }, {
+        "tekija": "Sfar, Joann",
+        "tarinat": [{
+            "nimike": "Pikku vampyyri menee kouluun",
+            "alkupnimi": "Petit Vampire 1: Petit Vampire va &#239; l'école",
+            "julk": "Arktinen Banaani - 2004"
+        }]
+    }, {
+        "tekija": "Shelton, Gilbert & Richards, Ted",
+        "tarinat": [{
+            "nimike": "Give Me Liberty",
+            "alkupnimi": "",
+            "julk": "Rip Off Press - 1976"
+        }]
+    }, {
+        "tekija": "Shelton, Gilbert & Sheridan, Dave",
+        "tarinat": [{
+            "nimike": "Thoroughly Ripped With The Fabulous Furry Freak Brothers",
+            "alkupnimi": "",
+            "julk": "Rip Off Press - 1981"
+        }, {
+            "nimike": "Tapiiri-albumi 2: Friikkilän pojat takaisin luontoon",
+            "alkupnimi": "",
+            "julk": "Fanzine - 1984"
+        }]
+    }, {
+        "tekija": "Sihvonen, Kari A.",
+        "tarinat": [{
+            "nimike": "Liisa - Pahemmassa kuin pinteessä",
+            "alkupnimi": "",
+            "julk": "Zum Teufel - 2010"
+        }]
+    }, {
+        "tekija": "Simon, Fred & Chauvel, David",
+        "tarinat": [{
+            "nimike": "Kiskot",
+            "alkupnimi": "Rails",
+            "julk": "Like - 1998"
+        }]
+    }, {
+        "tekija": "Skogäng, Ola",
+        "tarinat": [{
+            "nimike": "Theos Ockulta kuriositeter - Mumiens blod",
+            "alkupnimi": "",
+            "julk": "Kartago - 2008"
+        }, {
+            "nimike": "Theos Ockulta kuriositeter - De förlorade sidornas bok",
+            "alkupnimi": "",
+            "julk": "Ekholm & Tegebjer - 2010"
+        }, {
+            "nimike": "Theos Ockulta kuriositeter - I dödsskuggans dal",
+            "alkupnimi": "",
+            "julk": "Ekholm & Tegebjer - 2011"
+        }]
+    }, {
+        "tekija": "Smith, Jeff",
+        "tarinat": [{
+            "nimike": "Luupäät 1",
+            "alkupnimi": "The Complete Bone Adventures volume 1: Out From Boneville",
+            "julk": "Like - 1994"
+        }, {
+            "nimike": "Luupäät 2",
+            "alkupnimi": "The Complete Bone Adventures volume 2: The Great Cow Race",
+            "julk": "Like - 1998"
+        }, {
+            "nimike": "Luupäät 3: Myrskyn silmät",
+            "alkupnimi": "The Complete Bone Adventures volume 3: Eyes Of The Storm",
+            "julk": "Like - 1996"
+        }, {
+            "nimike": "Luupäät 4: Lohikäärmeentappaja",
+            "alkupnimi": "The Complete Bone Adventures volume 4: The Dragonslayer",
+            "julk": "Like - 1997"
+        }, {
+            "nimike": "Luupäät 5: Kivileuka",
+            "alkupnimi": "The Complete Bone Adventures volume 5: Rockjaw",
+            "julk": "Like - 1998"
+        }, {
+            "nimike": "Luupäät 6: Vanhan miehen luola",
+            "alkupnimi": "The Complete Bone Adventures volume 6: Old Man's Cave",
+            "julk": "Like - 1999"
+        }, {
+            "nimike": "Luupäät 7: Aavepiirit",
+            "alkupnimi": "The Complete Bone Adventures volume 7: Ghost Circles",
+            "julk": "Like - 2002"
+        }, {
+            "nimike": "Luupäät 8: Aarteenmetsästäjät",
+            "alkupnimi": "The Complete Bone Adventures volume 8: Treasure Hunters",
+            "julk": "Like - 2003"
+        }, {
+            "nimike": "Luupäät 9: Sarvikruunu",
+            "alkupnimi": "The Complete Bone Adventures volume 9: Crown of Horns",
+            "julk": "Like - 2004"
+        }, {
+            "nimike": "RASL 1: The Drift",
+            "alkupnimi": "",
+            "julk": "Cartoon Books - 2008"
+        }, {
+            "nimike": "RASL 2: The Fire of St. George",
+            "alkupnimi": "",
+            "julk": "Cartoon Books - 2010"
+        }]
+    }, {
+        "tekija": "Spiegelman, Art",
+        "tarinat": [{
+            "nimike": "Maus",
+            "alkupnimi": "Maus, a Survivor's Tale I & II ",
+            "julk": "WSOY - 2003"
+        }]
+    }, {
+        "tekija": "Talbot, Bryan",
+        "tarinat": [{
+            "nimike": "Adventures of Luther Arkwright, The ",
+            "alkupnimi": "",
+            "julk": "Dark Horse Comics - 1997"
+        }, {
+            "nimike": "Heart of The Empire ",
+            "alkupnimi": "",
+            "julk": "Dark Horse Comics - 2001"
+        }, {
+            "nimike": "Luther Arkwrightin seikkailut",
+            "alkupnimi": "Adventures of Luther Arkwright, The",
+            "julk": ""
+        }, {
+            "nimike": "Tuhman Rotan Tarina",
+            "alkupnimi": "Tale of One Bad Rat, The",
+            "julk": "Jalava"
+        }, {
+            "nimike": "Grandville",
+            "alkupnimi": "",
+            "julk": "Jonathan Cape - 2009"
+        }, {
+            "nimike": "Grandville - Mon Amour",
+            "alkupnimi": "",
+            "julk": "Jonathan Cape - 2010"
+        }, {
+            "nimike": "Grandville - Bête Noire",
+            "alkupnimi": "",
+            "julk": "Dark Horse - 2012"
+        }, {
+            "nimike": "Grandville - Bête Noel",
+            "alkupnimi": "",
+            "julk": "Dark Horse - 2014"
+        }]
+    }, {
+        "tekija": "Tatsumi, Yoshihiro",
+        "tarinat": [{
+            "nimike": "Abandon The Old In Tokyo",
+            "alkupnimi": "",
+            "julk": "Drawn & Quarterly - 2006"
+        }]
+    }, {
+        "tekija": "Thirault, Philippe & Males, Marc",
+        "tarinat": [{
+            "nimike": "Thousand Faces Book 1: Two Mules, A Rifle and Ten Bullets",
+            "alkupnimi": "Mille Visages: 1. London Dakota / 2. Celui qui n'est pas ne / 3. L'échoppe du démon",
+            "julk": "Humanoids - 2005"
+        }]
+    }, {
+        "tekija": "Thompson, Craig",
+        "tarinat": [{
+            "nimike": "Carnet de Voyage",
+            "alkupnimi": "",
+            "julk": "Top Shelf - 2006"
+        }]
+    }, {
+        "tekija": "Tillieux, Maurice",
+        "tarinat": [{
+            "nimike": "Ett fall för Max Jordan 1: Skatan på rymmen",
+            "alkupnimi": "Libellule s'evade",
+            "julk": "Bonniers - 1979"
+        }, {
+            "nimike": "Ett fall för Max Jordan 2: Kungen gör en tavla",
+            "alkupnimi": "Popaine et vieux tableaux",
+            "julk": "Bonniers - 1979"
+        }, {
+            "nimike": "Ett fall för Max Jordan 3: Bilen som kört fast",
+            "alkupnimi": "La voiture imergée",
+            "julk": "Bonniers - 1980"
+        }, {
+            "nimike": "Murder By High Tide",
+            "alkupnimi": "La voiture imergée / Les cargos du crepuscule",
+            "julk": "Fantagraphics - 2011"
+        }, {
+            "nimike": "En sag for Max Jordan 4: Moerkets laster",
+            "alkupnimi": "Les cargos du crepuscule",
+            "julk": "Interpresse - 1980"
+        }, {
+            "nimike": "En sag for Max Jordan 5: Den sorte hund",
+            "alkupnimi": "Surboum pour 4 roues",
+            "julk": "Interpresse - 1981"
+        }, {
+            "nimike": "Gil Jourdan: Räjähtävät leivät",
+            "alkupnimi": "Patée explosive",
+            "julk": "Carlsen - 1989"
+        }]
+    }, {
+        "tekija": "Toivonen, Sami",
+        "tarinat": [{
+            "nimike": "Kurpitsa-albumi 2: Ihmisen riittämättömyydestä",
+            "alkupnimi": "",
+            "julk": "Suuri Kurpitsa - 1990"
+        }]
+    }, {
+        "tekija": "Toivonen, Sami & Varpio, Timo",
+        "tarinat": [{
+            "nimike": "Kuningaspolku",
+            "alkupnimi": "",
+            "julk": "Arktinen banaani - 1995"
+        }]
+    }, {
+        "tekija": "Trudeau, G.B.",
+        "tarinat": [{
+            "nimike": "The Bundled Doonesbury",
+            "alkupnimi": "",
+            "julk": "Andrews McMeel - 1998"
+        }]
+    }, {
+        "tekija": "Vance, William & Vernes, Henri",
+        "tarinat": [{
+            "nimike": "Zoom kuukauden seikkailu 4: Bob Morane - Kauhusaaret",
+            "alkupnimi": "L'archipel de la terreur",
+            "julk": "Sanoma Oy - 1974"
+        }, {
+            "nimike": "Zoom kuukauden seikkailu 9: Bob Morane - Samurain silmä",
+            "alkupnimi": "L'oleil du samoura&#239;",
+            "julk": "Sanoma Oy - 1974"
+        }]
+    }, {
+        "tekija": "Varenne, Alex & Daniel",
+        "tarinat": [{
+            "nimike": "1: Nedfald",
+            "alkupnimi": "Ardeur",
+            "julk": "Carlsen - 1984"
+        }, {
+            "nimike": "2: Warszawa",
+            "alkupnimi": "Warschau",
+            "julk": "Carlsen - 1984"
+        }, {
+            "nimike": "3: Flugten",
+            "alkupnimi": "La grande fugue",
+            "julk": "Carlsen - 1984"
+        }, {
+            "nimike": "4: Berlin Strasse",
+            "alkupnimi": "Berlin Strasse",
+            "julk": "Carlsen - 1987"
+        }, {
+            "nimike": "5: Ida Mauz",
+            "alkupnimi": "Ida Mauz",
+            "julk": "Carlsen - 1986"
+        }]
+    }, {
+        "tekija": "Voss, Alain",
+        "tarinat": [{
+            "nimike": "Hampetraeet",
+            "alkupnimi": "L'Arbre a came",
+            "julk": "Carlsen - 1982"
+        }, {
+            "nimike": "Kar war",
+            "alkupnimi": "Kar war",
+            "julk": "Carlsen - 1980"
+        }]
+    }, {
+        "tekija": "Ware, Chris",
+        "tarinat": [{
+            "nimike": "The Adventures of Jimmy Corrigan",
+            "alkupnimi": "",
+            "julk": ""
+        }]
+    }, {
+        "tekija": "Warnant & Tome",
+        "tarinat": [{
+            "nimike": "Parhaat sarjat 30: Enkelin jäähyväiset",
+            "alkupnimi": "Soda 1: Un Ange trepasse",
+            "julk": "Sanoma - 1989"
+        }]
+    }, {
+        "tekija": "Warnauts & Raives",
+        "tarinat": [{
+            "nimike": "Viaton",
+            "alkupnimi": "L'Innocente",
+            "julk": "WSOY - 1993"
+        }]
+    }, {
+        "tekija": "Will & Rosy",
+        "tarinat": [{
+            "nimike": "Trumf 8: Tim ja Tom - Kumia kantapäissä",
+            "alkupnimi": "",
+            "julk": "Semic - 1973"
+        }, {
+            "nimike": "Tim ja Tom 1: Painajainen Louvressa",
+            "alkupnimi": "Choc au Louvre",
+            "julk": "Egmont - 2000"
+        }, {
+            "nimike": "Tim ja Tom 2: Tyhjyyden nuolet",
+            "alkupnimi": "Les Fleches de Nulle Part",
+            "julk": "Egmont - 2000"
+        }, {
+            "nimike": "Tim ja Tom 3: Naurettava nukke",
+            "alkupnimi": "La Poupee Ridicule",
+            "julk": "Egmont - 2002"
+        }, {
+            "nimike": "Tim ja Tom 4: Toarin herääminen",
+            "alkupnimi": "La reveil de Toar",
+            "julk": "Egmont - 2003"
+        }, {
+            "nimike": "Tim ja Tom 5: Uniin tunkeutuja",
+            "alkupnimi": "Le Grand Combat",
+            "julk": "Egmont - 2003"
+        }, {
+            "nimike": "Tim ja Tom 6: Samurain haamu",
+            "alkupnimi": "Le Fantome du Samouraé",
+            "julk": "Egmont - 2004"
+        }]
+    }, {
+        "tekija": "Will & Tillieux, M.",
+        "tarinat": [{
+            "nimike": "Tim och Tommys äventyr 2: Skattjakt i Burma",
+            "alkupnimi": "Aventure Birmaine",
+            "julk": "Carlsen - 1981"
+        }]
+    }, {
+        "tekija": "Wininger",
+        "tarinat": [{
+            "nimike": "Charles och Victors äventyr 1: Skuggorna från det okända",
+            "alkupnimi": "Les ombres de nulle part",
+            "julk": "Carlsen - 1981"
+        }]
+    }, {
+        "tekija": "Wood, Wally",
+        "tarinat": [{
+            "nimike": "Sally Forth 1",
+            "alkupnimi": "",
+            "julk": "Taschen Verlag - 1981"
+        }]
+    }, {
+        "tekija": "Wrightson, Berni",
+        "tarinat": [{
+            "nimike": "Creepshow ",
+            "alkupnimi": "",
+            "julk": "Plume - 1982"
+        }]
+    }, {
+        "tekija": "Yang, Gene Luen",
+        "tarinat": [{
+            "nimike": "American Born Chinese",
+            "alkupnimi": "",
+            "julk": "First Second - 2006"
+        }]
+    }, {
+        "tekija": "Yann & Edith",
+        "tarinat": [{
+            "nimike": "Basil & Victoria 1",
+            "alkupnimi": "Une Aventure de Basil et Victoria",
+            "julk": "Jalava - 1993"
+        }, {
+            "nimike": "Basil & Victoria 2",
+            "alkupnimi": "Basil et Victoria T.2 - Jack",
+            "julk": "Jalava - 1995"
+        }]
+    }, {
+        "tekija": "Yslaire & Balac",
+        "tarinat": [{
+            "nimike": "Sambre - hädanefter, intet",
+            "alkupnimi": "Sambre - plus ne m'est rien",
+            "julk": "Carlsen - 1987"
+        }]
+    }, {
+        "tekija": "Zep",
+        "tarinat": [{
+            "nimike": "Titeuf 1: Tytöille ihmettelemistä",
+            "alkupnimi": "Ca épate les filles ...",
+            "julk": "Egmont kustannus - 2001"
+        }, {
+            "nimike": "Titeuf 2: Julman hauska maailma",
+            "alkupnimi": "Tché, monde cruel",
+            "julk": "Egmont kustannus - 2002"
+        }]
+    }]
+}

@@ -1,0 +1,77 @@
+{
+    "lehdennimi": "Johannes ja Pirkale - Johan et Pirlouit",
+    "tarinalista": [{
+            "tekija": "Peyo Pierre Culliford",
+            "tarinat": [{
+                "numero": "1. ",
+                "alkupnimi": "Le ch�teau de Basenhau- 1954"
+            }, {
+                "numero": "2. ",
+                "alkupnimi": "Le maitre de Roucyboeuf- 1954"
+            }, {
+                "numero": "3. ",
+                "alkupnimi": "Le lutin du bois aux roches- 1955"
+            }, {
+                "numero": "4. ",
+                "alkupnimi": "La pierre de lune- 1956"
+            }, {
+                "numero": "5. ",
+                "alkupnimi": "Le serments des Vicking- 1957"
+            }, {
+                "numero": "6. ",
+                "alkupnimi": "La source des Dieux- 1957",
+                "nimike": "Jumalten lähde",
+                "julk": "Non Stop 76/06-08"
+            }, {
+                "numero": "7. ",
+                "alkupnimi": "La fleche noire- 1959",
+                "nimike": "Musta nuoli",
+                "julk": "Non Stop 77/03-06"
+            }, {
+                "numero": "8. ",
+                "alkupnimi": "Le sire de Montr�sor- 1960",
+                "nimike": "Aarnihovin valtias ",
+                "julk": "Ruutu 75/01-09"
+            }, {
+                "numero": "9. ",
+                "alkupnimi": "La flute a six schtroumphfs- 1960",
+                "nimike": "Kuusistrumffinen huilu",
+                "julk": "Ruutu 75/23-29"
+            }, {
+                "numero": "10. ",
+                "alkupnimi": "La guerre des sept fontaines- 1961",
+                "nimike": "Seitsemän Lähteen sota",
+                "julk": "Non Stop 76/23-25"
+            }, {
+                "numero": "11. ",
+                "alkupnimi": "L'anneau des Castellac- 1962",
+                "nimike": "Järvilinnan sormus",
+                "julk": "Non Stop 77/20-22"
+            }, {
+                "numero": "12. ",
+                "alkupnimi": "Le pays maudit- 1964",
+                "nimike": "Strumffien maa",
+                "julk": "Non Stop 75/05-10"
+            }, {
+                "numero": "13. ",
+                "alkupnimi": "Le sortil�ge de Maltrochu- 1970",
+                "nimike": "Sysivuoren kirot ",
+                "julk": "Ruutu 74/05-16"
+            }]
+        }, {
+            "tekija": "Culliford, Thierry & Maury, Alain",
+            "tarinat": [{
+                "numero": "14. ",
+                "alkupnimi": "La horde du Corbeau- 1994"
+            }, {
+                "numero": "15. ",
+                "alkupnimi": "Les troubadours de Roc � Pic- 1995"
+            }, {
+                "numero": "16. ",
+                "alkupnimi": "La nuit des sorciers- 1998"
+            }, {
+                "numero": "17. ",
+                "alkupnimi": "La rose des Sables- 2001"
+        }]
+    }]
+}

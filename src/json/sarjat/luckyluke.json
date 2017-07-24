@@ -1,0 +1,395 @@
+{
+    "lehdennimi": "Lucky Luke",
+    "tarinalista": [
+
+        {
+            "tekija": "Morris",
+            "tarinat": [{
+                "numero": "1.",
+                "alkupnimi": "La mine d'or de Dick Digger� - 1949"
+            }, {
+                "numero": "2.",
+                "alkupnimi": "Rod�o - 1949"
+            }, {
+                "numero": "3.",
+                "alkupnimi": "Arizona - 1951"
+            }, {
+                "numero": "4.",
+                "alkupnimi": "Sous le ciel de l'Ouest� - 1952"
+            }, {
+                "numero": "5.",
+                "alkupnimi": "Lucky Luke contre Pat Poker� - 1953",
+                "nimike": "Lucky Luke 42: Lucky Luke kohtaa Pat Pokerin",
+                "julk": "Otava - 1981"
+            }, {
+                "numero": "6.",
+                "alkupnimi": "Hors-la-loi� - 1954",
+                "nimike": "Lucky Luke 45: Lainsuojattomat",
+                "julk": "Otava - 1982"
+            }, {
+                "numero": "7.",
+                "alkupnimi": "L'elixir du docteur Doxey� - 1955",
+                "nimike": "Lucky Luke 37: Tohtori Doxeyn eliksiiri",
+                "julk": "Otava - 1979"
+            }, {
+                "numero": "8.",
+                "alkupnimi": "Lucky Luke contre Phil Defer� - 1956",
+                "nimike": "Lucky Luke 39: Phil Defer",
+                "julk": "Otava - 1980"
+            }, {
+                "numero": "9.",
+                "alkupnimi": "Des rails sur la prairie - 1957",
+                "nimike": "Lucky Luke 41: Kiskot yli preerian",
+                "julk": "Otava - 1981"
+            }, {
+                "numero": "10.",
+                "alkupnimi": "Alerte aux Pieds-Bleus - 1956",
+                "nimike": "Lucky Luke 47: Sinijalat tulevat",
+                "julk": "Otava - 1983"
+            }, {
+                "numero": "55.",
+                "alkupnimi": "La ballade des Dalton - 1986"
+            }]
+        }, {
+            "tekija": "Goscinny, Rene & Morris",
+            "tarinat": [{
+                "numero": "11.",
+                "alkupnimi": "Lucky Luke contre Joss Jamon - 1958",
+                "nimike": "Lucky Luke 38: Joss Jamon",
+                "julk": "Otava - 1980"
+            }, {
+                "numero": "12.",
+                "alkupnimi": "Les cousins Dalton - 1958",
+                "nimike": "Lucky Luke 30: Daltonin serkukset",
+                "julk": "Otava - 1978"
+            }, {
+                "numero": "13.",
+                "alkupnimi": "Le juge - 1959",
+                "nimike": "Tuomari",
+                "julk": "Non Stop 76/02-14"
+            }, {
+                "numero": "13.",
+                "alkupnimi": "Le juge - 1959",
+                "nimike": "Lucky Luke 33: Tuomari",
+                "julk": "Otava - 1990"
+            }, {
+                "numero": "14.",
+                "alkupnimi": "Ru�e sur l'Oklahoma - 1960",
+                "nimike": "Ryntäys Oklahomaan",
+                "julk": "Non Stop 76/19-77/03"
+            }, {
+                "numero": "14.",
+                "alkupnimi": "Ru�e sur l'Oklahoma - 1960",
+                "nimike": "Lucky Luke 27: Ryntäys Oklahomaan",
+                "julk": "Otava - 2004"
+            }, {
+                "numero": "15.",
+                "alkupnimi": "L'�vasion des Dalton - 1960",
+                "nimike": "Lucky Luke 13: Daltonien pako",
+                "julk": "Otava - 1974"
+            }, {
+                "numero": "16.",
+                "alkupnimi": "En remontant le Mississippi - 1961",
+                "nimike": "Lucky Luke 35: Ylös Mississippi-jokea",
+                "julk": "Otava - 1985"
+            }, {
+                "numero": "16.",
+                "alkupnimi": "En remontant le Mississippi - 1961",
+                "nimike": "Ylös Mississippi-jokea",
+                "julk": "Non Stop 75/01-76/01"
+            }, {
+                "numero": "17.",
+                "alkupnimi": "Sur la piste des Dalton� - 1962",
+                "nimike": "Lucky Luke 17: Daltonien jäljillä",
+                "julk": "Otava - 1975"
+            }, {
+                "numero": "17.",
+                "alkupnimi": "Sur la piste des Dalton� - 1962",
+                "nimike": "Daltonien jäljillä",
+                "julk": "Ruutu 74/34-48"
+            }, {
+                "numero": "18.",
+                "alkupnimi": "A l'ombre des derricks� - 1962",
+                "nimike": "Lucky Luke 20: öljyä taivaalla",
+                "julk": "Otava - 1975"
+            }, {
+                "numero": "19.",
+                "alkupnimi": "Les rivaux de Painful Gulch� - 1962",
+                "nimike": "Lucky Luke 29: Sukuvihaa Villissä Lännessä",
+                "julk": "Otava - 1978"
+            }, {
+                "numero": "20.",
+                "alkupnimi": "Billy the Kid� - 1962",
+                "nimike": "Lucky Luke 7: Billy the Kid, pikku nappula",
+                "julk": "Otava - 1973"
+            }, {
+                "numero": "21.",
+                "alkupnimi": "Les collines noires� - 1963",
+                "nimike": "Lucky Luke 22: Mustat kukkulat",
+                "julk": "Otava - 1976"
+            }, {
+                "numero": "22.",
+                "alkupnimi": "Les Dalton dans le blizzard - 1963",
+                "nimike": "Lucky Luke 24: Daltonit lumipyryssä",
+                "julk": "Otava - 1976"
+            }, {
+                "numero": "22.",
+                "alkupnimi": "Les Dalton dans le blizzard - 1963",
+                "nimike": "Daltonit lumipyryssä",
+                "julk": "Ruutu 74/17-33"
+            }, {
+                "numero": "23.",
+                "alkupnimi": "Les Dalton courent toujours - 1964",
+                "nimike": "Lucky Luke 32: Daltonit vauhdissa",
+                "julk": "Otava - 1978"
+            }, {
+                "numero": "24.",
+                "alkupnimi": "La caravane- 1964",
+                "nimike": "Lucky Luke 21: Vankkurikaravaani",
+                "julk": "Otava - 1976"
+            }, {
+                "numero": "25.",
+                "alkupnimi": "La ville fant�me�- 1965",
+                "nimike": "Aavekaupunki ",
+                "julk": "Otava - 2002"
+            }, {
+                "numero": "25.",
+                "alkupnimi": "La ville fant�me�- 1965",
+                "nimike": "Aavekaupunki ",
+                "julk": "Ruutu 74/50-75/13"
+            }, {
+                "numero": "26.",
+                "alkupnimi": "Les Dalton se rach�tent�- 1965",
+                "nimike": "Lucky Luke 8: Daltonit tekevät parannuksen",
+                "julk": "Otava - 1973"
+            }, {
+                "numero": "27.",
+                "alkupnimi": "Le 20e de cavalerie- 1965",
+                "nimike": "Lucky Luke 26: 20. ratsuväkirykmentti",
+                "julk": "Otava - 1977"
+            }, {
+                "numero": "28.",
+                "alkupnimi": "L'escorte�- 1966",
+                "nimike": "Lucky Luke 11: Saattue Uuteen Meksikoon",
+                "julk": "Otava - 1973"
+            }, {
+                "numero": "29.",
+                "alkupnimi": "Des barbel�s sur la prairie- 1967",
+                "nimike": "Lucky Luke 14: Piikkilankoja preerialla",
+                "julk": "Otava - 1974"
+            }, {
+                "numero": "30.",
+                "alkupnimi": "Calamity Jane- 1967",
+                "nimike": "Lucky Luke 9: Calamity Jane",
+                "julk": "Otava - 1973"
+            }, {
+                "numero": "31.",
+                "alkupnimi": "Tortillas pour les Dalton- 1967",
+                "nimike": "Lucky Luke 10: Serenadi neljälle Daltonille",
+                "julk": "Otava - 1973"
+            }, {
+                "numero": "32.",
+                "alkupnimi": "La diligence�- 1968",
+                "nimike": "Lucky Luke 2: Postivaunut",
+                "julk": "Otava - 1975"
+            }, {
+                "numero": "33.",
+                "alkupnimi": "Le pied tendre- 1968",
+                "nimike": "Lucky Luke 1: Arkajalka",
+                "julk": "Otava - 1971"
+            }, {
+                "numero": "34.",
+                "alkupnimi": "Dalton City- 1969",
+                "nimike": "Lucky Luke 4: Daltonin veljekset",
+                "julk": "Otava - 1972"
+            }, {
+                "numero": "35.",
+                "alkupnimi": "Jesse James�- 1969",
+                "nimike": "Lucky Luke 3: Jesse James",
+                "julk": "Otava - 1972"
+            }, {
+                "numero": "36.",
+                "alkupnimi": "Western Circus�- 1970",
+                "nimike": "Lucky Luke 5: Lännen sirkus",
+                "julk": "Otava - 1972"
+            }, {
+                "numero": "37.",
+                "alkupnimi": "Canyon Apache- 1971",
+                "nimike": "Lucky Luke 6: Apassikanjoni",
+                "julk": "Otava - 1972"
+            }, {
+                "numero": "38.",
+                "alkupnimi": "Ma Dalton�- 1971",
+                "nimike": "Lucky Luke 12: Daltonin muori",
+                "julk": "Otava - 1973"
+            }, {
+                "numero": "39.",
+                "alkupnimi": "Chasseur de primes- 1972",
+                "nimike": "Lucky Luke 16: Palkkionmetsästäjä",
+                "julk": "Otava - 1975"
+            }, {
+                "numero": "40.",
+                "alkupnimi": "Le grand duc- 1973",
+                "nimike": "Lucky Luke 18: Suuriruhtinas",
+                "julk": "Otava - 1975"
+            }, {
+                "numero": "41.",
+                "alkupnimi": "Le cavalier blanc- 1975",
+                "nimike": "Lucky Luke 23: Valkoinen ratsastaja",
+                "julk": "Otava - 1976"
+            }, {
+                "numero": "42.",
+                "alkupnimi": "L'h�ritage de Rantanplan- 1973",
+                "nimike": "Lucky Luke 15: Ran-tan-plan saa perinnön",
+                "julk": "Otava - 1974"
+            }, {
+                "numero": "43.",
+                "alkupnimi": "La gu�rison des Dalton- 1975",
+                "nimike": "Lucky Luke 28: Daltonit pääsevät hoitoon",
+                "julk": "Otava - 1977"
+            }, {
+                "numero": "44.",
+                "alkupnimi": "L'empereur Smith- 1976",
+                "nimike": "Lucky Luke 25: Keisari Smith",
+                "julk": "Otava - 1977"
+            }, {
+                "numero": "45.",
+                "alkupnimi": "Le fil qui chante- 1977",
+                "nimike": "Lucky Luke 34: Laulava lanka",
+                "julk": "Otava - 1979"
+            }, {
+                "numero": "46.",
+                "alkupnimi": "7 histoires de Lucky Luke- 1974",
+                "nimike": "Lucky Luke 31: Voittamaton Lucky Luke",
+                "julk": "Otava - 1978"
+            }, {
+                "numero": "50.",
+                "alkupnimi": "La corde du pendu et autres histoires- 1982",
+                "nimike": "",
+                "julk": ""
+            }, {
+                "numero": "51.",
+                "alkupnimi": "Daisy Town- 1983",
+                "nimike": "Lucky Luke 48: Daisy Town",
+                "julk": "Otava - 1983"
+            }]
+        }, {
+            "tekija": "Vicq & Morris",
+            "tarinat": [{
+                "numero": "47.",
+                "alkupnimi": "Le magot des Dalton�- 1980",
+                "nimike": "Lucky Luke 40: Daltonit etsivät aarretta",
+                "julk": "Otava - 1980"
+            }]
+        }, {
+            "tekija": "De Groot & Morris",
+            "tarinat": [{
+                "numero": "48.",
+                "alkupnimi": "Le bandit manchot- 1981",
+                "nimike": "Lucky Luke 43: Yksikätinen rosvo",
+                "julk": "Otava - 1981"
+            }]
+        }, {
+            "tekija": "Fauch�, L� turgie & Morris",
+            "tarinat": [{
+                "numero": "49.",
+                "alkupnimi": "Sarah Bernhardt- 1982",
+                "nimike": "Lucky Luke 46: Sarah Bernhardt",
+                "julk": "Otava - 1982"
+            }, {
+                "numero": "53.",
+                "alkupnimi": "Le Daily Star",
+                "nimike": "Lucky Luke 50: Daily Star",
+                "julk": "Otava - 1985"
+            }, {
+                "numero": "56.",
+                "alkupnimi": "Le ranch maudit- 1986"
+            }, {
+                "numero": "59.",
+                "alkupnimi": "Le Poney Express- 1988",
+                "nimike": "Lucky Luke: Ponnyexpressen",
+                "julk": "Bonniers - 1988"
+            }, {
+                "numero": "60.",
+                "alkupnimi": "L'amn�sie des Dalton- 1991",
+                "nimike": "Lucky Luke: Daltonit menettävät muistinsa",
+                "julk": "Sanoma Oy - 1991"
+            }, {
+                "numero": "62.",
+                "alkupnimi": "Les Dalton � la noce- 1993",
+                "nimike": "Lucky Luke: Daltonit häissä",
+                "julk": "Sanoma Oy - 1993"
+            }, {
+                "numero": "63.",
+                "alkupnimi": "Le pont sur le Mississipi- 1994"
+            }]
+        }, {
+            "tekija": "Lo Hartog Van Banda & Morris",
+            "tarinat": [{
+                "numero": "52.",
+                "alkupnimi": "Fingers- 1983",
+                "nimike": "Lucky Luke 49: Fingers",
+                "julk": "Otava - 1984"
+            }, {
+                "numero": "57.",
+                "alkupnimi": "Nitroglyc�rine- 1987",
+                "nimike": "Lucky Luke 52: Nitroglyseriini",
+                "julk": "Otava - 1987"
+            }, {
+                "numero": "61.",
+                "alkupnimi": "La chasse aux fant�mes- 1992",
+                "nimike": "Lucky Luke: Aavejahti",
+                "julk": "Sanoma Oy - 1992"
+            }]
+        }, {
+            "tekija": "Vidal & Morris",
+            "tarinat": [{
+                "numero": "54.",
+                "alkupnimi": "La fianc�e de Lucky Luke- 1985",
+                "nimike": "Lucky Luke 51: Lucky Luken morsian",
+                "julk": "Otava - 1985"
+            }]
+        }, {
+            "tekija": "Claude Guylouis Klotz, Vidal & Robert & Morris",
+            "tarinat": [{
+                "numero": "58.",
+                "alkupnimi": "L'Alibi- 1987"
+            }]
+        }, {
+            "tekija": "Fauch�, Adam & Morris",
+            "tarinat": [{
+                "numero": "64.",
+                "alkupnimi": "Belle Starr- 1995"
+            }]
+        }, {
+            "tekija": "Yann, L�turgie & Morris",
+            "tarinat": [{
+                "numero": "65.",
+                "alkupnimi": "Le Klondike- 1996",
+                "nimike": "Lucky Luke: Klondike",
+                "julk": "Egmont - 2011"
+            }]
+        }, {
+            "tekija": "Fauch�, Adam & Morris",
+            "tarinat": [{
+                "numero": "66.",
+                "alkupnimi": "OK Corral- 1997"
+            }, {
+                "numero": "67.",
+                "alkupnimi": "Oklahoma Jim"
+            }, {
+                "numero": "68.",
+                "alkupnimi": "Marcel Dalton"
+            }, {
+                "numero": "69.",
+                "alkupnimi": "Le Prophete"
+            }, {
+                "numero": "70.",
+                "alkupnimi": "L'artiste peintre"
+            }, {
+                "numero": "71.",
+                "alkupnimi": "La l�gende de l'Ouest"
+            }]
+        }
+    ]
+}
