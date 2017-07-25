@@ -18,7 +18,7 @@
   (fn []
     [ui/mui-theme-provider
         {:mui-theme (get-mui-theme {:palette {:text-color (color :blue200)}})}
-      [ui/paper
+      [:div
         [ui/flat-button {:label "Sekalaiset A-H"
                           :href "#/albumit/1"
                           :on-touch-tap

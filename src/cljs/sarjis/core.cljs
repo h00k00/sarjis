@@ -6,7 +6,8 @@
             [sarjis.views :as views]
             [sarjis.config :as config]
             [sarjis.handlers :as handlers]
-            [sarjis.routes :as routes]))
+            [sarjis.routes :as routes]
+            [sarjis.db :as db]))
 
 (defn splashscreen []
   (.-splashscreen js/navigator))
@@ -42,6 +43,9 @@
   (.addEventListener js/document "deviceready" onDeviceReady false))
 
 (defn ^:export init []
+  (db/load-menudb
+    #(re/dispatch [:set-menudb %])
+    #(js/alert (str "Tietokannan lataaminen epäonnistui.\n\n" (:status-text %))))
   (routes/app-routes)
   (re/dispatch-sync [:initialize-db])
   (dev-setup)

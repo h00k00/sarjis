@@ -4,6 +4,8 @@
                  [cljs-react-material-ui "0.2.46"]
                  [reagent "0.6.0" :exclusions [cljsjs/react cljsjs/react-dom]]
                  [re-frame "0.9.4"]
+                 [datascript "0.16.1"]
+                 [cljs-ajax "0.5.9"]
                  [secretary "1.2.3"]]
 
   :plugins [[lein-cljsbuild "1.1.4"]]
