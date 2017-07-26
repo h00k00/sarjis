@@ -10,7 +10,3 @@
 (re/reg-sub :sub-panel (fn [{:keys [:sub-panel]}]
                                   sub-panel))
 (re/reg-sub :name (fn [db] (:name db)))
-
-(re/reg-sub :items (fn [{:keys [database] :as app-db}]
-                          (if-not (nil? database)
-                            (db/all-items database))))

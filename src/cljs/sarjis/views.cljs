@@ -6,7 +6,8 @@
     [cljs-react-material-ui.icons :as ic]
     [secretary.core :as secretary]
     [re-frame.core :as re]
-    [reagent.core :as r]))
+    [reagent.core :as r]
+    [sarjis.db :as db]))
 
 (defn home-panel []
   (fn []
@@ -15,31 +16,43 @@
      ]))
 
 (defn albumit-panel []
+  (let [items (db/menu :menu/albumit)]
   (fn []
     [ui/mui-theme-provider
         {:mui-theme (get-mui-theme {:palette {:text-color (color :blue200)}})}
       [:div
-        [ui/flat-button {:label "Sekalaiset A-H"
-                          :href "#/albumit/1"
-                          :on-touch-tap
-                           (fn []
-                             (println "Sekalaiset A-H"))}]
-        [ui/flat-button {:label "Sekalaiset I-M"
-                          :href "#/albumit/2"
-                          :on-touch-tap
-                           (fn []
-                             (println "Sekalaiset I-M"))}]
-        [ui/flat-button {:label "Sekalaiset N-Ö"
-                          :href "#/albumit/3"
-                          :on-touch-tap
-                           (fn []
-                             (println "Sekalaiset N-Ö"))}]
-        [ui/flat-button {:label "Muut"
-                          :href "#/albumit/4"
-                          :on-touch-tap
-                           (fn []
-                             (println "Muut"))}]]
-    ]))
+        (doseq [item items]
+          (js/console.log (get-in item [:text]))
+          [ui/flat-button {:label (get-in item [:text])
+                            :href (str "#/albumit/" (get-in item [:item]))
+                            :on-touch-tap
+                             (fn []
+                               (println "Sekalaiset A-H"))}])]])
+  ; (fn []
+  ;   [ui/mui-theme-provider
+  ;       {:mui-theme (get-mui-theme {:palette {:text-color (color :blue200)}})}
+  ;     [:div
+  ;       [ui/flat-button {:label (get-in items [0 :text])
+  ;                         :href (str "#/albumit/" (get-in items [0 :item]))
+  ;                         :on-touch-tap
+  ;                          (fn []
+  ;                            (println "Sekalaiset A-H"))}]
+  ;       [ui/flat-button {:label (get-in items [1 :text])
+  ;                         :href "#/albumit/2"
+  ;                         :on-touch-tap
+  ;                          (fn []
+  ;                            (println "Sekalaiset I-M"))}]
+  ;       [ui/flat-button {:label "Sekalaiset N-Ö"
+  ;                         :href "#/albumit/3"
+  ;                         :on-touch-tap
+  ;                          (fn []
+  ;                            (println "Sekalaiset N-Ö"))}]
+  ;       [ui/flat-button {:label "Muut"
+  ;                         :href "#/albumit/4"
+  ;                         :on-touch-tap
+  ;                          (fn []
+  ;                            (println "Muut"))}]]])
+                             ))
 
 (defn albumi-panel []
   (let [sub-panel (re/subscribe [:sub-panel])]

@@ -1,4 +1,7 @@
-[ { :menu/id :albumit :menu/items [{ :item 1 :text "Albumit A-H"}
-                                   { :item 2 :text "Albumit I-M"}
-                                   { :item 3 :text "Albumit N-Ö"}
-                                   { :item 4 :text "Muut"}]} ]
+{ :menu/albumit [{ :item 1 :text "Albumit A-H"}
+                   { :item 2 :text "Albumit I-M"}
+                   { :item 3 :text "Albumit N-Ö"}
+                   { :item 4 :text "Muut"}]}
+{ :menu/lehdet [{ :item 1 :text "Non Stop"}
+                  { :item 2 :text "Ruutu"}
+                  { :item 3 :text "Zoom"}]}

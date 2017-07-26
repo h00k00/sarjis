@@ -44,15 +44,12 @@
 
 (defn ^:export init []
   (db/load-menudb
-    #(re/dispatch [:set-menudb %])
     #(js/alert (str "Tietokannan lataaminen epäonnistui.\n\n" (:status-text %))))
   (routes/app-routes)
   (re/dispatch-sync [:initialize-db])
   (dev-setup)
   (mount-root))
 
-
 (js/console.log "Starting...")
-; (prepare-device)
 (handlers/register)
 (if js/window.cordova (prepare-device) (init))

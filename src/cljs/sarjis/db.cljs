@@ -12,20 +12,14 @@
   {:menu/items  {:db/cardinality :db.cardinality/many}
    :menu/name {:db/unique :db.unique/identity}})
 
-(defn load-menudb [db-handler error handler]
+(defonce menudb (atom {}))
+
+(defn load-menudb [error-handler]
   (a/GET "db/menu.edn"
           {:response-format (edn/edn-response-format)
           :error-handler error-handler
-          :handler       (fn [entries]
-                           (let [db (d/create-conn schema)]
-                             (doseq [entry entries] (d/transact! db [entry]))
-                             (db-handler db)))}))
+          :handler       (fn [response]
+                           (reset! menudb response))}))
 
-(defn menu-items [db name]
- (->>
-   (d/q '[:find ?items
-          :where
-          [?e :menu/id :albumit]]
-        @db)
-   (map (fn [[items]] [items]))
-   (into {})))
+(defn menu [key]
+  (get @menudb key))
