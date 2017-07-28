@@ -1,7 +1,7 @@
-{ :menu/albumit [{ :item 1 :text "Albumit A-H"}
-                   { :item 2 :text "Albumit I-M"}
-                   { :item 3 :text "Albumit N-Ö"}
-                   { :item 4 :text "Muut"}]}
-{ :menu/lehdet [{ :item 1 :text "Non Stop"}
-                  { :item 2 :text "Ruutu"}
-                  { :item 3 :text "Zoom"}]}
+{ :menu/albumit [ { :item "albumit1" :text "Albumit A-H"}
+                  { :item "albumit2" :text "Albumit I-M"}
+                  { :item "albumit3" :text "Albumit N-Ö"}
+                  { :item "albumit4" :text "Muut"}]
+ :menu/lehdet [   { :item "nonstop" :text "Non Stop"}
+                  { :item "ruutu" :text "Ruutu"}
+                  { :item "zoom" :text "Zoom"}]}}

@@ -50,6 +50,5 @@
   (dev-setup)
   (mount-root))
 
-(js/console.log "Starting...")
 (handlers/register)
 (if js/window.cordova (prepare-device) (init))

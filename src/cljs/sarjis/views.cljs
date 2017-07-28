@@ -7,7 +7,8 @@
     [secretary.core :as secretary]
     [re-frame.core :as re]
     [reagent.core :as r]
-    [sarjis.db :as db]))
+    [sarjis.db :as db]
+    [sarjis.page :as page]))
 
 (defn home-panel []
   (fn []
@@ -15,57 +16,42 @@
      [:div "Home"]
      ]))
 
-(defn albumit-panel []
-  (let [items (db/menu :menu/albumit)]
-  (fn []
+(defn list-items [menu-item path]
+  (let [items (db/menu menu-item)]
+  [:div
     [ui/mui-theme-provider
         {:mui-theme (get-mui-theme {:palette {:text-color (color :blue200)}})}
-      [:div
-        (doseq [item items]
-          (js/console.log (get-in item [:text]))
-          [ui/flat-button {:label (get-in item [:text])
-                            :href (str "#/albumit/" (get-in item [:item]))
-                            :on-touch-tap
-                             (fn []
-                               (println "Sekalaiset A-H"))}])]])
-  ; (fn []
-  ;   [ui/mui-theme-provider
-  ;       {:mui-theme (get-mui-theme {:palette {:text-color (color :blue200)}})}
-  ;     [:div
-  ;       [ui/flat-button {:label (get-in items [0 :text])
-  ;                         :href (str "#/albumit/" (get-in items [0 :item]))
-  ;                         :on-touch-tap
-  ;                          (fn []
-  ;                            (println "Sekalaiset A-H"))}]
-  ;       [ui/flat-button {:label (get-in items [1 :text])
-  ;                         :href "#/albumit/2"
-  ;                         :on-touch-tap
-  ;                          (fn []
-  ;                            (println "Sekalaiset I-M"))}]
-  ;       [ui/flat-button {:label "Sekalaiset N-Ö"
-  ;                         :href "#/albumit/3"
-  ;                         :on-touch-tap
-  ;                          (fn []
-  ;                            (println "Sekalaiset N-Ö"))}]
-  ;       [ui/flat-button {:label "Muut"
-  ;                         :href "#/albumit/4"
-  ;                         :on-touch-tap
-  ;                          (fn []
-  ;                            (println "Muut"))}]]])
-                             ))
+        [:div
+          (for [item items]
+            [:div {:key (get-in item [:item])}
+                [ui/flat-button {:label (get-in item [:text])
+                                  :href (str path (get-in item [:item]))
+                                  :on-touch-tap
+                                    #(page/load-content (get-in item [:item]))}]])]]]))
+
+(defn albumit-panel []
+  [list-items :menu/albumit "#/albumit/"])
 
 (defn albumi-panel []
-  (let [sub-panel (re/subscribe [:sub-panel])]
-   (fn []
-     [:div "Albumilistaus"
-      [:div sub-panel]
-      ])))
+  (let [sub-panel (re/subscribe [:sub-panel])
+        name (page/page-item :lehdennimi)
+        authors (page/page-item :tarinalista)]
+    (fn []
+      [:div
+        [:h1 name]
+        (for [author authors]
+          [:div {:key (get-in author [:tekija])}
+            [:h2 (get-in author [:tekija])]
+            (let [stories (get-in author [:tarinat])]
+              (for [story stories]
+                [:div {:key (get-in story [:nimike])}
+                  [:p (get-in story [:nimike])]
+                  [:p (get-in story [:alkupnimi])]
+                  [:p (get-in story [:julk])]]
+              ))])])))
 
 (defn lehdet-panel []
- (fn []
-   [:div "This is the Item 3 Page."
-    [:div [:a {:href "#/"} "go to Home Page"]]
-    ]))
+  [list-items :menu/lehdet "#/lehdet/"])
 
 (defn sarjat-panel []
   (fn []
@@ -137,6 +123,4 @@
                             (fn []
                               (println "Menu Item 5 Clicked"))}]]
           [ui/paper
-            (panels @active-panel)]
-
-            ]])))
+            (panels @active-panel)]]])))
