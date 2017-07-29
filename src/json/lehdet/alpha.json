@@ -1,110 +1,110 @@
 {
-  "lehdennimi": "Alpha",
-  "tarinalista": [
+  :lehdennimi "Alpha"
+  :tarinalista [
     {
-      "tekija": "Emerson, Hunt",
-      "tarinat": [
+      :tekija "Emerson, Hunt"
+      :tarinat [
         {
-          "nimike": "Max Zillion ja Alto Ego",
-          "julk": "Alpha 1992/01"
+          :nimike "Max Zillion ja Alto Ego"
+          :julk "Alpha 1992/01"
         }
       ]
-    },
+    }
     {
-      "tekija": "Koskela, Ilpo",
-      "tarinat": [
+      :tekija "Koskela, Ilpo"
+      :tarinat [
         {
-          "nimike": "Backlook - kaksi kaupunkia",
-          "julk": "Alpha 1992/01"
-        },
+          :nimike "Backlook - kaksi kaupunkia"
+          :julk "Alpha 1992/01"
+        }
         {
-          "nimike": "Kultakuume",
-          "julk": "Alpha 1992/02"
+          :nimike "Kultakuume"
+          :julk "Alpha 1992/02"
         }
       ]
-    },
+    }
     {
-      "tekija": "Kähkönen, Timo & Varpio, Timo",
-      "tarinat": [
+      :tekija "Kähkönen, Timo & Varpio, Timo"
+      :tarinat [
         {
-          "nimike": "Valo yössä",
-          "julk": "Alpha 1992/01"
+          :nimike "Valo yössä"
+          :julk "Alpha 1992/01"
         }
       ]
-    },
+    }
     {
-      "tekija": "Lusa, Satu",
-      "tarinat": [
+      :tekija "Lusa, Satu"
+      :tarinat [
         {
-          "nimike": "Finnish Success Story",
-          "julk": "Alpha 1992/02"
+          :nimike "Finnish Success Story"
+          :julk "Alpha 1992/02"
         }
       ]
-    },
+    }
     {
-      "tekija": "Otsamo, Pentti",
-      "tarinat": [
+      :tekija "Otsamo, Pentti"
+      :tarinat [
         {
-          "nimike": "Mies tänä keväänä",
-          "julk": "Alpha 1992/01"
+          :nimike "Mies tänä keväänä"
+          :julk "Alpha 1992/01"
         }
       ]
-    },
+    }
     {
-      "tekija": "Paakkanen, Heikki",
-      "tarinat": [
+      :tekija "Paakkanen, Heikki"
+      :tarinat [
         {
-          "nimike": "Rajatila",
-          "julk": "Alpha 1992/02"
+          :nimike "Rajatila"
+          :julk "Alpha 1992/02"
         }
       ]
-    },
+    }
     {
-      "tekija": "Parhamaa, Erkki",
-      "tarinat": [
+      :tekija "Parhamaa, Erkki"
+      :tarinat [
         {
-          "nimike": "Reunalla...",
-          "julk": "Alpha 1992/02"
+          :nimike "Reunalla..."
+          :julk "Alpha 1992/02"
         }
       ]
-    },
+    }
     {
-      "tekija": "Prado, Miguelanxo",
-      "tarinat": [
+      :tekija "Prado, Miguelanxo"
+      :tarinat [
         {
-          "nimike": "Kymmenen päivää Afrikassa",
-          "julk": "Alpha 1992/01"
-        },
+          :nimike "Kymmenen päivää Afrikassa"
+          :julk "Alpha 1992/01"
+        }
     {
-      "nimike": "Rouvan alusvaatteet",
-      "julk": "Alpha 1992/01"
+      :nimike "Rouvan alusvaatteet"
+      :julk "Alpha 1992/01"
     }
   ]
-},
+}
     {
-      "tekija": "Rytöhonka, Tapani",
-      "tarinat": [
+      :tekija "Rytöhonka, Tapani"
+      :tarinat [
         {
-          "nimike": "Oodi Kotkankalliolle",
-          "julk": "Alpha 1992/02"
+          :nimike "Oodi Kotkankalliolle"
+          :julk "Alpha 1992/02"
         }
       ]
-    },
+    }
     {
-      "tekija": "Tolppanen, Petri & Mäkinen, Reima",
-      "tarinat": [
+      :tekija "Tolppanen, Petri & Mäkinen, Reima"
+      :tarinat [
         {
-          "nimike": "Vuodet",
-          "julk": "Alpha 1992/02"
+          :nimike "Vuodet"
+          :julk "Alpha 1992/02"
         }
       ]
-    },
+    }
     {
-      "tekija": "Valkeapää, J-P & Neugodov, Konsta",
-      "tarinat": [
+      :tekija "Valkeapää, J-P & Neugodov, Konsta"
+      :tarinat [
         {
-          "nimike": "Me",
-          "julk": "Alpha 1992/02"
+          :nimike "Me"
+          :julk "Alpha 1992/02"
         }
       ]
     }

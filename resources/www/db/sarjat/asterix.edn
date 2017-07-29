@@ -1,0 +1,188 @@
+{
+    :lehdennimi "Asterix seikkailee"
+    :tarinalista [{
+        :tekija "Uderzo, Albert & Goscinny, Rene"
+        :tarinat [{
+            :numero "1. "
+            :alkupnimi "Astérix le Gaulois - 1961"
+            :nimike "Asterix gallialainen "
+            :julk "Zoom 74/40-kesken"
+        } {
+            :numero "2. "
+            :alkupnimi "La Serpe d'or - 1962"
+            :nimike "Asterix 10: Kultainen sirppi"
+            :julk "Sanoma Oy - 1971"
+        } {
+            :numero "3. "
+            :alkupnimi "Astérix et les Goths - 1963"
+            :nimike "Asterix ja gootit"
+            :julk "Voittamaton Asterix / Sanoma Oy - 1993"
+        } {
+            :numero "4. "
+            :alkupnimi "Astérix Gladiateur - 1964"
+            :nimike "Asterix 4: Asterix gladiaattorina"
+            :julk "Egmont - 2012"
+        } {
+            :numero "4. "
+            :alkupnimi "Astérix Gladiateur - 1964"
+            :nimike "Asterix, the Gladiator"
+            :julk "Colour Knight - 1980"
+        } {
+            :numero "5. "
+            :alkupnimi "Le tour de Gaule - 1965"
+            :nimike "Asterix 16: Asterix lyö vetoa"
+            :julk "Sanoma Oy - 1973"
+        } {
+            :numero "6. "
+            :alkupnimi "Astérix et Cléopâtre - 1965"
+            :nimike "Asterix 1: Asterix ja Kleopatra"
+            :julk "Sanoma Oy - 1974"
+        } {
+            :numero "7. "
+            :alkupnimi "Le combat des chefs - 1966"
+            :nimike "Asterix 5: Päälliköiden ottelu"
+            :julk "Sanoma Oy - 1972"
+        } {
+            :numero "8. "
+            :alkupnimi "Astérix chez les Bretons - 1966"
+            :nimike "Asterix Britanniassa"
+            :julk "Voittamaton Asterix / Sanoma Oy - 1993"
+        } {
+            :numero "9. "
+            :alkupnimi "Astérix et les Normands - 1966"
+            :nimike "Asterix 8: Asterix ja normannien maihinnousu"
+            :julk "Sanoma Oy - 1970"
+        } {
+            :numero "10. "
+            :alkupnimi "Astérix Légionnaire -  1967"
+            :nimike "Asterix legioonalaisena "
+            :julk "Zoom 74/17-39"
+        } {
+            :numero "10. "
+            :alkupnimi "Astérix Légionnaire -  1967"
+            :nimike "Asterix legioonalaisena "
+            :julk "Voittamaton Asterix / Sanoma Oy - 1993"
+        } {
+            :numero "11. "
+            :alkupnimi "Le bouclier Arverne - 1968"
+            :nimike "Asterix 15: Asterix ja kadonnut kilpi"
+            :julk "Sanoma Oy - 1973"
+        } {
+            :numero "12. "
+            :alkupnimi "Astérix aux jeux olympiques - 1968"
+            :nimike "Asterix 4: Asterix olympialaisissa"
+            :julk "Sanoma Oy - 1972"
+        } {
+            :numero "13. "
+            :alkupnimi "Astérix et le chaudron - 1969"
+            :nimike "Asterix 9: Asterix ja rahapata"
+            :julk "Sanoma Oy - 1977"
+        } {
+            :numero "14. "
+            :alkupnimi "Astérix en Hispanie - 1969"
+            :nimike "Asterix 7: Asterix Hispaniassa"
+            :julk "Sanoma Oy - 1976"
+        } {
+            :numero "15. "
+            :alkupnimi "La Zizanie - 1970"
+            :nimike "Asterix 11: Asterix ja riidankylväjä"
+            :julk "Sanoma Oy - 1973"
+        } {
+            :numero "16. "
+            :alkupnimi "Astérix chez les Helvètes - 1970"
+            :nimike "Asterix 13: Asterix ja alppikukka"
+            :julk "Sanoma Oy - 1972"
+        } {
+            :numero "17. "
+            :alkupnimi "Le domaine des Dieux - 1971"
+            :nimike "Asterix 14: Jumaltenrannan nousu ja tuho"
+            :julk "Sanoma Oy - 1972"
+        } {
+            :numero "18. "
+            :alkupnimi "Les lauriers de César - 1972"
+            :nimike "Asterix 17: Asterix ja Caesarin laakeriseppele"
+            :julk "Sanoma Oy - 1973"
+        } {
+            :numero "18. "
+            :alkupnimi "Les lauriers de César - 1972"
+            :nimike "Caesarin laakeriseppele"
+            :julk "Zoom 73/01-74/16"
+        } {
+            :numero "19. "
+            :alkupnimi "Le Devin - 1972"
+            :nimike "Asterix 19: Asterix ja ennustaja"
+            :julk "Sanoma Oy - 1975"
+        } {
+            :numero "20. "
+            :alkupnimi "Astérix en Corse - 1973"
+            :nimike "Asterix 20: Asterix Korsikassa"
+            :julk "Sanoma Oy - 1975"
+        } {
+            :numero "21. "
+            :alkupnimi "Le cadeau de César - 1974"
+            :nimike "Asterix ja Caesarin lahja"
+            :julk "Voittamaton Asterix / Sanoma Oy - 1993"
+        } {
+            :numero "22. "
+            :alkupnimi "La grande traversée - 1975"
+            :nimike "Asterix 22: Asterix ja suuri merimatka"
+            :julk "Sanoma Oy - 1976"
+        } {
+            :numero "23. "
+            :alkupnimi "Obélix et compagnie - 1976"
+            :nimike "Asterix 23: Obelix ja kumpp."
+            :julk "Sanoma Oy - 1977"
+        } {
+            :numero "24. "
+            :alkupnimi "Astérix chez les Belges - 1979"
+            :nimike "Asterix 24: Asterix Belgiassa"
+            :julk "Sanoma Oy - 1979"
+        }]
+    } {
+        :tekija "Uderzo, Albert"
+        :tarinat [{
+            :numero "25. "
+            :alkupnimi "Le grand Fossé - 1980"
+            :nimike "Asterix seikkailee 25: Syvä kuilu"
+            :julk "Sanoma Oy - 1980"
+        } {
+            :numero "26. "
+            :alkupnimi "L'Odyssée d'Astérix - 1981"
+            :nimike "Asterix seikkailee 26: Asterixin harharetket"
+            :julk "Sanoma Oy - 1982"
+        } {
+            :numero "27. "
+            :alkupnimi "Le Fils d'Astérix - 1983"
+            :nimike "Asterix seikkailee 27: Asterixin poika"
+            :julk "Sanoma Oy - 1984"
+        } {
+            :numero "28. "
+            :alkupnimi "Astérix chez Rahazade"
+            :nimike ""
+            :julk ""
+        } {
+            :numero "29. "
+            :alkupnimi "La rose et le glaive - 1991"
+            :nimike "Asterix seikkailee 29: Ruusu ja miekka"
+            :julk "Sanoma Oy - 1991"
+        } {
+            :numero "30. "
+            :alkupnimi "La galère d'Obélix"
+            :nimike ""
+            :julk ""
+        } {
+            :numero "31. "
+            :alkupnimi "Asterix et la Traviata"
+            :nimike ""
+            :julk ""
+        }]
+    } {
+        :tekija "Conrad, Didier & Ferri, Jean-Yves"
+        :tarinat [{
+            :numero "35. "
+            :alkupnimi "Astérix chez les Pictes - 2013"
+            :nimike "Asterix seikkailee 35: Asterix ja piktit"
+            :julk "Egmont - 2013"
+        }]
+    }]
+}

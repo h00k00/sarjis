@@ -2,6 +2,62 @@
                   { :item "albumit2" :text "Albumit I-M"}
                   { :item "albumit3" :text "Albumit N-Ö"}
                   { :item "albumit4" :text "Muut"}]
- :menu/lehdet [   { :item "nonstop" :text "Non Stop"}
-                  { :item "ruutu" :text "Ruutu"}
-                  { :item "zoom" :text "Zoom"}]}}
+  :menu/lehdet [  { :item "2000plus" :text "2000+"}
+                  { :item "alpha" :text "Alpha"}
+                  { :item "casablanca" :text "Casablanca"}
+                  { :item "chevalnoir" :text "Cheval Noir"}
+                  { :item "comet" :text "Comet"}
+                  { :item "drawnandquarterly" :text "D & Q"}
+                  { :item "epix" :text "Epix"}
+                  { :item "heavymetal" :text "Heavy Metal"}
+                  { :item "jysays" :text "Jysäys"}
+                  { :item "kylmametalli" :text "Kylmä Metalli"}
+                  { :item "laaki" :text "Laaki"}
+                  { :item "pox" :text "Pox"}
+                  { :item "pulserandemetal" :text "Pulserande Metal"}
+                  { :item "raw" :text "Raw"}
+                  { :item "ruutunonstop" :text "Ruutu & Non Stop"}
+                  { :item "tapiiri" :text "Tapiiri"}
+                  { :item "tungmetal" :text "Tung Metal"}
+                  { :item "zoom" :text "Zoom"}]
+  :menu/sarjat [  { :item "ahmedahne" :text "Ahmed Ahne"}
+                  { :item "alix" :text "Alix"}
+                  { :item "asterix" :text "Asterix"}
+                  { :item "barelli" :text "Barelli"}
+                  { :item "bernardprince" :text "Bernard Prince"}
+                  { :item "blakejamortimer" :text "Blake ja Mortimer"}
+                  { :item "blueberry" :text "Blueberry"}
+                  { :item "boismaury" :text "Bois Maury"}
+                  { :item "bouncer" :text "Bouncer"}
+                  { :item "brucejhawker" :text "Bruce J Hawker"}
+                  { :item "brunobrazil" :text "Bruno Brazil"}
+                  { :item "comanche" :text "Comanche"}
+                  { :item "cutlass" :text "Jim Cutlass"}
+                  { :item "frank" :text "Frank"}
+                  { :item "haikaralaivue" :text "Haikaralaivue"}
+                  { :item "jeffhawke" :text "Jeff Hawke"}
+                  { :item "jeremiah" :text "Jeremiah"}
+                  { :item "johannes" :text "Johannes ja Pirkale"}
+                  { :item "joonatan" :text "Joonatan"}
+                  { :item "kaspar" :text "Kaspar Keskiyö"}
+                  { :item "kenparker" :text "Ken Parker"}
+                  { :item "largowinch" :text "Largo Winch"}
+                  { :item "luckyluke" :text "Lucky Luke"}
+                  { :item "matkamiehet" :text "Matkamiehet"}
+                  { :item "natasha" :text "Natasha"}
+                  { :item "peterpan" :text "Peter Pan"}
+                  { :item "pielinen" :text "Niilo Pielinen"}
+                  { :item "piko" :text "Piko"}
+                  { :item "resande" :text "Resande med vinden"}
+                  { :item "sammyday" :text "Sammy Day"}
+                  { :item "sillage" :text "Sillage"}
+                  { :item "simon" :text "Simon"}
+                  { :item "sinitakit" :text "Sinitakit"}
+                  { :item "stephan" :text "Stephan"}
+                  { :item "texspecial" :text "Tex Special"}
+                  { :item "thorgal" :text "Thorgal"}
+                  { :item "titeuf" :text "Titeuf"}
+                  { :item "umpahpah" :text "Umpah-pah"}
+                  { :item "valerian" :text "Valerian"}
+                  { :item "vargas" :text "Vargas"}
+                  { :item "xii" :text "XII"}]}

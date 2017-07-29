@@ -26,49 +26,43 @@
             [:div {:key (get-in item [:item])}
                 [ui/flat-button {:label (get-in item [:text])
                                   :href (str path (get-in item [:item]))
-                                  :on-touch-tap
-                                    #(page/load-content (get-in item [:item]))}]])]]]))
+                                  ; :on-touch-tap
+                                  ;   #(page/load-content (get-in item [:item]))
+                                    }]])]]]))
+
+(defn panel-content []
+  (let [name (page/page-item :lehdennimi)
+        authors (page/page-item :tarinalista)]
+    (fn []
+      [:div {:style {:padding-top "4em"}}
+        [:h1.title name]
+        (for [author authors]
+          [:div {:key (get author :tekija)}
+            [:h2.author (get author :tekija)]
+            (let [stories (get author :tarinat)]
+              (for [story stories]
+                [:div {:key (str (get story :nimike) (get story :julk))}
+                  [:p.story-title (get story :nimike)]
+                  [:p.story-original-title (get story :alkupnimi)]
+                  [:p.story-publisher (get story :julk)]]
+              ))])])))
 
 (defn albumit-panel []
   [list-items :menu/albumit "#/albumit/"])
-
-(defn albumi-panel []
-  (let [sub-panel (re/subscribe [:sub-panel])
-        name (page/page-item :lehdennimi)
-        authors (page/page-item :tarinalista)]
-    (fn []
-      [:div
-        [:h1 name]
-        (for [author authors]
-          [:div {:key (get-in author [:tekija])}
-            [:h2 (get-in author [:tekija])]
-            (let [stories (get-in author [:tarinat])]
-              (for [story stories]
-                [:div {:key (get-in story [:nimike])}
-                  [:p (get-in story [:nimike])]
-                  [:p (get-in story [:alkupnimi])]
-                  [:p (get-in story [:julk])]]
-              ))])])))
 
 (defn lehdet-panel []
   [list-items :menu/lehdet "#/lehdet/"])
 
 (defn sarjat-panel []
-  (fn []
-    [:div "This is the Item 4 Page."
-     [:div [:a {:href "#/"} "go to Home Page"]]
-     ]))
+  [list-items :menu/sarjat "#/sarjat/"])
 
 (defn tekijat-panel []
- (fn []
-   [:div "This is the Item 5 Page."
-    [:div [:a {:href "#/"} "go to Home Page"]]
-    ]))
+  [list-items :menu/tekijat "#/tekijat/"])
 
 (defmulti panels identity)
 (defmethod panels :home-panel [] [home-panel])
 (defmethod panels :albumit-panel [] [albumit-panel])
-(defmethod panels :albumi-panel [] [albumi-panel])
+(defmethod panels :panel-content [] [panel-content])
 (defmethod panels :lehdet-panel [] [lehdet-panel])
 (defmethod panels :sarjat-panel [] [sarjat-panel])
 (defmethod panels :tekijat-panel [] [tekijat-panel])
@@ -85,6 +79,7 @@
           {:palette {:text-color (color :green600)}})}
         [:div
           [ui/app-bar { :title "Sarjakuvia"
+                        :style {:position "fixed"}
                         :icon-element-right
                           (r/as-element [ui/icon-button
                             (ic/action-account-balance-wallet)])
@@ -123,4 +118,5 @@
                             (fn []
                               (println "Menu Item 5 Clicked"))}]]
           [ui/paper
+            {:style {:margin-top "00em"}}
             (panels @active-panel)]]])))

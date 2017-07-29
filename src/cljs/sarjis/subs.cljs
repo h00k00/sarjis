@@ -9,4 +9,6 @@
                                   active-panel))
 (re/reg-sub :sub-panel (fn [{:keys [:sub-panel]}]
                                   sub-panel))
+(re/reg-sub :directory (fn [{:keys [:directory]}]
+                                  directory))
 (re/reg-sub :name (fn [db] (:name db)))

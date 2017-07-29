@@ -599,11 +599,11 @@
             } {
                 :tekija "Dufaux & Marini"
                 :tarinat [{
-                    :nimike "Raatelijat"
+                    :nimike "Raatelijat 1"
                     :alkupnimi "Rapaces 1"
                     :julk "Egmont - 2010"
                 } {
-                    :nimike "Raatelijat"
+                    :nimike "Raatelijat 2"
                     :alkupnimi "Rapaces 2"
                     :julk "Egmont - 2011"
                 }]
@@ -1066,12 +1066,8 @@
                             :alkupnimi "Le démon des Caraïbes"
                             :julk "Egmont - 2013"
                         } {
-                            :nimike "Punaparta kokoelma 1: Karibian demoni"
-                            :alkupnimi "Le roi des sept mers"
-                            :julk "Egmont - 2013"
-                        } {
-                            :nimike "Punaparta kokoelma 1: Karibian demoni"
-                            :alkupnimi "Le jeune capitaine"
+                            :nimike "Punaparta kokoelma 1: Seitsemän meren kuningas"
+                            :alkupnimi "Le roi des sept mers/Le jeune capitaine"
                             :julk "Egmont - 2013"
                         } {
                             :nimike "Zoom kuukauden seikkailu 11: Punaparta - Varpushaukan salainen matka"
