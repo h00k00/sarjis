@@ -18,7 +18,7 @@
 
 (defn list-items [menu-item path]
   (let [items (db/menu menu-item)]
-  [:div
+  [:div {:style {:padding-top "100px"}}
     [ui/mui-theme-provider
         {:mui-theme (get-mui-theme {:palette {:text-color (color :blue200)}})}
         [:div
@@ -34,7 +34,7 @@
   (let [name (page/page-item :lehdennimi)
         authors (page/page-item :tarinalista)]
     (fn []
-      [:div {:style {:padding-top "4em"}}
+      [:div {:style {:padding-top "100px"}}
         [:h1.title name]
         (for [author authors]
           [:div {:key (get author :tekija)}
