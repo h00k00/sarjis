@@ -238,7 +238,7 @@
                     :alkupnimi ""
                     :julk "Kartago förlag - 2004"
                 } {
-                    :nimike "Rocky Volym &aring;tta"
+                    :nimike "Rocky Volym åtta"
                     :alkupnimi ""
                     :julk "Kartago förlag - 2005"
                 } {
@@ -554,7 +554,7 @@
                     :julk "Drawn & Quarterly - 2001"
                 } {
                     :nimike "Berlin - Savuinen kaupunki, toinen kirja"
-                    :alkupnimi "Berlin -Â&nbsp;Bleierne Stadt"
+                    :alkupnimi "Berlin -Â Bleierne Stadt"
                     :julk "Like - 2008"
                 } {
                     :nimike "Jar of Fools, part two"
@@ -613,15 +613,15 @@
                     :alkupnimi "Historien om Quark"
                     :julk "Carlsen - 1999"
                 } {
-                    :nimike "Valhalla 5: Matka Udg&aring;rdiin"
+                    :nimike "Valhalla 5: Matka Udgårdiin"
                     :alkupnimi "Rejsen til Udg&aring;rdsloke"
                     :julk "Semic - 1989"
                 } {
-                    :nimike "Valhall 5: Resan till Utg&aring;rdsloke"
+                    :nimike "Valhall 5: Resan till Utgårdsloke"
                     :alkupnimi "Rejsen til Udg&aring;rdsloke"
                     :julk "Carlsen - 1999"
                 } {
-                    :nimike "Valhall 6: Guldäpplen &aring;t gudarna"
+                    :nimike "Valhall 6: Guldäpplen åt gudarna"
                     :alkupnimi "De gyldne aebler"
                     :julk "Carlsen - 1999"
                 }]
@@ -646,7 +646,7 @@
                     :alkupnimi "Le Batard"
                     :julk "Carlsen - 1988"
                 } {
-                    :nimike "Verdens ende 4: D&aring;rskabens Sten"
+                    :nimike "Verdens ende 4: Dårskabens Sten"
                     :alkupnimi "La Pierre de la Folie"
                     :julk "Carlsen - 1989"
                 }]

@@ -43,7 +43,7 @@
                   { :item "kenparker" :text "Ken Parker"}
                   { :item "largowinch" :text "Largo Winch"}
                   { :item "luckyluke" :text "Lucky Luke"}
-                  { :item "matkamiehet" :text "Matkamiehet"}
+                  { :item "matkamiehet" :text "Hämärän matkamiehet"}
                   { :item "natasha" :text "Natasha"}
                   { :item "peterpan" :text "Peter Pan"}
                   { :item "pielinen" :text "Niilo Pielinen"}
@@ -60,4 +60,6 @@
                   { :item "umpahpah" :text "Umpah-pah"}
                   { :item "valerian" :text "Valerian"}
                   { :item "vargas" :text "Vargas"}
-                  { :item "xii" :text "XII"}]}
+                  { :item "xii" :text "XII"}]
+    :menu/tekijat [ { :item "altuna" :text "Horacio Altuna"}
+                    { :item "auclair" :text "Claude Auclair"}]}
