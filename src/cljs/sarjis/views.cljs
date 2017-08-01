@@ -119,5 +119,4 @@
                             (fn []
                               (println "Menu Item 5 Clicked"))}]]
           [ui/paper
-            {:style {:margin-top "00em"}}
             (panels @active-panel)]]])))

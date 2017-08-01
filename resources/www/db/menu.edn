@@ -19,7 +19,7 @@
                   { :item "ruutunonstop" :text "Ruutu & Non Stop"}
                   { :item "tapiiri" :text "Tapiiri"}
                   { :item "tungmetal" :text "Tung Metal"}
-                  { :item "zoom-lehti" :text "Zoom"}]
+                  { :item "zoom" :text "Zoom"}]
   :menu/sarjat [  { :item "ahmedahne" :text "Ahmed Ahne"}
                   { :item "alix" :text "Alix"}
                   { :item "asterix" :text "Asterix"}

@@ -1,0 +1,60 @@
+{
+	:lehdennimi "Baru (Barulea Herv�)"
+	:tarinalista [{
+		:tekija "Sekalaisia"
+		:tarinat [{
+			:alkupnimi "Quequette Blues 1,2,3 - 1986, 1987"
+      :nimike "Blues i Brallan"
+      :julk "(Medusa - 1989)"
+			} {
+    	:alkupnimi "Cours camarade - 1988"
+			} {
+    	:alkupnimi "Le chemin de l�Amerique - 1990"
+      :nimike "The Road to America"
+      :julk "(Drawn &amp; Quarterly vol.2/4-6)"
+			} {
+    	:alkupnimi "L'autoroute du soleil</a> - 1995"
+      :nimike "Auringon valtatie"
+      :julk "(Like - 1997)"
+		}]
+		} {
+		:tekija "Les annees Spoutnik"
+		:tarinat [{
+			:alkupnimi "Le penalty - 1999"
+			} {
+    	:alkupnimi "C�est moi le chef - 2000"
+			} {
+    	:alkupnimi "Bip bip - 2002"
+			}]
+		} {
+		:tekija "Lyhyitä tarinoita"
+		:tarinat [{
+			:nimike "Kanin-Janta"
+			:julk "(Epix 86/10)"
+			} {
+    	:nimike "Vill fröken dansa?"
+			:julk "(Epix 86/11)"
+		} {
+			:nimike "Partyt"
+			:julk "(Epix 86/12)"
+		} {
+    	:nimike "Sommarlov"
+			:julk "(Epix 87/06)"
+		} {
+    	:nimike "Nadette"
+			:julk "(Epix 87/07)"
+		} {
+    	:nimike "Benskydd"
+			:julk "(Epix 87/10)"
+		} {
+    	:nimike "Peugeoten"
+			:julk "(Epix 88/02)"
+		} {
+    	:nimike "Badinrättningen"
+			:julk "(Epix 88/08)"
+		} {
+    	:nimike "Diverni är en jävla typ"
+			:julk "(Epix 89/02)"
+			}]
+	}]
+}
