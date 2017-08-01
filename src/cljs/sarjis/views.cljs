@@ -18,14 +18,15 @@
 
 (defn list-items [menu-item path]
   (let [items (db/menu menu-item)]
-  [:div {:style {:padding-top "100px"}}
+  [:div {:style {:padding-top "80px"}}
     [ui/mui-theme-provider
-        {:mui-theme (get-mui-theme {:palette {:text-color (color :blue200)}})}
+        {:mui-theme (get-mui-theme {:palette {:text-color "#7A7478"}})}
         [:div
           (for [item items]
             [:div {:key (get-in item [:item])}
                 [ui/flat-button {:label (get-in item [:text])
                                   :href (str path (get-in item [:item]))
+                                  :style {:text-align "left"}
                                   ; :on-touch-tap
                                   ;   #(page/load-content (get-in item [:item]))
                                     }]])]]]))
@@ -34,18 +35,18 @@
   (let [name (page/page-item :lehdennimi)
         authors (page/page-item :tarinalista)]
     (fn []
-      [:div {:style {:padding-top "100px"}}
+      [:div {:style {:padding-top "60px"}}
         [:h1.title name]
-        (for [author authors]
-          [:div {:key (get author :tekija)}
+        (for [[author id] (map-indexed (fn [i a] [a (str "author-" i)]) authors)]
+          [:div {:key id}
             [:h2.author (get author :tekija)]
             (let [stories (get author :tarinat)]
-              (for [story stories]
-                [:div {:key (str (get story :nimike) (get story :julk))}
-                  [:p.story-title (get story :nimike)]
-                  [:p.story-original-title (get story :alkupnimi)]
-                  [:p.story-publisher (get story :julk)]]
-              ))])])))
+              (for [[story id] (map-indexed (fn [i a] [a (str "story-" i)]) stories)]
+                [:ul {:key id :style {:list-style-type "none"}}
+                  [:li.story-title (str (get story :numero) " " (get story :nimike))]
+                  [:li.story-original-title (get story :alkupnimi)]
+                  [:li.story-publisher (get story :julk)]]
+                  ))])])))
 
 (defn albumit-panel []
   [list-items :menu/albumit "#/albumit/"])
@@ -76,19 +77,19 @@
     (fn []
       [ui/mui-theme-provider
         {:mui-theme (get-mui-theme
-          {:palette {:text-color (color :green600)}})}
+          {:palette {:text-color "#7A7478"}})}
         [:div
           [ui/app-bar { :title "Sarjakuvia"
-                        :style {:position "fixed"}
+                        :style {:position "fixed" :text-transform "uppercase"}
                         :icon-element-right
                           (r/as-element [ui/icon-button
                             (ic/action-account-balance-wallet)])
                         :on-left-icon-button-touch-tap
                           #(re/dispatch [:open-drawer])}]
-          [ui/drawer
-            {:docked            false
-             :open              (if @drawer-open true false)
-             :on-request-change #(re/dispatch [:close-drawer])}
+          [ui/drawer {:docked false
+                      :style {:text-transform "uppercase"}
+                      :open (if @drawer-open true false)
+                      :on-request-change #(re/dispatch [:close-drawer])}
             [ui/app-bar { :title ""}]
             [ui/menu-item {:primary-text "Home"
                            :left-icon (ic/action-home {:color (color :grey600)})

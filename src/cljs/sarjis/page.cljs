@@ -6,12 +6,15 @@
 
 (defonce page-content (atom {}))
 
+(defn error-handler [{:keys [status status-text]}]
+  (.log js/console (str "Virhe sisällön latauksessa: " status " " status-text)))
+
 (defn load-content [filename]
   (let [directory (re/subscribe [:directory])]
-  (js/console.log "FILE: " filename)
+    (js/console.log "DIRECTORY:" @directory "FILE: " filename)
     (a/GET (str @directory filename ".edn")
             {:response-format (edn/edn-response-format)
-            :error-handler #(js/console.log "Virhe sisällön latauksessa")
+            :error-handler error-handler
             :handler    (fn [response]
                           (reset! page-content response)
                           (re/dispatch [:set-active-panel :panel-content]))})))

@@ -1,7 +1,7 @@
 {
     :lehdennimi "Jysäys"
     :tarinalista [{
-        :tekija "Abolin, Georges &amp; Pont, Olivier:"
+        :tekija "Abolin, Georges & Pont, Olivier:"
         :tarinat [{
             :nimike "Katseen kantamattomissa"
             :julk "Jysäys 1 / 2004"
@@ -9,29 +9,29 @@
     } {
         :tekija "Chaland, Yves:"
         :tarinat [{
-            :nimike "Piko &amp; Fantasio"
+            :nimike "Piko & Fantasio"
             :julk "Jysäys 1/2004"
         } ]
     } {
         :tekija "Cuadraro:"
         :tarinat [{
-            :nimike "Petteri &amp; Patteri"
+            :nimike "Petteri & Patteri"
             :julk "Jysäys 1/2004, 1/2005"
         } ]
     } {
-        :tekija "Dupuy &amp; Berberian:"
+        :tekija "Dupuy & Berberian:"
         :tarinat [{
             :nimike "Henriette"
             :julk "Jysäys 1/2004, 1/2005"
         } ]
     } {
-        :tekija "Frissen, Jerry &amp; Davis, Guy:"
+        :tekija "Frissen, Jerry & Davis, Guy:"
         :tarinat [{
-            :nimike "Zombiet jotka s&ouml;iv&auml;t maailman - Perhedraama l&auml;hi&ouml;helvetiss&auml;"
+            :nimike "Zombiet jotka söivät maailman - Perhedraama lähiöhelvetissä"
             :julk "Jysäys 1/2005"
         } ]
     } {
-        :tekija "Grojnowski, Olivier &amp; Corcal:"
+        :tekija "Grojnowski, Olivier & Corcal:"
         :tarinat [{
             :nimike "Roihuvuori"
             :julk "Jysäys 1/2004, 1/2005"
@@ -46,7 +46,7 @@
             :julk "Jysäys 1/2005"
         } ]
     } {
-        :tekija "Pierrelegall &amp; Franklegall:</strong>"
+        :tekija "Pierrelegall & Franklegall:"
         :tarinat [{
             :nimike "Pinimustatarina"
             :julk "Jysäys 1/2004"
@@ -63,17 +63,17 @@
     } {
         :tekija "Rauhala, Anssi:"
         :tarinat [{
-            :nimike "Kopterikyt&auml;t"
+            :nimike "Kopterikytät"
             :julk "Jysäys 1/2004"
         } ]
     } {
-        :tekija "Zidrou &amp; de Pins, Arthur:"
+        :tekija "Zidrou & de Pins, Arthur:"
         :tarinat [{
             :nimike "Bioutifoulland"
             :julk "Jysäys 1/2005"
         } ]
     } {
-        :tekija "Zidrou, Constant &amp; B�a:"
+        :tekija "Zidrou, Constant & B�a:"
         :tarinat [{
             :nimike "Minun pihani"
             :julk "Jysäys 1/2005"

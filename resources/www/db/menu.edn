@@ -19,7 +19,7 @@
                   { :item "ruutunonstop" :text "Ruutu & Non Stop"}
                   { :item "tapiiri" :text "Tapiiri"}
                   { :item "tungmetal" :text "Tung Metal"}
-                  { :item "zoom" :text "Zoom"}]
+                  { :item "zoom-lehti" :text "Zoom"}]
   :menu/sarjat [  { :item "ahmedahne" :text "Ahmed Ahne"}
                   { :item "alix" :text "Alix"}
                   { :item "asterix" :text "Asterix"}
@@ -38,7 +38,7 @@
                   { :item "jeffhawke" :text "Jeff Hawke"}
                   { :item "jeremiah" :text "Jeremiah"}
                   { :item "johannes" :text "Johannes ja Pirkale"}
-                  { :item "joonatan" :text "Joonatan"}
+                  { :item "joonatan" :text "Joonatan Pistooli"}
                   { :item "kaspar" :text "Kaspar Keskiyö"}
                   { :item "kenparker" :text "Ken Parker"}
                   { :item "largowinch" :text "Largo Winch"}
@@ -59,7 +59,7 @@
                   { :item "titeuf" :text "Titeuf"}
                   { :item "umpahpah" :text "Umpah-pah"}
                   { :item "valerian" :text "Valerian"}
-                  { :item "vargas" :text "Vargas"}
-                  { :item "xii" :text "XII"}]
+                  { :item "vargas" :text "Roco Vargas"}
+                  { :item "xiii" :text "XIII"}]
     :menu/tekijat [ { :item "altuna" :text "Horacio Altuna"}
                     { :item "auclair" :text "Claude Auclair"}]}
