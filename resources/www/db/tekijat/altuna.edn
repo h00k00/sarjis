@@ -1,0 +1,27 @@
+{
+  :lehdennimi "Horacio Altuna"
+  :tarinalista [{
+    :tekija "Altuna, Horacio & Trillo, Carlos"
+    :tarinat [{
+      :alkupnimi "El Ultima Recreo"
+      :nimike "Den Sidste Chance"
+      :julk "(Bogfabrikken - 1986)"
+      }]} {
+    :tekija "Altuna, Horacio"
+    :tarinat [{
+      :julk "Heavy Metal 1985/October"
+    }{
+      :julk "Heavy Metal 1985/November"
+    }{
+      :julk "Heavy Metal 1989/November"
+    }{
+      :julk "Heavy Metal 2000/Spring Special"
+    }{
+      :nimike "Rytmer"
+      :julk "(Epix 1988/7)"
+    }{
+      :nimike "Föreställning"
+      :julk "(Epix 1989/4, 5, 6, 7)"
+    }]
+  }]
+}
