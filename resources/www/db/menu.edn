@@ -62,4 +62,40 @@
                   { :item "vargas" :text "Roco Vargas"}
                   { :item "xiii" :text "XIII"}]
     :menu/tekijat [ { :item "altuna" :text "Horacio Altuna"}
-                    { :item "auclair" :text "Claude Auclair"}]}
+                    { :item "auclair" :text "Claude Auclair"}
+                    { :item "bagge" :text "Peter Bagge"}
+                    { :item "baru" :text "Baru"}
+                    { :item "berck" :text "Berck"}
+                    { :item "bilal" :text "Enki Bilal"}
+                    { :item "bourgeon" :text "Bourgeon"}
+                    { :item "cauvin" :text "Cauvin"}
+                    { :item "chaland" :text "Chaland"}
+                    { :item "charlier" :text "Cahrlier"}
+                    { :item "christin" :text "Pierre Christin"}
+                    { :item "clowes" :text "Daniel Clowes"}
+                    { :item "dupuyberberian" :text "Dupuy & Berberian"}
+                    { :item "eisner" :text "Will Eisner"}
+                    { :item "franquin" :text "Franquin"}
+                    { :item "fred" :text "Fred"}
+                    { :item "goscinny" :text "Goscinny"}
+                    { :item "gottfredson" :text "Gottfredson"}
+                    { :item "hermann" :text "Hermann"}
+                    { :item "hernandez" :text "Hernandez bros"}
+                    { :item "lauzier" :text "Lauzier"}
+                    { :item "trondheim" :text "Lewis Trondheim"}
+                    { :item "mezieres" :text "Mezieres"}
+                    { :item "moebius" :text "Moebius"}
+                    { :item "morris" :text "Morris"}
+                    { :item "pratt" :text "Hugo Pratt"}
+                    { :item "sampayo" :text "Sampayo"}
+                    { :item "schuiten" :text "Schuiten"}
+                    { :item "sokal" :text "Sokal"}
+                    { :item "stanislas" :text "Stanislas"}
+                    { :item "tabary" :text "Tabary"}
+                    { :item "tardi" :text "Tardi"}
+                    { :item "torres" :text "Torres"}
+                    { :item "uderzo" :text "Uderzo"}
+                    { :item "vance" :text "Vance"}
+                    { :item "vanhamme" :text "Van Hamme"}
+                    { :item "voss" :text "Voss"}
+                    ]}
