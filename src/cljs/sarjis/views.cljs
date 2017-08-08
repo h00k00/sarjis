@@ -35,7 +35,9 @@
   (let [name (page/page-item :lehdennimi)
         authors (page/page-item :tarinalista)]
     (fn []
-      [:div {:style {:padding-top "60px"}}
+      [:div {:style {:padding-top "60px"
+                     :margin "0 auto"
+                     :max-width "800px"}}
         [:h1.title name]
         (for [[author id] (map-indexed (fn [i a] [a (str "author-" i)]) authors)]
           [:div {:key id}

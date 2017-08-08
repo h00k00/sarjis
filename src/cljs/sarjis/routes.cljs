@@ -36,7 +36,6 @@
 
     (defroute albumi "/albumit/:id" [id]
       (page/load-content id)
-      (js/console.log "ID: " id)
       (re/dispatch [:set-sub-panel id]))
 
     (defroute lehdet "/lehdet" []

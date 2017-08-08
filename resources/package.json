@@ -1,8 +1,8 @@
 {
-    "name": "com.example.template",
-    "displayName": "Template application",
+    "name": "com.example.sarjis",
+    "displayName": "Sarjis",
     "version": "1.0.0",
-    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "description": "Comics listings.",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
