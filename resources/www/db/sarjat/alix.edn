@@ -4,7 +4,7 @@
                 :tekija "Martin, Jacques"
                 :tarinat [{
                     :numero "1. "
-                    :alkupnimi "Alix l'intr�pide"
+                    :alkupnimi "Alix l'intrépide"
                 } {
                     :numero "2. "
                     :alkupnimi "Le Sphinx d'or"
@@ -12,7 +12,7 @@
                     :julk "WSOY"
                 } {
                     :numero "3. "
-                    :alkupnimi "L'�le maudite"
+                    :alkupnimi "L'île maudite"
                 } {
                     :numero "4. "
                     :alkupnimi "La Tiare d'Oribal"
@@ -23,7 +23,7 @@
                     :alkupnimi "La Griffe noire"
                 } {
                     :numero "6. "
-                    :alkupnimi "Les L�gions perdues"
+                    :alkupnimi "Les Légions perdues"
                     :nimike "Alix seikkailee 7: Gallian sankarit"
                     :julk "WSOY - 1975"
                 } {
@@ -31,7 +31,7 @@
                     :alkupnimi "Le Dernier Spartiate"
                 } {
                     :numero "8. "
-                    :alkupnimi "Le Tombeau �trusque"
+                    :alkupnimi "Le Tombeau Étrusque"
                 } {
                     :numero "9. "
                     :alkupnimi "Le Dieu sauvage"
@@ -79,7 +79,7 @@
                     :julk "Apollo - 2014"
                 } {
                     :numero "18. "
-                    :alkupnimi "Vercing�torix"
+                    :alkupnimi "Vercingétorix"
                 } {
                     :numero "19. "
                     :alkupnimi "Le Cheval de Troie"

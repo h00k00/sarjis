@@ -14,22 +14,22 @@
       :julk "(Carlsen - 1980)"
   }{
       :numero "1. "
-      :alkupnimi "Le clan des centaures- 1977"
+      :alkupnimi "Le clan des centaures - 1977"
       :nimike "Simon 1: Slavarna"
       :julk "Carlsen - 1979"
   } {
       :numero "2. "
-      :alkupnimi "Les esclaves- 1978"
+      :alkupnimi "Les esclaves - 1978"
       :nimike "Simon 1: Slavarna"
       :julk "Carlsen - 1979"
   } {
       :numero "3. "
-      :alkupnimi "Ma�lis- 1978"
+      :alkupnimi "Maïlis - 1978"
       :nimike "Simon 2: Majlis"
       :julk "Carlsen - 1980"
   } {
       :numero "4. "
-      :alkupnimi "Les p�lerins- 1978"
+      :alkupnimi "Les pèlerins - 1978"
       :nimike "Simon 3: Stad N.V. Nr 3"
       :julk "Carlsen - 1980"
   } {
@@ -41,7 +41,7 @@
   :tekija "Riondet & Auclair"
   :tarinat [{
       :numero "6. "
-      :alkupnimi "L'�veilleur"
+      :alkupnimi "L'Éveilleur"
       :nimike "Simon - Zeuge der Zukunft 6: Der Steinerne Kreis"
       :julk "Carlsen verlag - 1989"
   } {
