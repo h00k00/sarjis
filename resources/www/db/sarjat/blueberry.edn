@@ -38,26 +38,51 @@
             :nimike "Blueberrys äventyr 1: Järnhästen"
             :julk "Carlsen - 1979"
         } {
+          :numero "7. "
+          :alkupnimi "Le Cheval de Fer - 1970"
+          :nimike "Blueberry kootut 1: Rautahepo"
+          :julk "Like - 2016"
+      } {
             :numero "8. "
             :alkupnimi "L'Homme au Poing d'Acier - 1970"
             :nimike "Blueberrys äventyr 2: Mannen med stålhanden"
             :julk "Carlsen - 1979"
         } {
+          :numero "8. "
+          :alkupnimi "L'Homme au Poing d'Acier - 1970"
+          :nimike "Blueberry kootut 1: Teräskäsi"
+          :julk "Like - 2016"
+      } {
             :numero "9. "
             :alkupnimi "La piste des sioux� - 1971"
             :nimike "Blueberrys äventyr 3: Siouxernas spår"
             :julk "Carlsen - 1980"
         } {
+          :numero "9. "
+          :alkupnimi "La piste des sioux� - 1971"
+          :nimike "Blueberry kootut 1: Siouxien jäljillä"
+          :julk "Like - 2016"
+      } {
             :numero "10. "
             :alkupnimi "G�n�ral T�te Jaune - 1971"
             :nimike "Blueberrys äventyr 4: General \"Gula Håret\""
             :julk "Carlsen - 1980"
         } {
+          :numero "10. "
+          :alkupnimi "G�n�ral T�te Jaune - 1971"
+          :nimike "Blueberry kootut 2: Kenraali Kultatukka"
+          :julk "Like - 2017"
+      } {
             :numero "11. "
             :alkupnimi "La mine de l'Allemand Perdu- 1972"
             :nimike "Lännen sarjat n:o 5: Kadonnut kaivos"
             :julk "Kustannus Oy Jalava - 1988"
         } {
+          :numero "11. "
+          :alkupnimi "La mine de l'Allemand Perdu- 1972"
+          :nimike "Blueberry kootut 2: Kadonnut kaivos"
+          :julk "Like - 2017"
+      } {
             :numero "11. "
             :alkupnimi "La mine de l'Allemand Perdu- 1972"
             :nimike "Unohdettu kultakaivos"
@@ -68,6 +93,11 @@
             :nimike "Lännen sarjat n:o 6: Kultainen luoti"
             :julk "Kustannus Oy Jalava - 1989"
         } {
+          :numero "12. "
+          :alkupnimi "Le spectre au Balles d'Or- 1972"
+          :nimike "Blueberry kootut 2: Kultaluoteja ampuva aave"
+          :julk "Like - 2017"
+      } {
             :numero "12. "
             :alkupnimi "Le spectre au Balles d'Or- 1972"
             :nimike "Kultaluoteja ampuva aave"

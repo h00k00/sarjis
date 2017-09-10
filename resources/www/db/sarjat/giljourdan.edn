@@ -1,0 +1,82 @@
+{
+    :lehdennimi "Gil Jourdan"
+    :tarinalista [{
+        :tekija "Tillieux, M"
+        :tarinat [{
+            :numero "1. "
+            :alkupnimi "Libellule s'évade"
+            :nimike "Ett fall för Max Jordan 1: Skatan på rymmen"
+            :julk "Bonniers - 1979"
+          } {
+            :numero "2. "
+            :alkupnimi "Popaïne et vieux tableaux"
+            :nimike "Ett fall för Max Jordan 2: Kungen gör en tavla"
+            :julk "Bonniers - 1979"
+          } {
+            :numero "3. "
+            :alkupnimi "La voiture immergée"
+            :nimike "Ett fall för Max Jordan 3: Bilen som kört fast"
+            :julk "Bonniers - 1980"
+          } {
+            :numero "3. "
+            :alkupnimi "La voiture immergée"
+            :nimike "Gil Jourdan 1: Murder By Hight Tide"
+            :julk "Fantagrphics - 2011"
+          } {
+            :numero "4. "
+            :alkupnimi " Les cargos du crépuscule"
+            :nimike "Gil Jourdan 1: Catch As Catch Can"
+            :julk "Fantagraphics - 2011"
+          } {
+            :numero "5. "
+            :alkupnimi "L'enfer de Xique-Xique"
+            :nimike "Gil Jourdan 2: Ten Thousand Years In Hell"
+            :julk "Fantagraphics - 2017"
+          } {
+            :numero "6. "
+            :alkupnimi "Surboum pour 4 roues"
+            :nimike "Gil Jourdan 2: Boom And Dust"
+            :julk "Fantagraphics - 2017"
+          } {
+            :numero "7. "
+            :alkupnimi " Les moines rouges"
+            :nimike ""
+            :julk ""
+          } {
+            :numero "8. "
+            :alkupnimi "Les 3 taches"
+            :nimike ""
+            :julk ""
+          } {
+            :numero "9. "
+            :alkupnimi "Le gant à trois doigts"
+            :nimike "Kolmisorminen hansikas"
+            :julk "Ruutu 74/47 - 75/02"
+          } {
+            :numero "10. "
+            :alkupnimi "Le Chinois à 2 roues"
+            :nimike ""
+            :julk ""
+          } {
+            :numero "11. "
+            :alkupnimi "Chaud et froid"
+            :nimike "Kuumaa ja kylmää"
+            :julk "Ruutu 75/19-20"
+          } {
+            :numero "11. "
+            :alkupnimi "Le Grand Souffle"
+            :nimike "Suuri tuuli"
+            :julk "Ruutu 75/24-26"
+          } {
+            :numero "11. "
+            :alkupnimi "La Maison du mystère"
+            :nimike "Salaperäinen talo"
+            :julk "Ruutu 75/31"
+          } {
+            :numero "12. "
+            :alkupnimi "Pâtée explosive"
+            :nimike "Gil Jourdan: Räjähtävät leivät"
+            :julk "Carlsen - 1989"
+        }]
+    }]
+}
