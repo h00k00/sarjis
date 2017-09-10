@@ -18,7 +18,7 @@
 
 (defn list-items [menu-item path]
   (let [items (db/menu menu-item)]
-  [:div {:style {:padding-top "80px"}}
+  [:div {:style {:padding-top "80px" :top "0px"}}
     [ui/mui-theme-provider
         {:mui-theme (get-mui-theme {:palette {:text-color "#7A7478"}})}
         [:div
@@ -37,7 +37,8 @@
     (fn []
       [:div {:style {:padding-top "60px"
                      :margin "0 auto"
-                     :max-width "800px"}}
+                     :max-width "800px"
+                     :top "0px"}}
         [:h1.title name]
         (for [[author id] (map-indexed (fn [i a] [a (str "author-" i)]) authors)]
           [:div {:key id}
@@ -83,9 +84,6 @@
         [:div
           [ui/app-bar { :title "Sarjakuvia"
                         :style {:position "fixed" :text-transform "uppercase"}
-                        :icon-element-right
-                          (r/as-element [ui/icon-button
-                            (ic/action-account-balance-wallet)])
                         :on-left-icon-button-touch-tap
                           #(re/dispatch [:open-drawer])}]
           [ui/drawer {:docked false
@@ -101,24 +99,12 @@
                               (println "Menu Item 1 Clicked"))}]
             [ui/divider]
             [ui/menu-item {:primary-text "Albumit"
-                           :href "#/albumit"
-                           :on-touch-tap
-                            (fn []
-                              (println "Menu Item 2 Clicked"))}]
+                           :href "#/albumit"}]
             [ui/menu-item {:primary-text "Lehdet"
-                           :href "#/lehdet"
-                           :on-touch-tap
-                            (fn []
-                              (println "Menu Item 3 Clicked"))}]
+                           :href "#/lehdet"}]
             [ui/menu-item {:primary-text "Sarjat"
-                           :href "#/sarjat"
-                           :on-touch-tap
-                            (fn []
-                              (println "Menu Item 4 Clicked"))}]
+                           :href "#/sarjat"}]
             [ui/menu-item {:primary-text "Tekijät"
-                           :href "#/tekijat"
-                           :on-touch-tap
-                            (fn []
-                              (println "Menu Item 5 Clicked"))}]]
+                           :href "#/tekijat"}]]
           [ui/paper
             (panels @active-panel)]]])))

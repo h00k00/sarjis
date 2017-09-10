@@ -28,6 +28,11 @@
                 :nimike "Musta nuoli"
                 :julk "Non Stop 77/03-06"
             } {
+                :numero "7. "
+                :alkupnimi "La fleche noire- 1959"
+                :nimike "Musta nuoli"
+                :julk "Otava - 1979"
+            } {
                 :numero "8. "
                 :alkupnimi "Le sire de Montr�sor- 1960"
                 :nimike "Aarnihovin valtias "
@@ -38,6 +43,11 @@
                 :nimike "Kuusistrumffinen huilu"
                 :julk "Ruutu 75/23-29"
             } {
+              :numero "9. "
+              :alkupnimi "La flute a six schtroumphfs- 1960"
+              :nimike "Kuusismurffinen huilu"
+              :julk "Egmont"
+          } {
                 :numero "10. "
                 :alkupnimi "La guerre des sept fontaines- 1961"
                 :nimike "Seitsemän Lähteen sota"
@@ -57,6 +67,11 @@
                 :alkupnimi "Le sortil�ge de Maltrochu- 1970"
                 :nimike "Sysivuoren kirot "
                 :julk "Ruutu 74/05-16"
+            } {
+                :numero "13. "
+                :alkupnimi "Le sortil�ge de Maltrochu- 1970"
+                :nimike "Sysivuoren kirot "
+                :julk "Otava - 1977"
             }]
         } {
             :tekija "Culliford, Thierry & Maury, Alain"
