@@ -1,4 +1,4 @@
-(defproject sarjis "0.1.0-SNAPSHOT"
+(defproject sarjis "0.1.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "1.9.229"]
                  [cljs-react-material-ui "0.2.46"]
