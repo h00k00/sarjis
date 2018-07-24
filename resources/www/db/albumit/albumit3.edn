@@ -760,10 +760,25 @@
             :julk "WSOY - 1993"
         }]
     } {
+        :tekija "Will & Dineur"
+        :tarinat [{
+          :nimike "Tim ja Tom (NonStop): Villa Virkistyksen arvoitus"
+          :alkupnimi "La vill Sans-souci"
+          :julk "Otava - 2018"
+        }]
+    } {
         :tekija "Will & Rosy"
         :tarinat [{
+            :nimike "Tim ja Tom (NonStop): Vihreä ihmeaine"
+            :alkupnimi "La matière verte"
+            :julk "Otava - 2018"
+        } {
+            :nimike "Tim ja Tom (NonStop): Kumia kantapäissä"
+            :alkupnimi "Tif rebondit"
+            :julk "Otava - 2018"
+        } {
             :nimike "Trumf 8: Tim ja Tom - Kumia kantapäissä"
-            :alkupnimi ""
+            :alkupnimi "Tif rebondit"
             :julk "Semic - 1973"
         } {
             :nimike "Tim ja Tom 1: Painajainen Louvressa"
