@@ -294,6 +294,17 @@
                     :julk "Jonathan Cape - 2005"
                 }]
             } {
+                :tekija "Cabanes, Max & Headline, Doug"
+                :tarinat [{
+                    :nimike "Fatale"
+                    :alkupnimi "Fatale"
+                    :julk "Titan Comics - 2015"
+                } {
+                    :nimike "Li'l Abner - Arkipäiväsarjat Osa 12: 1946"
+                    :alkupnimi ""
+                    :julk "Like - 1993"
+                }]
+            } {
                 :tekija "Capp, Al"
                 :tarinat [{
                     :nimike "Best of Li'l Abner "

@@ -84,5 +84,15 @@
                     :numero "19. "
                     :alkupnimi "Le Cheval de Troie"
         }]
-    }]
+    }{
+                :tekija "Martin, Jacques, Mangin, V & Démarez, Th."
+                :tarinat [{
+                    :numero "Alix senator 1. Verikotkat"
+                    :alkupnimi "Les Aigles de sang"
+                }{
+                    :numero "Alix senator 2. Viimeinen faarao"
+                    :alkupnimi "Le Dernier Pharaon"
+                }]
+              }
+    ]
 }

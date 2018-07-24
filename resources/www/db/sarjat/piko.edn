@@ -141,7 +141,7 @@
                 :julk "Ruutu 74/15-27"
             } {
                 :nimike "Piko ja Fantasio Zorbul-tarinat"
-                :julk "Egmont -2014"
+                :julk "Egmont - 2014"
             } {
                 :numero "16. "
                 :alkupnimi "L'ombre du Z"
@@ -155,7 +155,7 @@
                 :julk "Ruutu 74/28-39"
             } {
                 :nimike "Piko ja Fantasio Zorbul-tarinat"
-                :julk "Egmont -2014"
+                :julk "Egmont - 2014"
             }]
         } {
             :tekija "Roba & Franquin, Andre"
@@ -373,6 +373,11 @@
                 :alkupnimi "Les Gï¿œants Pï¿œtrifiï¿œs"
                 :nimike "Piko ja Fantasio - Kivijättiläiset"
                 :julk "Tempo 2 Egmont - 2009"
+            }{
+                :numero " "
+                :alkupnimi "La colère du Marsupilami"
+                :nimike "Pikon ja Fantasion uudet seikkailut 12: Marsupilamin raivo"
+                :julk "Egmont - 2016"
             }]
         } {
             :tekija "Le Gall, Frank"
@@ -399,12 +404,22 @@
                 :julk "Egmont - 2010"
             }]
         } {
-            :tekija "Schwartz & amp;Yann"
+            :tekija "Schwartz & Yann"
             :tarinat [{
                 :numero "5. "
                 :alkupnimi "Le Groom vert-de-gris"
                 :nimike "Pikon ja Fantasion uudet seikkailut 2: Tummanvihreä pikkolopoika"
                 :julk "Egmont - 2010"
+            }{
+                :numero "7. "
+                :alkupnimi "La Femme Leopard"
+                :nimike "Pikon ja Fantasion uudet seikkailut 8: Leopardinainen"
+                :julk "Egmont - 2014"
+            }{
+                :numero " "
+                :alkupnimi "Le maïtre des hostiens noires"
+                :nimike "Pikon ja Fantasion uudet seikkailut 13: Mustien uhrien herra"
+                :julk "Egmont - 2017"
             }]
         } {
             :tekija "Trondheim, Lewis & Parme, Fabrice"
@@ -413,14 +428,6 @@
                 :alkupnimi "Panique en Atlantique"
                 :nimike "Pikon ja Fantasion uudet seikkailut 4: Paniikki Atlantilla"
                 :julk "Egmont - 2011"
-            }]
-        } {
-            :tekija "Schwartz & Yann"
-            :tarinat [{
-                :numero "7. "
-                :alkupnimi "La Femme Leopard"
-                :nimike "Pikon ja Fantasion uudet seikkailut 8: Leopardinainen"
-                :julk "Egmont - 2014"
             }]
         } {
             :tekija "Chaland"

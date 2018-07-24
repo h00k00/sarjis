@@ -98,6 +98,11 @@
             :nimike "Asterix 14: Jumaltenrannan nousu ja tuho"
             :julk "Sanoma Oy - 1972"
         } {
+            :numero "17. "
+            :alkupnimi "Le domaine des Dieux - 1971"
+            :nimike "Asterix 17: Jumaltenrannan nousu ja tuho"
+            :julk "Egmont - 2015"
+        } {
             :numero "18. "
             :alkupnimi "Les lauriers de César - 1972"
             :nimike "Asterix 17: Asterix ja Caesarin laakeriseppele"
@@ -137,6 +142,11 @@
             :alkupnimi "Astérix chez les Belges - 1979"
             :nimike "Asterix 24: Asterix Belgiassa"
             :julk "Sanoma Oy - 1979"
+        } {
+            :numero "34. "
+            :alkupnimi "L'anniversaire d'Astérix et Obélix"
+            :nimike "Asterix 34: Asterixin ja Obelixin syntymäpäivä"
+            :julk "Egmont - 2009"
         }]
     } {
         :tekija "Uderzo, Albert"
@@ -183,6 +193,16 @@
             :alkupnimi "Astérix chez les Pictes - 2013"
             :nimike "Asterix seikkailee 35: Asterix ja piktit"
             :julk "Egmont - 2013"
+        }{
+            :numero "36. "
+            :alkupnimi "Le papyrus de César - 2015"
+            :nimike "Asterix seikkailee 36: Asterix ja Caesarin papyrus"
+            :julk "Egmont - 2015"
+        }{
+            :numero "37. "
+            :alkupnimi "Astérix et la Transitalique - 2017"
+            :nimike "Asterix seikkailee 37: Kilpa-ajo halki Italian"
+            :julk "Egmont - 2017"
         }]
     }]
 }
