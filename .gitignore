@@ -7,3 +7,4 @@
 /resources/plugins
 /dev-resources
 out
+.DS_Store
