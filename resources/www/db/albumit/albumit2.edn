@@ -538,6 +538,10 @@
                     :nimike "Peter Pan 3: Myrsky"
                     :alkupnimi "Tempéte"
                     :julk "Semic - 1995"
+                } {
+                    :nimike "Roxanna: Rigan"
+                    :alkupnimi "Tempéte"
+                    :julk "Tung metall - 1992"
                 }]
             } {
                 :tekija "Loro"
@@ -649,6 +653,13 @@
                     :nimike "Verdens ende 4: Dårskabens Sten"
                     :alkupnimi "La Pierre de la Folie"
                     :julk "Carlsen - 1989"
+                }]
+            } {
+                :tekija "Males, Marc"
+                :tarinat [{
+                    :nimike "Rumuus ja hulluus"
+                    :alkupnimi "L'autre laideur, l'autre folie"
+                    :julk "Like - 2006"
                 }]
             } {
                 :tekija "Manara, Milo"
@@ -1033,6 +1044,13 @@
                     :nimike "Strangers in Paradise - Pocket Book 2"
                     :alkupnimi ""
                     :julk "Abstract Studio - 2004"
+                }]
+            } {
+                :tekija "Moynot, Emmanuel"
+                :tarinat [{
+                    :nimike "Ranskalainen sarja - Myrsky kesäkuussa"
+                    :alkupnimi "Suite francaise: Tempête en juin"
+                    :julk "Jalava - 2016"
                 }]
             } {
                 :tekija "Muñoz, Jose & Sampayo, Carlos"

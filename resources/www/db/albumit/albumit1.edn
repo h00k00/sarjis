@@ -1055,6 +1055,14 @@
                     :nimike "Väinämöinen 2: Tervetuloa muukalainen"
                     :alkupnimi ""
                     :julk "Jalava - 2001"
+                } {
+                    :nimike "Anabasis 2. - Tuhanten miesten marssi"
+                    :alkupnimi ""
+                    :julk "Arktinen banaani - 2013"
+                } {
+                    :nimike "Kapteeni Kuolio ja Juhannuskylän noita"
+                    :alkupnimi ""
+                    :julk "Lempo - 2015"
                 }]
             } {
                 :tekija "Hiltunen, Petri & Howard, Robert E."
@@ -1080,6 +1088,22 @@
                             :nimike "Punaparta kokoelma 1: Seitsemän meren kuningas"
                             :alkupnimi "Le roi des sept mers/Le jeune capitaine"
                             :julk "Egmont - 2013"
+                        } {
+                            :nimike "Punaparta kokoelma 2: "
+                            :alkupnimi ""
+                            :julk "Egmont - "
+                        } {
+                            :nimike "Punaparta kokoelma 3: Aavelaiva"
+                            :alkupnimi "Le Vaisseau Fantôme"
+                            :julk "Egmont - 2020"
+                        } {
+                            :nimike "Punaparta kokoelma 3: Kuolleen miehen saari"
+                            :alkupnimi "L'ile De L'homme Mort"
+                            :julk "Egmont - 2020"
+                        } {
+                            :nimike "Punaparta kokoelma 3: Espanjalainen ansa"
+                            :alkupnimi "Le Piège Espagnol"
+                            :julk "Egmont - 2020"
                         } {
                             :nimike "Zoom kuukauden seikkailu 11: Punaparta - Varpushaukan salainen matka"
                             :alkupnimi "La mission secréte de l'épervier"
