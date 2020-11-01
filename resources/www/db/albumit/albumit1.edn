@@ -355,6 +355,14 @@
                     :nimike "Arne Anka, Återuppståndelsen "
                     :alkupnimi ""
                     :julk "Kartago - 2006"
+                } {
+                    :nimike "Aarne Anka, Kansankodin pesänjakajat "
+                    :alkupnimi ""
+                    :julk "Zum Teufel - 2015"
+                } {
+                    :nimike "Aarne Anka, Mielipuolen kuvakirja "
+                    :alkupnimi ""
+                    :julk "Zum Teufel - 2017"
                 }]
             } {
                 :tekija "Christensen, Charlie & Bengtssons, Frans G."
@@ -562,6 +570,13 @@
                     :julk "Dark Horse - Mar/1992"
                 }]
             } {
+                :tekija "Degroot & Turk"
+                :tarinat [{
+                    :nimike "Clifton 2: En panter åt översten"
+                    :alkupnimi "Une panthêre pour le colonel"
+                    :julk "Semic - 1982"
+                }]
+            } {
                 :tekija "Deitch, Kim"
                 :tarinat [{
                     :nimike "Kurpitsa-albumi 3: Al Ledicker nuorempi ja Craftonin kirous"
@@ -615,6 +630,10 @@
                 :tekija "Doucet, Julie"
                 :tarinat [{
                     :nimike "Kurpitsa-albumi 7: Jos olisin mies ja muita kertomuksia"
+                    :alkupnimi ""
+                    :julk "Suuri Kurpitsa"
+                } {
+                    :nimike "Madame Paul"
                     :alkupnimi ""
                     :julk "Suuri Kurpitsa"
                 }]
@@ -867,6 +886,10 @@
                     :nimike "Blacksad 3: Punainen sielu"
                     :alkupnimi "Ame Rouge"
                     :julk "Arktinen Banaani - 2009"
+                } {
+                    :nimike "Blacksad 4: Hiljainen helvetti"
+                    :alkupnimi "L'Enfer, le silence"
+                    :julk "Arktinen Banaani - 2010"
                 }]
             } {
                 :tekija "Hé, Dominique"
@@ -1066,6 +1089,10 @@
                     :nimike "Väinämöinen 2: Tervetuloa muukalainen"
                     :alkupnimi ""
                     :julk "Jalava - 2001"
+                } {
+                    :nimike "Väinämöinen 7: Se kora älähtää..."
+                    :alkupnimi ""
+                    :julk "Jalava - 2006"
                 } {
                     :nimike "Anabasis 2. - Tuhanten miesten marssi"
                     :alkupnimi ""

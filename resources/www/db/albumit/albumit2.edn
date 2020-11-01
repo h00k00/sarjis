@@ -349,6 +349,13 @@
                     :julk "Crown - 2007"
                 }]
             } {
+                :tekija "Kurtzman, Harvey"
+                :tarinat [{
+                    :nimike "Hei kato"
+                    :alkupnimi "Hey Look"
+                    :julk "Jalava - 2000"
+                }]
+            } {
                 :tekija "König, Ralf"
                 :tarinat [{
                     :nimike "Kuin kanit konsanaan"
