@@ -6,7 +6,7 @@
             :tekija "Daniel Torres"
             :tarinat [{
                 :numero "1. "
-                :alkupnimi "Triton- 1984"
+                :alkupnimi "Triton - 1984"
                 :nimike "Triton"
                 :julk "Epix 84/06-85/01"
             } {
@@ -14,7 +14,7 @@
                 :julk "Heavy Metal 1984/November-1985/February"
             } {
                 :numero "2. "
-                :alkupnimi "El misterio de susurro- 1985"
+                :alkupnimi "El misterio de susurro - 1985"
                 :nimike "Rösten som väste"
                 :julk "Epix 85/10-86/01"
             } {
@@ -22,7 +22,7 @@
                 :julk "Heavy Metal 1985/May-September"
             } {
                 :numero "3. "
-                :alkupnimi "Saxxon- 1986 "
+                :alkupnimi "Saxxon - 1986 "
                 :nimike "Saxxon"
                 :julk "Epix 86/10-87/01"
             } {
@@ -30,7 +30,7 @@
                 :julk "Heavy Metal 1987/Winter"
             } {
                 :numero "4. "
-                :alkupnimi "La estrella lejana- 1987"
+                :alkupnimi "La estrella lejana - 1987"
                 :nimike "Fjärran stjärna"
                 :julk "Epix 88/01-04"
             } {
@@ -41,6 +41,11 @@
                 :alkupnimi "El Bosque Oscuro"
                 :nimike "Rocco Vargas - The Dark Forest"
                 :julk "Dark Horse - 2001"
+            } {
+                :numero "6. "
+                :alkupnimi "El Bosque Oscuro"
+                :nimike "Rocco Vargas - A Game of Gods"
+                :julk "Dark Horse - 2004"
             }]
         }
     ]

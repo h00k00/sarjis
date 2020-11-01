@@ -261,6 +261,17 @@
                     :julk "Hammarström & Åberg - 1988"
                 }]
             } {
+                :tekija "Briggs, Raymond"
+                :tarinat [{
+                    :nimike "Herrasmies Jim "
+                    :alkupnimi ""
+                    :julk "Gummerus - 1987"
+                } {
+                    :nimike "Minne tuuli kuljettaa "
+                    :alkupnimi "When the Wind Blows"
+                    :julk "Otava"
+                }]
+            } {
                 :tekija "Brown, Chester"
                 :tarinat [{
                     :nimike "Playboy, The "

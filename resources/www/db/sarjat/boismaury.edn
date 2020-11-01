@@ -18,15 +18,30 @@
             :nimike "Eloise"
             :julk "Casablanca 1988/5"
         } {
+            :numero "2. "
+            :alkupnimi "Eloïse de Montgri"
+            :nimike "Eloise"
+            :julk "Sininen jänis - 2018"
+        } {
             :numero "3. "
             :alkupnimi "Germain"
             :nimike "Germain"
             :julk "Epix 1989/7-10"
         } {
+            :numero "3. "
+            :alkupnimi "Germain"
+            :nimike "Germain"
+            :julk "Sininen jänis - 2019"
+        } {
             :numero "4. "
             :alkupnimi "Reinhardt"
             :nimike "Reinhardt"
             :julk "Epix 1990/7-10"
+        } {
+            :numero "4. "
+            :alkupnimi "Reinhardt"
+            :nimike "Reinhardt"
+            :julk "Sininen jänis - 2020"
         } {
             :numero "5. "
             :alkupnimi "Alda"
@@ -57,11 +72,11 @@
             :julk "Carlsen comics - 1994"
         } {
             :numero "11. "
-            :alkupnimi "Assunta- 1998"
+            :alkupnimi "Assunta - 1998"
 
         } {
             :numero "12. "
-            :alkupnimi "Rodrigo- 2001"
+            :alkupnimi "Rodrigo - 2001"
             :nimike "Rodrigo"
             :julk "Dark Horse Comics - 2001"
         }]

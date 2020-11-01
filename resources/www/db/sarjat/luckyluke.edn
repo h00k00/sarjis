@@ -390,6 +390,14 @@
                 :numero "71."
                 :alkupnimi "La l�gende de l'Ouest"
             }]
+        } {
+            :tekija "Bonhomme, Matthieu"
+            :tarinat [{
+                :numero "Lucky Luken uudet seikkailut 10."
+                :alkupnimi "L'homme qui tua Lucky Luke - 2016"
+                :nimike "Mies, joka ampui Lucky Luken"
+                :julk "Egmont - 2016"
+            }]
         }
     ]
 }

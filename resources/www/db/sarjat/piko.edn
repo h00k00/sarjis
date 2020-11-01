@@ -373,11 +373,16 @@
                 :alkupnimi "Les Gï¿œants Pï¿œtrifiï¿œs"
                 :nimike "Piko ja Fantasio - Kivijättiläiset"
                 :julk "Tempo 2 Egmont - 2009"
-            }{
+            } {
                 :numero " "
                 :alkupnimi "La colère du Marsupilami"
                 :nimike "Pikon ja Fantasion uudet seikkailut 12: Marsupilamin raivo"
                 :julk "Egmont - 2016"
+            } {
+                :numero " "
+                :alkupnimi "Les folles aventures de Spirou"
+                :nimike "Pikon ja Fantasion uudet seikkailut 14: Ikuinen pikkolopoika ja muita tarinoita"
+                :julk "Egmont - 2018"
             }]
         } {
             :tekija "Le Gall, Frank"
