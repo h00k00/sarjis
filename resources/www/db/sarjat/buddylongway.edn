@@ -1,0 +1,47 @@
+{
+    :lehdennimi "Buddy Longway"
+    :tarinalista [{
+        :tekija "Derib"
+        :tarinat [{
+            :numero "1. "
+            :alkupnimi ""
+            :nimike "Buddy Longway kirjasto 1: Chinook"
+            :julk "Apollo - 2016"
+        } {
+            :numero "2. "
+            :alkupnimi ""
+            :nimike "Buddy Longway kirjasto 1: Vihollinen"
+            :julk "Apollo - 2016"
+        } {
+            :numero "3. "
+            :alkupnimi ""
+            :nimike "Buddy Longway kirjasto 1: Kolme miestä tuli kylään"
+            :julk "Apollo - 2016"
+        } {
+            :numero "4. "
+            :alkupnimi ""
+            :nimike "Buddy Longway kirjasto 1: Yksin"
+            :julk "Apollo - 2016"
+        } {
+            :numero "5. "
+            :alkupnimi ""
+            :nimike "Buddy Longway samlade äventyr II: Hemligheten"
+            :julk "Cobolt - 2020"
+        } {
+            :numero "6. "
+            :alkupnimi ""
+            :nimike "Buddy Longway samlade äventyr II: Älgen"
+            :julk "Cobolt - 2020"
+        } {
+            :numero "7. "
+            :alkupnimi ""
+            :nimike "Buddy Longway samlade äventyr II: Vildhästarna"
+            :julk "Cobolt - 2020"
+        } {
+            :numero "8. "
+            :alkupnimi ""
+            :nimike "Buddy Longway samlade äventyr II: Eldvattnet"
+            :julk "Cobolt - 2020"
+        }]
+    }]
+}
